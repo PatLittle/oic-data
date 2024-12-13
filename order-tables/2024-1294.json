@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1294</td><td>2024-12-09</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">First Nations Fiscal Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending and Repealing Certain Regulations Made Under the First Nations Fiscal Management Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending CERTAIN REGULATIONS MADE UNDER THE FIRST NATIONS FISCAL MANAGEMENT ACT in order to (1) update certain terminology to encompass the broader range of local services and projects eligible for financing under the Act; (2) clarify the debt reserve fund replenishment process for borrowing members (due to repayment default); (3) provide the option for compensation by the First Nations Finance Authority when the First Nations Financial Management Board is asked to intervene in a First Nation’s finances to provide support; (4) repeal the Financing Secured by Other Revenues Regulations given the content has been integrated into this Act and other First Nations Financial Management board regulations; and (5) make minor technical amendments to update references and to harmonize certain terms with those in the Act.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0255  <strong>Publication Date:</strong> 2024-12-18</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46396&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1294",
+  "date": "2024-12-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending CERTAIN REGULATIONS MADE UNDER THE FIRST NATIONS FISCAL MANAGEMENT ACT in order to (1) update certain terminology to encompass the broader range of local services and projects eligible for financing under the Act; (2) clarify the debt reserve fund replenishment process for borrowing members (due to repayment default); (3) provide the option for compensation by the First Nations Finance Authority when the First Nations Financial Management Board is asked to intervene in a First Nation’s finances to provide support; (4) repeal the Financing Secured by Other Revenues Regulations given the content has been integrated into this Act and other First Nations Financial Management board regulations; and (5) make minor technical amendments to update references and to harmonize certain terms with those in the Act.",
+  "registration": "Registration: SOR/ 2024-0255  Publication Date: 2024-12-18",
+  "registration_type": "SOR",
+  "registration_id": "2024-0255",
+  "registration_publication_date": "2024-12-18",
+  "attachments": [
+    "46396"
+  ],
+  "htmlHash": "1ef5917ad2775a1d15cf503dba1e12ba"
+}

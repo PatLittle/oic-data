@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1296</td><td>2024-12-09</td><td></td><td></td><td></td><td>IRCC</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Immigration and Refugee Protection Regulations (Information Sharing)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (INFORMATION SHARING) in order to (1) amend the Agreement between the Government of Canada and the Government of the United States of America for the Sharing of Visa and Immigration Information by amending definitions of (i) the term “Agreement” to mean the Amending Agreement signed in July 2024, and (ii) the term “national of a third country” to mean a person who is neither a Canadian citizen nor a citizen or national of the United States; and (2) allow the Minister to disclose information in response to a query made by the U.S. concerning nationals of a third country who have been issued or denied a document required to enter Canada as a temporary or permanent resident.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0257  <strong>Publication Date:</strong> 2024-12-18</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46398&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1296",
+  "date": "2024-12-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (INFORMATION SHARING) in order to (1) amend the Agreement between the Government of Canada and the Government of the United States of America for the Sharing of Visa and Immigration Information by amending definitions of (i) the term “Agreement” to mean the Amending Agreement signed in July 2024, and (ii) the term “national of a third country” to mean a person who is neither a Canadian citizen nor a citizen or national of the United States; and (2) allow the Minister to disclose information in response to a query made by the U.S. concerning nationals of a third country who have been issued or denied a document required to enter Canada as a temporary or permanent resident.",
+  "registration": "Registration: SOR/ 2024-0257  Publication Date: 2024-12-18",
+  "registration_type": "SOR",
+  "registration_id": "2024-0257",
+  "registration_publication_date": "2024-12-18",
+  "attachments": [
+    "46398"
+  ],
+  "htmlHash": "528936fe2cee69f3fea9cd79ce092aef"
+}

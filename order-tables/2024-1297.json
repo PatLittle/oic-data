@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1297</td><td>2024-12-09</td><td></td><td></td><td></td><td>PS, CBSA</td></tr><tr><td>Act</td><td colspan=\"6\">Immigration and Refugee Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Immigration and Refugee Protection Regulations (Ports of Entry)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (PORTS OF ENTRY) in order to make explicit the Minister’s authority to specify classes of persons who may access prescribed immigration services at a designated port of entry.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0258  <strong>Publication Date:</strong> 2024-12-18</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46399&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1297",
+  "date": "2024-12-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the IMMIGRATION AND REFUGEE PROTECTION REGULATIONS (PORTS OF ENTRY) in order to make explicit the Minister’s authority to specify classes of persons who may access prescribed immigration services at a designated port of entry.",
+  "registration": "Registration: SOR/ 2024-0258  Publication Date: 2024-12-18",
+  "registration_type": "SOR",
+  "registration_id": "2024-0258",
+  "registration_publication_date": "2024-12-18",
+  "attachments": [
+    "46399"
+  ],
+  "htmlHash": "166f12a7cd4cddb6abde1f147f8284f6"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1293</td><td>2024-12-09</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">An Act to amend the First Nations Fiscal Management Act, to make consequential amendments to other Acts, and to make a clarification relating to another Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing January 6, 2025 as the Day on Which Certain Provisions of An Act to amend the First Nations Fiscal Management Act, to make consequential amendments to other Acts, and to make a clarification relating to another Act Come into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing January 6, 2025 as the day on which certain provisions of AN ACT TO AMEND THE FIRST NATIONS FISCAL MANAGEMENT ACT, TO MAKE CONSEQUENTIAL AMENDMENTS TO OTHER ACTS, AND TO MAKE A CLARIFICATION RELATING TO ANOTHER ACT COME INTO FORCE.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46395&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1293",
+  "date": "2024-12-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing January 6, 2025 as the day on which certain provisions of AN ACT TO AMEND THE FIRST NATIONS FISCAL MANAGEMENT ACT, TO MAKE CONSEQUENTIAL AMENDMENTS TO OTHER ACTS, AND TO MAKE A CLARIFICATION RELATING TO ANOTHER ACT COME INTO FORCE.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46395"
+  ],
+  "htmlHash": "98f8f063039b7d89a8db4d71f027cdca"
+}

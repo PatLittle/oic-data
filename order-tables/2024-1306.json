@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1306</td><td>2024-12-09</td><td></td><td></td><td></td><td>IRCC, TB</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Certain Fees in Respect of the Issuance of Temporary Resident Visas for Certain Extended Family (Crisis in Gaza) Remission Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">CERTAIN FEES IN RESPECT OF THE ISSUANCE OF TEMPORARY RESIDENT VISAS FOR CERTAIN EXTENDED FAMILY (CRISIS IN GAZA) REMISSION ORDER in order to reimburse fees related to the temporary resident visas and all associated biometrics fees paid by Palestinian nationals and their immediate family members.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46408&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1306",
+  "date": "2024-12-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "CERTAIN FEES IN RESPECT OF THE ISSUANCE OF TEMPORARY RESIDENT VISAS FOR CERTAIN EXTENDED FAMILY (CRISIS IN GAZA) REMISSION ORDER in order to reimburse fees related to the temporary resident visas and all associated biometrics fees paid by Palestinian nationals and their immediate family members.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46408"
+  ],
+  "htmlHash": "109a48cc5c27a0539b539a0a37405b5b"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1303</td><td>2024-12-09</td><td></td><td></td><td></td><td>ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada Pension Plan Disability Pension, Post-retirement Disability Benefit, Disabled Contributor's Child's Benefit and Retirement Pension Overpayments Remission Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">CANADA PENSION PLAN DISABILITY PENSION, POST-RETIREMENT DISABILITY BENEFIT, DISABLED CONTRIBUTOR'S CHILD'S BENEFIT AND RETIREMENT PENSION OVERPAYMENTS REMISSIONS ORDER in order to allow for the remission of overpayments incurred by beneficiaries of the Canada Pension Plan (CPP) Disability Pension and the Post-retirement Disability Benefit (PRDB) and their dependent children for whom there was a delay in processing the reassessment of continuing eligibility.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46405&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1303",
+  "date": "2024-12-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "CANADA PENSION PLAN DISABILITY PENSION, POST-RETIREMENT DISABILITY BENEFIT, DISABLED CONTRIBUTOR'S CHILD'S BENEFIT AND RETIREMENT PENSION OVERPAYMENTS REMISSIONS ORDER in order to allow for the remission of overpayments incurred by beneficiaries of the Canada Pension Plan (CPP) Disability Pension and the Post-retirement Disability Benefit (PRDB) and their dependent children for whom there was a delay in processing the reassessment of continuing eligibility.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46405"
+  ],
+  "htmlHash": "0dd993d5910d28220519e6763a0fb3d0"
+}

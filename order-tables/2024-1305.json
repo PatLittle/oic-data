@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1305</td><td>2024-12-09</td><td></td><td></td><td></td><td>ECCC, PARKS</td></tr><tr><td>Act</td><td colspan=\"6\">Heritage Railway Stations  Protection Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing Canadian Pacific Railway Company to make Alterations to its Cambridge Railway Stations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing CANADIAN PACIFIC RAILWAY COMPANY to make alterations to its railway station located at 10 Front Street, Cambridge, Ontario to repair or replace exterior windows and trim, and replace interior windows.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46407&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1305",
+  "date": "2024-12-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing CANADIAN PACIFIC RAILWAY COMPANY to make alterations to its railway station located at 10 Front Street, Cambridge, Ontario to repair or replace exterior windows and trim, and replace interior windows.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46407"
+  ],
+  "htmlHash": "1290b7f62e477492eb3a732e1957a090"
+}

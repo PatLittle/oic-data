@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1328</td><td>2024-12-16</td><td></td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Energy Regulator Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada Offshore Renewable Energy Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">CANADA OFFSHORE RENEWABLE ENERGY REGULATIONS  in order to operationalize Part 5 of the Canadian Energy Regulator Act by establishing comprehensive requirements respecting work and activities related to offshore renewable energy projects and offshore power lines for the purposes of safety, security, and environmental protection.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0272  <strong>Publication Date:</strong> 2025-01-01</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46436&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1328",
+  "date": "2024-12-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "CANADA OFFSHORE RENEWABLE ENERGY REGULATIONS  in order to operationalize Part 5 of the Canadian Energy Regulator Act by establishing comprehensive requirements respecting work and activities related to offshore renewable energy projects and offshore power lines for the purposes of safety, security, and environmental protection.",
+  "registration": "Registration: SOR/ 2024-0272  Publication Date: 2025-01-01",
+  "registration_type": "SOR",
+  "registration_id": "2024-0272",
+  "registration_publication_date": "2025-01-01",
+  "attachments": [
+    "46436"
+  ],
+  "htmlHash": "83931ad3ea56e502fd2ae9d28a6d3ffa"
+}

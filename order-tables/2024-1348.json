@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1348</td><td>2024-12-16</td><td></td><td></td><td></td><td>CIRNAC</td></tr><tr><td>Act</td><td colspan=\"6\">Yukon Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Public real properties located in the town of Faro ** Transfer **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the relinquishment by the Commissioner of Yukon of the administration and control of four public real properties in the town of Faro and identifies the Minister of Northern Affairs as the federal minister responsible for the administration of those properties.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46464&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1348",
+  "date": "2024-12-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the relinquishment by the Commissioner of Yukon of the administration and control of four public real properties in the town of Faro and identifies the Minister of Northern Affairs as the federal minister responsible for the administration of those properties.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46464"
+  ],
+  "htmlHash": "9aed46d1d37129681e33eb3d88679af9"
+}

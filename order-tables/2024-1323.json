@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1323</td><td>2024-12-16</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Made Under the Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending CERTAIN REGULATIONS MADE UNDER THE PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ACT in order to (1) extend application of Canada's anti-money laundering and anti-terrorist financing (AML/ATF) regime to the white-label ATM sector by requiring acquirers offering cash withdrawal services to white-label ATMs to meet record keeping and the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) reporting requirements; (2) expand the application of the AML/ATF regime within the real estate sector by requiring title insurers to develop an AML/ATF compliance program, meet identity verification and recordkeeping requirements, submit reports to FINTRAC such as suspicious transaction reports and follow ministerial directives; and (3) strengthen casino disbursement reporting by requiring casinos to report on the ultimate beneficiary of casino disbursements of $10,000 or more.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0267  <strong>Publication Date:</strong> 2025-01-01</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46431&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1323",
+  "date": "2024-12-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending CERTAIN REGULATIONS MADE UNDER THE PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ACT in order to (1) extend application of Canada's anti-money laundering and anti-terrorist financing (AML/ATF) regime to the white-label ATM sector by requiring acquirers offering cash withdrawal services to white-label ATMs to meet record keeping and the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) reporting requirements; (2) expand the application of the AML/ATF regime within the real estate sector by requiring title insurers to develop an AML/ATF compliance program, meet identity verification and recordkeeping requirements, submit reports to FINTRAC such as suspicious transaction reports and follow ministerial directives; and (3) strengthen casino disbursement reporting by requiring casinos to report on the ultimate beneficiary of casino disbursements of $10,000 or more.",
+  "registration": "Registration: SOR/ 2024-0267  Publication Date: 2025-01-01",
+  "registration_type": "SOR",
+  "registration_id": "2024-0267",
+  "registration_publication_date": "2025-01-01",
+  "attachments": [
+    "46431"
+  ],
+  "htmlHash": "8b4ade4d942bfb4bc9f7df86190dc26d"
+}

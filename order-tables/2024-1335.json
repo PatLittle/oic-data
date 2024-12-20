@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1335</td><td>2024-12-16</td><td></td><td></td><td></td><td>ISC</td></tr><tr><td>Act</td><td colspan=\"6\">First Nations Oil and Gas and Moneys Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the First Nations Oil and Gas and Moneys Management Voting Regulations (Miscellaneous Program)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending the FIRST NATIONS OIL AND GAS AND MONEYS MANAGEMENT VOTING REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) capitalize \"First Nation\" in the English version; (2) ensure alignment with current organizational structure, \"Assistant Deputy Minister means the Assistant Deputy Minister, Lands and Trusts Services, Department of Indian Affairs and Northern Development\" is changed to \"Assistant Deputy Minister means Assistant Deputy Minister, Lands and Economic Development, Departmetn of Indigenous Services\" and \"Senior Assistant Deputy Minister means Senior Assistant Deputy Minsiter, Regional Operations Sector, Department of Indigenous Services\" is also added; (3) clarify that First Nation (uppercase) in the Regulations and first nation (lowercase) in the Act have the same meaning; (4) change references to the \"Department of Indian Affairs and Northern Development\" to the \"Department of Indigenous Services\"; (5) align with current organizational structure, \"Assistant Deputy Minister\" is changed to \"Assistant Deputy Minister or Senior Assistant Deputy Minister\" in certain sections; (6) ensure the process is clear, precision is added to the provision relating to vote review requests.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0279  <strong>Publication Date:</strong> 2025-01-01</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46443&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1335",
+  "date": "2024-12-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending the FIRST NATIONS OIL AND GAS AND MONEYS MANAGEMENT VOTING REGULATIONS (MISCELLANEOUS PROGRAM) in order to (1) capitalize \"First Nation\" in the English version; (2) ensure alignment with current organizational structure, \"Assistant Deputy Minister means the Assistant Deputy Minister, Lands and Trusts Services, Department of Indian Affairs and Northern Development\" is changed to \"Assistant Deputy Minister means Assistant Deputy Minister, Lands and Economic Development, Departmetn of Indigenous Services\" and \"Senior Assistant Deputy Minister means Senior Assistant Deputy Minsiter, Regional Operations Sector, Department of Indigenous Services\" is also added; (3) clarify that First Nation (uppercase) in the Regulations and first nation (lowercase) in the Act have the same meaning; (4) change references to the \"Department of Indian Affairs and Northern Development\" to the \"Department of Indigenous Services\"; (5) align with current organizational structure, \"Assistant Deputy Minister\" is changed to \"Assistant Deputy Minister or Senior Assistant Deputy Minister\" in certain sections; (6) ensure the process is clear, precision is added to the provision relating to vote review requests.",
+  "registration": "Registration: SOR/ 2024-0279  Publication Date: 2025-01-01",
+  "registration_type": "SOR",
+  "registration_id": "2024-0279",
+  "registration_publication_date": "2025-01-01",
+  "attachments": [
+    "46443"
+  ],
+  "htmlHash": "e1336317d9b2e6f00c8fb0fe4817040c"
+}

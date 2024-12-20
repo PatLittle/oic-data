@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1331</td><td>2024-12-16</td><td></td><td></td><td></td><td>HC, ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Adding a Toxic Substance to Part 2 of Schedule 1 to the Canadian Environmental Protection Act, 1999</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">ORDER ADDING A TOXIC SUBSTANCE TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 (CEPA) in order to add coal tars to the Schedule.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2024-0275  <strong>Publication Date:</strong> 2025-01-01</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46439&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1331",
+  "date": "2024-12-16",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER ADDING A TOXIC SUBSTANCE TO SCHEDULE 1 TO THE CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999 (CEPA) in order to add coal tars to the Schedule.",
+  "registration": "Registration: SOR/ 2024-0275  Publication Date: 2025-01-01",
+  "registration_type": "SOR",
+  "registration_id": "2024-0275",
+  "registration_publication_date": "2025-01-01",
+  "attachments": [
+    "46439"
+  ],
+  "htmlHash": "048b1e4d286b992dafc507f94467638d"
+}

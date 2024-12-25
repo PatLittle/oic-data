@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2024-1416</td><td>2024-12-20</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Parliament of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Terminate the appointment of RACHEL BENDAYAN as Parliamentary Secretary to the Minister of Finance made by Order in Council P.C. 2024-1009 of September 16, 2024; terminate the appointment of ÉLISABETH BRIÈRE as Parliamentary Secretary to the Minister of Families, Children and Social Development and to the Minister of Mental Health and Addictions and Associate Minister of Health made by Order in Council P.C. 2024-1009 of September 16, 2024; and terminate the appointment of TERRY DUGUID as Parliamentary Secretary to the Prime Minister and to the Minister of the Environment made by Order in Council P.C. 2024-1009 of September 16, 2024.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46544&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2024-1416",
+  "date": "2024-12-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Terminate the appointment of RACHEL BENDAYAN as Parliamentary Secretary to the Minister of Finance made by Order in Council P.C. 2024-1009 of September 16, 2024; terminate the appointment of ÉLISABETH BRIÈRE as Parliamentary Secretary to the Minister of Families, Children and Social Development and to the Minister of Mental Health and Addictions and Associate Minister of Health made by Order in Council P.C. 2024-1009 of September 16, 2024; and terminate the appointment of TERRY DUGUID as Parliamentary Secretary to the Prime Minister and to the Minister of the Environment made by Order in Council P.C. 2024-1009 of September 16, 2024.",
+  "registration": "Registration: UNR/ ",
+  "registration_type": "UNR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46544"
+  ],
+  "htmlHash": "26c69a463fe3cf1897bf768134c20d7e"
+}

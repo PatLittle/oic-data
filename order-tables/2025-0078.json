@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0078</td><td>2025-02-05</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Agreement between the Government of Canada and the Government of the Republic of Korea on Cooperation in Audiovisual Coproduction</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs, to SIGN, on behalf of the Government of Canada, subject to ratification, the AGREEMENT BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE REPUBLIC OF KOREA ON COOPERATION IN AUDIOVISUAL COPRODUCTION.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46669&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0078",
+  "date": "2025-02-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs, to SIGN, on behalf of the Government of Canada, subject to ratification, the AGREEMENT BETWEEN THE GOVERNMENT OF CANADA AND THE GOVERNMENT OF THE REPUBLIC OF KOREA ON COOPERATION IN AUDIOVISUAL COPRODUCTION.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46669"
+  ],
+  "htmlHash": "7440e64ee25bb49c905a447db20c0b3a"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0027</td><td>2025-01-24</td><td></td><td></td><td></td><td>IC</td></tr><tr><td>Act</td><td colspan=\"6\">Standards Council of Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Designation of MICHAEL KEVIN  BURNS of Yellowknife, Northwest Territories, a member of the Standards Council of Canada, as Vice-Chairperson of the Standards Council of Canada, to hold office during pleasure for a term ending on October 13, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46614&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0027",
+  "date": "2025-01-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Designation of MICHAEL KEVIN  BURNS of Yellowknife, Northwest Territories, a member of the Standards Council of Canada, as Vice-Chairperson of the Standards Council of Canada, to hold office during pleasure for a term ending on October 13, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46614"
+  ],
+  "htmlHash": "579f26071816fb69cff2e9f80e0e847c"
+}

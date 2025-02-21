@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0088</td><td>2025-02-12</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Parliamentary Employment and Staff Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Designating the Minister of State (Federal Economic Development Agency for Southern Ontario) as the Minister for the Purposes of the Parliamentary Employment and Staff Relations Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing Order in Council P.C. 2023-1067 of October 27, 2023; and (2) designating the Minister of STATE (FEDERAL ECONOMIC DEVELOPMENT AGENCY FOR SOUTHERN ONTARIO) as the Minister for the purposes of the Parliamentary Employment and Staff Relations Act.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46749&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0088",
+  "date": "2025-02-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing Order in Council P.C. 2023-1067 of October 27, 2023; and (2) designating the Minister of STATE (FEDERAL ECONOMIC DEVELOPMENT AGENCY FOR SOUTHERN ONTARIO) as the Minister for the purposes of the Parliamentary Employment and Staff Relations Act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46749"
+  ],
+  "htmlHash": "f56728a0092637b37a26ed0c3fe3d02c"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0076</td><td>2025-02-05</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Trademarks Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Trademarks Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the TRADEMARKS REGULATIONS in order to (1) implement a costs awards regime to discourage and prevent undesirable behaviours in proceedings and incentivize parties to efficiently advance proceedings; (2) set out how a party to a proceeding before the Trademarks Opposition Board would be able to request an order that some evidence be kept confidential; (3) clarify how case management may be used in proceedings; and (4) create a simple mechanism for the Registrar of Trademarks to give public notice that the provision related to official marks does not apply with respect to a particular mark in specific circumstances.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0019  <strong>Publication Date:</strong> 2025-02-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46667&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0076",
+  "date": "2025-02-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the TRADEMARKS REGULATIONS in order to (1) implement a costs awards regime to discourage and prevent undesirable behaviours in proceedings and incentivize parties to efficiently advance proceedings; (2) set out how a party to a proceeding before the Trademarks Opposition Board would be able to request an order that some evidence be kept confidential; (3) clarify how case management may be used in proceedings; and (4) create a simple mechanism for the Registrar of Trademarks to give public notice that the provision related to official marks does not apply with respect to a particular mark in specific circumstances.",
+  "registration": "Registration: SOR/ 2025-0019  Publication Date: 2025-02-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0019",
+  "registration_publication_date": "2025-02-26",
+  "attachments": [
+    "46667"
+  ],
+  "htmlHash": "a934fb73e0addb7c594d4a57082da33b"
+}

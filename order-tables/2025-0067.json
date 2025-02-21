@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0067</td><td>2025-01-31</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Name Change of the Fort Saskatchewan &amp; District Chamber of Commerce</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the application of the Fort Saskatchewan &amp; District Chamber of Commerce, in Alberta, to CHANGE ITS NAME to the “FORT SASKATCHEWAN &amp; LAMONT COUNTY REGIONAL CHAMBER OF COMMERCE”.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46656&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0067",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the application of the Fort Saskatchewan & District Chamber of Commerce, in Alberta, to CHANGE ITS NAME to the “FORT SASKATCHEWAN & LAMONT COUNTY REGIONAL CHAMBER OF COMMERCE”.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46656"
+  ],
+  "htmlHash": "fff6a5a18d5dca30be9d83e99079daba"
+}

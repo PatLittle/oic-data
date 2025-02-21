@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0071</td><td>2025-01-31</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Official Residences Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order in Council P.C. 2024-1222 of November 14, 2024, by amending the remuneration of Bryan Le, Messenger at the Prime Minister’s residence.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46664&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0071",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order in Council P.C. 2024-1222 of November 14, 2024, by amending the remuneration of Bryan Le, Messenger at the Prime Minister’s residence.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46664"
+  ],
+  "htmlHash": "880fccfc87f4902f1d1aa6a744bccd2e"
+}

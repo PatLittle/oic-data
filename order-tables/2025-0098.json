@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0098</td><td>2025-02-14</td><td></td><td></td><td></td><td>PPC, PSC</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Employment Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Exclusion Approval Order for Certain Former Members of the Canadian Forces</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">EXCLUSION APPROVAL ORDER FOR CERTAIN FORMER MEMBERS OF THE CANADIAN FORCES in order to exclude eligible former members of the Canadian Forces who completed their third year of service and were honourably released within the meaning of the regulations made under the National Defence Act during the period of November 13, 2020 to January 18 2024, and who had created a Public Service Resourcing System (GC Jobs) account before January 19, 2024, from the application of section 35.11 of the Public Service Employement Act relating to mobility entitlement.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SI/ 2025-0020  <strong>Publication Date:</strong> 2025-02-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46691&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0098",
+  "date": "2025-02-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "EXCLUSION APPROVAL ORDER FOR CERTAIN FORMER MEMBERS OF THE CANADIAN FORCES in order to exclude eligible former members of the Canadian Forces who completed their third year of service and were honourably released within the meaning of the regulations made under the National Defence Act during the period of November 13, 2020 to January 18 2024, and who had created a Public Service Resourcing System (GC Jobs) account before January 19, 2024, from the application of section 35.11 of the Public Service Employement Act relating to mobility entitlement.",
+  "registration": "Registration: SI/ 2025-0020  Publication Date: 2025-02-26",
+  "registration_type": "SI",
+  "registration_id": "2025-0020",
+  "registration_publication_date": "2025-02-26",
+  "attachments": [
+    "46691"
+  ],
+  "htmlHash": "b20a27ac454ce0f93376e6f2f2e19408"
+}

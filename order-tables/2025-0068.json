@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0068</td><td>2025-01-31</td><td></td><td></td><td></td><td>IT, GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Appointment of the auditor of FinDev Canada for the fiscal year of 2025</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Appointing THE AUDITOR GENERAL OF CANADA as AUDITOR of the EXPORT DEVELOPMENT CANADA’S WHOLLY OWNED SUBSIDIARY, THE DEVELOPMENT FINANCE INSTITUTE CANADA (FINDEV CANADA), for the fiscal year ending on December 31, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46657&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0068",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Appointing THE AUDITOR GENERAL OF CANADA as AUDITOR of the EXPORT DEVELOPMENT CANADA’S WHOLLY OWNED SUBSIDIARY, THE DEVELOPMENT FINANCE INSTITUTE CANADA (FINDEV CANADA), for the fiscal year ending on December 31, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46657"
+  ],
+  "htmlHash": "c94e444a034e59555ff9131e70883722"
+}

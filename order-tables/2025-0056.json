@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0056</td><td>2025-01-31</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Post Corporation Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing the Minister of Finance to Provide Financial Assistance to the Canada Post Corporation for the period beginning April 1, 2025 and ending on March 31, 2026</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Finance to provide FINANCIAL ASSISTANCE TO THE CANADA POST CORPORATION for the period beginning April 1, 2025 and ending on March 31, 2026, to a maximum of $1.034 billion in order to enable it to meet all its operating and income charges during this period.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>UNR/ </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46644&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0056",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Finance to provide FINANCIAL ASSISTANCE TO THE CANADA POST CORPORATION for the period beginning April 1, 2025 and ending on March 31, 2026, to a maximum of $1.034 billion in order to enable it to meet all its operating and income charges during this period.",
+  "registration": "Registration: UNR/ ",
+  "registration_type": "UNR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46644"
+  ],
+  "htmlHash": "48777f0d6015ebedc3353b37ab42d288"
+}

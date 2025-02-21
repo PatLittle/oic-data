@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0062</td><td>2025-01-31</td><td></td><td></td><td></td><td>PSPC</td></tr><tr><td>Act</td><td colspan=\"6\">National Capital Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving that the NCC Extend the Lease with Marc G. Sauvé Professional Corporation</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving that the NATIONAL CAPITAL COMMISSION grant one option to extend the lease with MARC G. SAUVÉ PROFESSIONAL CORPORATION, for a period of five years, beginning on December 1, 2028, for the real property located at 283 Sussex Drive, in Ottawa, Ontario.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46650&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0062",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving that the NATIONAL CAPITAL COMMISSION grant one option to extend the lease with MARC G. SAUVÉ PROFESSIONAL CORPORATION, for a period of five years, beginning on December 1, 2028, for the real property located at 283 Sussex Drive, in Ottawa, Ontario.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46650"
+  ],
+  "htmlHash": "f29e308c9479d9cbca512fb8e7c131f0"
+}

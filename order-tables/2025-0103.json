@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0103</td><td>2025-02-14</td><td></td><td></td><td></td><td>TC, FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Marine Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Trois-Rivières Port Authority  ** LETTERS PATENT ** **AMENDMENT**</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the SUPPLEMENTARY LETTERS PATENT provision in order to increase the aggregate limit on the power of the TROIS-RIVIÈRES PORT AUTHORITY to borrow money on its credit for port purposes from $42 million to $62 million.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46696&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0103",
+  "date": "2025-02-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the SUPPLEMENTARY LETTERS PATENT provision in order to increase the aggregate limit on the power of the TROIS-RIVIÈRES PORT AUTHORITY to borrow money on its credit for port purposes from $42 million to $62 million.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46696"
+  ],
+  "htmlHash": "679e9b58ea1dd22ea94cacfdad929edb"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0043</td><td>2025-01-24</td><td></td><td></td><td></td><td>HC, SNRS</td></tr><tr><td>Act</td><td colspan=\"6\">Order in Council P.C. 2007-281 of March 2, 2007</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of CHRISTINE ELIZABETH ANNE KELLY of Winnipeg, Manitoba, to be a member of the National Seniors Council, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46630&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0043",
+  "date": "2025-01-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of CHRISTINE ELIZABETH ANNE KELLY of Winnipeg, Manitoba, to be a member of the National Seniors Council, to hold office during pleasure for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46630"
+  ],
+  "htmlHash": "cb5cd7bb440e041e3fc6d01b1c4c3601"
+}

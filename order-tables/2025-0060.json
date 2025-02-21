@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0060</td><td>2025-01-31</td><td></td><td></td><td></td><td>ISED, NRC</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">NRC and RCEA -  Technical Category Group  ** COLLECTIVE AGREEMENT **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the ENTRY by National Research Council of Canada into a COLLECTIVE AGREEMENT with the Research Council Employees’ Association that covers all employees in the TECHNICAL CATEGORY Group bargaining unit, for the period beginning on April 1, 2022 and ending on March 31, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46648&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0060",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the ENTRY by National Research Council of Canada into a COLLECTIVE AGREEMENT with the Research Council Employees’ Association that covers all employees in the TECHNICAL CATEGORY Group bargaining unit, for the period beginning on April 1, 2022 and ending on March 31, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46648"
+  ],
+  "htmlHash": "662b02d096b2278af3d2e1993097e51b"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0073</td><td>2025-02-03</td><td></td><td></td><td></td><td>FIN, GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Repealing the United States Surtax Order (2025)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order repealing the UNITED STATES SURTAX ORDER (2025) in order to repeal Order in COuncil P.C. 2025-72 of February 1, 2025.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0016 </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46661&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0073",
+  "date": "2025-02-03",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order repealing the UNITED STATES SURTAX ORDER (2025) in order to repeal Order in COuncil P.C. 2025-72 of February 1, 2025.",
+  "registration": "Registration: SOR/ 2025-0016 ",
+  "registration_type": "SOR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46661"
+  ],
+  "htmlHash": "71abba0d31351cd37c44b2840c0b3ab5"
+}

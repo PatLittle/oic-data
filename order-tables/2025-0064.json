@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0064</td><td>2025-01-31</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Change of boundary of the Fort Saskatchewan &amp; District Chamber of Commerce, in Alberta</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the application by the FORT SASKATCHEWAN &amp; DISTRICT CHAMBER OF COMMERCE, in Alberta, to CHANGE THE BOUNDARIES of its district from the limits of a ten-mile radius of the Town of Fort Saskatchewan excepting thereof all that portion lying South of a line drawn parallel to Highway 16 and two miles North thereof and those areas included in the corporate limits of the city of Edmonton to the limits of a 16 km radius of the City of Fort Saskatchewan, with the exception of: the portion lying west of Highway 28, the portion lying south of Highway 37 to Highway 28A, the portion west of a line from Highway 28A to the intersection of HIghway 21 and Township Road 534, the portion lying south of Township Road 534 to Highway 830 and Lamont County with the exception of: Whitford, Shandro, the Lamont County boundaries lying east of Range Road 160 and the Lamont County boundaries lying south of Highway 16.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46652&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0064",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the application by the FORT SASKATCHEWAN & DISTRICT CHAMBER OF COMMERCE, in Alberta, to CHANGE THE BOUNDARIES of its district from the limits of a ten-mile radius of the Town of Fort Saskatchewan excepting thereof all that portion lying South of a line drawn parallel to Highway 16 and two miles North thereof and those areas included in the corporate limits of the city of Edmonton to the limits of a 16 km radius of the City of Fort Saskatchewan, with the exception of: the portion lying west of Highway 28, the portion lying south of Highway 37 to Highway 28A, the portion west of a line from Highway 28A to the intersection of HIghway 21 and Township Road 534, the portion lying south of Township Road 534 to Highway 830 and Lamont County with the exception of: Whitford, Shandro, the Lamont County boundaries lying east of Range Road 160 and the Lamont County boundaries lying south of Highway 16.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46652"
+  ],
+  "htmlHash": "84da5d830649237a57be016007fed3fa"
+}

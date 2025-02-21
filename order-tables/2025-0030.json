@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0030</td><td>2025-01-24</td><td></td><td></td><td></td><td>IC</td></tr><tr><td>Act</td><td colspan=\"6\">Natural Sciences and Engineering Research Council Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of NUR ZINCIR-HEYWOOD of Halifax, Nova Scotia, to be a member of the Natural Sciences and Engineering Research Council, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46617&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0030",
+  "date": "2025-01-24",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of NUR ZINCIR-HEYWOOD of Halifax, Nova Scotia, to be a member of the Natural Sciences and Engineering Research Council, to hold office during pleasure for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46617"
+  ],
+  "htmlHash": "d8b6e3082096cf1a4ab0845eaa64cd37"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0057</td><td>2025-01-31</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">European Bank for Reconstruction and Development **Agreement**</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to take the actions necessary to accept, on behalf of Canada, the AMENDMENTS TO THE AGREEMENT ESTABLISHING THE EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT, adopted by the Boad of Governors of the European Bank for Reconstruction and Development on May 18, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46645&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0057",
+  "date": "2025-01-31",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs to take the actions necessary to accept, on behalf of Canada, the AMENDMENTS TO THE AGREEMENT ESTABLISHING THE EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT, adopted by the Boad of Governors of the European Bank for Reconstruction and Development on May 18, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46645"
+  ],
+  "htmlHash": "5c5923bd1eef4d47cce04398c8fa9ddc"
+}

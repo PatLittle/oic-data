@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0006</td><td>2025-01-09</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Amendment to Order in Council P.C. 2024-1288 of December 5, 2024 by replacing “of the city of Toronto\" with “of the city of Oakville\". (Gordon J. Cudjoe)</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46569&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0006",
+  "date": "2025-01-09",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 2024-1288 of December 5, 2024 by replacing “of the city of Toronto\" with “of the city of Oakville\". (Gordon J. Cudjoe)",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46569"
+  ],
+  "htmlHash": "5369b3b52af599ca2abb64ae4cc71b7e"
+}

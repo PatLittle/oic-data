@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0175</td><td>2025-02-25</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Federal-Provincial Fiscal Arrangements Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the Agreement Concerning the Interpretation and Application of Section 25 of the Canada-Quebec Comprehensive Integrated Tax Coordination Agreement</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Finance to enter into an Agreement  Concerning the Interpretation and Application of Section 25 of the Canada-Quebec COMPREHENSIVE INTEGRATED TAX COORDINATION AGREEMENT in order to to lower the provisional adjustment factor from 6.6% to 4.0%, for the interim years 2024, 2025, 2026, and 2027.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46829&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0175",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Finance to enter into an Agreement  Concerning the Interpretation and Application of Section 25 of the Canada-Quebec COMPREHENSIVE INTEGRATED TAX COORDINATION AGREEMENT in order to to lower the provisional adjustment factor from 6.6% to 4.0%, for the interim years 2024, 2025, 2026, and 2027.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46829"
+  ],
+  "htmlHash": "e8e843b0ec4425b2bdadd96a869a81dd"
+}

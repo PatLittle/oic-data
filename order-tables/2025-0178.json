@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0178</td><td>2025-02-25</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Agreement between Canada and Ukraine on Mutual Administrative Assistance in Customs Matters</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to SIGN, on behalf of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND UKRAINE ON MUTUAL ADMINISTRATIVE ASSISTANCE IN CUSTOMS MATTERS.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46826&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0178",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to SIGN, on behalf of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND UKRAINE ON MUTUAL ADMINISTRATIVE ASSISTANCE IN CUSTOMS MATTERS.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46826"
+  ],
+  "htmlHash": "f6faddb9c797ef9dd4f2c3223af0c544"
+}

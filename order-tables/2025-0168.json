@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0168</td><td>2025-02-25</td><td></td><td></td><td></td><td>HC</td></tr><tr><td>Act</td><td colspan=\"6\">Cannabis Act<br>Food and Drugs Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Certain Regulations Concerning Cannabis (Streamlining of Requirements)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">REGULATIONS AMENDING CERTAIN REGULATIONS CONCERNING CANNABIS (STREAMLINING OF REQUIREMENTS) in order to reduce regulatory and administrative burden faced by licence holders  under five priority areas, including licensing, personnel and physical security measures, production requirements, packaging and labelling requirements and record-keeping and reporting.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0043  <strong>Publication Date:</strong> 2025-03-12</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46836&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0168",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "REGULATIONS AMENDING CERTAIN REGULATIONS CONCERNING CANNABIS (STREAMLINING OF REQUIREMENTS) in order to reduce regulatory and administrative burden faced by licence holders  under five priority areas, including licensing, personnel and physical security measures, production requirements, packaging and labelling requirements and record-keeping and reporting.",
+  "registration": "Registration: SOR/ 2025-0043  Publication Date: 2025-03-12",
+  "registration_type": "SOR",
+  "registration_id": "2025-0043",
+  "registration_publication_date": "2025-03-12",
+  "attachments": [
+    "46836"
+  ],
+  "htmlHash": "e202be9fa4b4cf166cb2ed9dd50eac82"
+}

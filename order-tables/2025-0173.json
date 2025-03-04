@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0173</td><td>2025-02-25</td><td>20</td><td>2024</td><td></td><td>ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Economic Action Plan 2014 Act, No. 1</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Fixing October 1, 2025 as the Day on Which Division 27 of the Economic Action Plan 2014, No. 1 Comes into Force</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing October 1, 2025 as the day on which Division 27 of the ECONOMIC ACTION PLAN 2014 ACT, NO.1, COMES INTO FORCE, in order to amend the Old Age Security Act (OAS Act).</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46831&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0173",
+  "date": "2025-02-25",
+  "chapter": "20",
+  "bill": "2024",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing October 1, 2025 as the day on which Division 27 of the ECONOMIC ACTION PLAN 2014 ACT, NO.1, COMES INTO FORCE, in order to amend the Old Age Security Act (OAS Act).",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46831"
+  ],
+  "htmlHash": "bd248ac685e78e15110f5c2c064099c1"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0177</td><td>2025-02-25</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Nunavut Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Government of the Nunavut Borrowing Limit ** Increase **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing an increase to the Government of Nunavut's borrowing limit to $1.05 billion from $750 million.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46827&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0177",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing an increase to the Government of Nunavut's borrowing limit to $1.05 billion from $750 million.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46827"
+  ],
+  "htmlHash": "2d7ea77c59fcff54dd0702ca354fc5c9"
+}

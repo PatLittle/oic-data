@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0162</td><td>2025-02-25</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Environmental Protection Act, 1999</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Declaring that the Regulations Respecting Reduction in the Release of Methane and Certain Volatile Organic Compounds (Upstream Oil and Gas Sector) Do Not Apply in British Columbia, 2025</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">ORDER DECLARING THAT THE REGULATIONS RESPECTING REDUCTION IN THE RELEASE OF METHANE AND CERTAIN VOLATILE ORGANIC COMPOUNDS (UPSTREAM OIL AND GAS SECTOR) DO NOT APPLY IN BRITISH COLUMBIA, 2025 in order to suspend the application of the Federal Regulations in British Columbia with the exception of federal works or undertakings as defined in subsection 3(1) of the Act.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0037  <strong>Publication Date:</strong> 2025-03-12</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46842&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0162",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "ORDER DECLARING THAT THE REGULATIONS RESPECTING REDUCTION IN THE RELEASE OF METHANE AND CERTAIN VOLATILE ORGANIC COMPOUNDS (UPSTREAM OIL AND GAS SECTOR) DO NOT APPLY IN BRITISH COLUMBIA, 2025 in order to suspend the application of the Federal Regulations in British Columbia with the exception of federal works or undertakings as defined in subsection 3(1) of the Act.",
+  "registration": "Registration: SOR/ 2025-0037  Publication Date: 2025-03-12",
+  "registration_type": "SOR",
+  "registration_id": "2025-0037",
+  "registration_publication_date": "2025-03-12",
+  "attachments": [
+    "46842"
+  ],
+  "htmlHash": "1e446c1a57770cb741e06104be4e6824"
+}

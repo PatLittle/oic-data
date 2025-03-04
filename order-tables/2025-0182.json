@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0182</td><td>2025-02-25</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Firearms Act</td></tr><tr><td>Subject</td><td colspan=\"6\">United States Enforcement Officers Exemption Order, 2025 (Marine Transportation of Firearms)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">UNITED STATES ENFORCEMENT OFFICERS EXEMPTION ORDER, 2025 (MARINE TRANSPORTATION OF FIREARMS) in order to extend it for an additional five years to March 31, 2030.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46822&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0182",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "UNITED STATES ENFORCEMENT OFFICERS EXEMPTION ORDER, 2025 (MARINE TRANSPORTATION OF FIREARMS) in order to extend it for an additional five years to March 31, 2030.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46822"
+  ],
+  "htmlHash": "acbb9bd7018833318531ea4a01fef209"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0165</td><td>2025-02-25</td><td></td><td></td><td></td><td>FIN, MINT</td></tr><tr><td>Act</td><td colspan=\"6\">Royal Canadian Mint Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Authorizing the Issue of Two Two-dollar Commemorative Circulation Coins Specifying the Characteristics and Determining the Designs (Tomb of Unknown Soldier)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Royal Canadian Mint to produce two TWO-DOLLAR commemorative circulation coins in order to honour Canada’s Unknown Soldier and to recognize all of those who have died serving, as well as all those who serve, or have served, Canada in a military capacity.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0040  <strong>Publication Date:</strong> 2025-03-12</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46839&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0165",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Royal Canadian Mint to produce two TWO-DOLLAR commemorative circulation coins in order to honour Canada’s Unknown Soldier and to recognize all of those who have died serving, as well as all those who serve, or have served, Canada in a military capacity.",
+  "registration": "Registration: SOR/ 2025-0040  Publication Date: 2025-03-12",
+  "registration_type": "SOR",
+  "registration_id": "2025-0040",
+  "registration_publication_date": "2025-03-12",
+  "attachments": [
+    "46839"
+  ],
+  "htmlHash": "3321895817e7be374d024cf976729b5f"
+}

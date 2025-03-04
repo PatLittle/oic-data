@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0176</td><td>2025-02-25</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Northwest Territories Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Government of the Northwest Territories Borrowing Limit ** Increase **</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing an increase to the Government of  Northwest Territories' borrowing limit to $3.1 billion from $ 1.8 billion.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46828&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0176",
+  "date": "2025-02-25",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing an increase to the Government of  Northwest Territories' borrowing limit to $3.1 billion from $ 1.8 billion.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46828"
+  ],
+  "htmlHash": "1b0eb4b6794a316e19abd1de9f3e4a36"
+}

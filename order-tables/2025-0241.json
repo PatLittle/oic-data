@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0241</td><td>2025-02-28</td><td></td><td></td><td></td><td>PCH</td></tr><tr><td>Act</td><td colspan=\"6\">Museums Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Approval of the appointment by the Minister of Canadian Heritage of GUY LEVESQUE of Calgary, Alberta, to be a trustee of the Board of Trustees of the Canadian Museum of Nature, to hold office during pleasure for a term of four years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46903&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0241",
+  "date": "2025-02-28",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Approval of the appointment by the Minister of Canadian Heritage of GUY LEVESQUE of Calgary, Alberta, to be a trustee of the Board of Trustees of the Canadian Museum of Nature, to hold office during pleasure for a term of four years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46903"
+  ],
+  "htmlHash": "f8d2ec406063fe4ab2ace601c1a30571"
+}

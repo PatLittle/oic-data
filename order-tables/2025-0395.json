@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0395</td><td>2025-03-07</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Employment Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of HONOURABLE LISE MAISONNEUVE of Ottawa, Ontario, as a special adviser to the Minister of Sport and Physical Activity, to be known as Commissioner, to hold office during pleasure for a term of ending on March 31,2026 on a full-time basis, effective May 9, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47090&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0395",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of HONOURABLE LISE MAISONNEUVE of Ottawa, Ontario, as a special adviser to the Minister of Sport and Physical Activity, to be known as Commissioner, to hold office during pleasure for a term of ending on March 31,2026 on a full-time basis, effective May 9, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47090"
+  ],
+  "htmlHash": "f201ae503f6480e0e72c8a5106ce4ddd"
+}

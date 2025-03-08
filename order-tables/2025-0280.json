@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0280</td><td>2025-03-05</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Various GST/HST Regulations, No. 14 (Nova Scotia)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending VARIOUS GST/HST REGULATIONS, No. 14 (NOVA SCOTIA) in order to (1) amend the provincial component of the tax rate of the HST for Nova Scotia from 10 percent to nine percent; and (2) add transitional rules for the implementation of the HST rate decrease and make any consequential amendments to reflect the new rate.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0077  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46954&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0280",
+  "date": "2025-03-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending VARIOUS GST/HST REGULATIONS, No. 14 (NOVA SCOTIA) in order to (1) amend the provincial component of the tax rate of the HST for Nova Scotia from 10 percent to nine percent; and (2) add transitional rules for the implementation of the HST rate decrease and make any consequential amendments to reflect the new rate.",
+  "registration": "Registration: SOR/ 2025-0077  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0077",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46954"
+  ],
+  "htmlHash": "e68773a96fcd5b6bbad082c90b6d24f9"
+}

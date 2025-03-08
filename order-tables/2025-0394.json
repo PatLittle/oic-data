@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0394</td><td>2025-03-07</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Patent Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order fixing the remuneration of MÉLANIE BOURASSA FORCIER, former Vice-chairperson of the Patented Medicine Prices Review Board, for the period she was acting as Chairperson, commencing on November 9, 2021 and ending on December 5, 2022.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47089&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0394",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order fixing the remuneration of MÉLANIE BOURASSA FORCIER, former Vice-chairperson of the Patented Medicine Prices Review Board, for the period she was acting as Chairperson, commencing on November 9, 2021 and ending on December 5, 2022.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47089"
+  ],
+  "htmlHash": "7f141b88db36c68a504d024505fb0af0"
+}

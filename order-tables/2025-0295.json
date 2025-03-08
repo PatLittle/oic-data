@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0295</td><td>2025-03-06</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the Special Economic Measures Permit Authorization Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Amending the SPECIAL ECONOMIC MEASURES PERMIT AUTHORIZATION ORDER in order to replace the name “Burma” with “Myanmar” in the Schedule.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0083  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46970&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0295",
+  "date": "2025-03-06",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the SPECIAL ECONOMIC MEASURES PERMIT AUTHORIZATION ORDER in order to replace the name “Burma” with “Myanmar” in the Schedule.",
+  "registration": "Registration: SOR/ 2025-0083  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0083",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46970"
+  ],
+  "htmlHash": "a79742ce64db1c6e64458f7c1fc8da4a"
+}

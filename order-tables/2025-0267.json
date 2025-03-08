@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0267</td><td>2025-03-04</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Proceeds of Crime (Money Laundering) and Terrorist Financing Reporting of Goods Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING REPORTING OF GOODS REGULATIONS in order to (1) implement the requirement for traders to report on the importation and exportation of goods to the Canada Border Services Agency for the purposes of detecting, deterring, and disrupting trade-based financial crime; (2) introduce corresponding penalties for non-compliance through the administrative monetary penalties regime.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0067  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46939&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0267",
+  "date": "2025-03-04",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING REPORTING OF GOODS REGULATIONS in order to (1) implement the requirement for traders to report on the importation and exportation of goods to the Canada Border Services Agency for the purposes of detecting, deterring, and disrupting trade-based financial crime; (2) introduce corresponding penalties for non-compliance through the administrative monetary penalties regime.",
+  "registration": "Registration: SOR/ 2025-0067  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0067",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46939"
+  ],
+  "htmlHash": "4a7d805967ab0e2383449da1a76d099f"
+}

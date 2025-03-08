@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0351</td><td>2025-03-07</td><td></td><td></td><td></td><td>ESDC</td></tr><tr><td>Act</td><td colspan=\"6\">Department of Employment and Social Development Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of JODY JOAN LANI BRENNAN of Strathcona County, Alberta, to be the Executive Head of the Employment Insurance Board of Appeals, to hold office during pleasure on a full-time basis for a term of five years, effective March 24, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47032&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0351",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of JODY JOAN LANI BRENNAN of Strathcona County, Alberta, to be the Executive Head of the Employment Insurance Board of Appeals, to hold office during pleasure on a full-time basis for a term of five years, effective March 24, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47032"
+  ],
+  "htmlHash": "d6771b8f6f3143f82b5a87b2686d4981"
+}

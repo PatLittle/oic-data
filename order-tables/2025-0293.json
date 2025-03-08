@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0293</td><td>2025-03-06</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Criminal Code</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order designating Winnipeg, Manitoba, as the place where the head office of the Miscarriage of Justice Review Commission is to be located.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46968&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0293",
+  "date": "2025-03-06",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order designating Winnipeg, Manitoba, as the place where the head office of the Miscarriage of Justice Review Commission is to be located.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46968"
+  ],
+  "htmlHash": "313b8ec4bd2b7ea419583a64e9d33a43"
+}

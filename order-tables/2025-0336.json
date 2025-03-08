@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0336</td><td>2025-03-07</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of JONATHAN FRANKLIN GOLDBLOOM of Montréal, Quebec, to be Chairperson of the board of directors of VIA Rail Canada Inc., to hold office during pleasure for a term of five years, effective April 12, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47015&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0336",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of JONATHAN FRANKLIN GOLDBLOOM of Montréal, Quebec, to be Chairperson of the board of directors of VIA Rail Canada Inc., to hold office during pleasure for a term of five years, effective April 12, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47015"
+  ],
+  "htmlHash": "6d8851f0475dff26596750166b8ddd3b"
+}

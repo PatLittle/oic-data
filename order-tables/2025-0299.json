@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0299</td><td>2025-03-07</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Export and Import Permits Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the Export Control List</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending the EXPORT CONTROL LIST (ECL) in order to add seven items to the export control list under group 5 of certain technologies respecting quantum computing and its related technology and equipment, advanced semiconductor manufacturing technology and equipment, as well as metal additive and high temperature coatings.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0089  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46974&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0299",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending the EXPORT CONTROL LIST (ECL) in order to add seven items to the export control list under group 5 of certain technologies respecting quantum computing and its related technology and equipment, advanced semiconductor manufacturing technology and equipment, as well as metal additive and high temperature coatings.",
+  "registration": "Registration: SOR/ 2025-0089  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0089",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46974"
+  ],
+  "htmlHash": "3973f98603e6fda416f4fe1cff870875"
+}

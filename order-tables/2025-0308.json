@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0308</td><td>2025-03-07</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Name Change of the Chambre de commerce Memphrémagog</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the application of the Chambre de commerce Memphrémagog, in Quebec, to CHANGE ITS NAME to the “CHAMBRE DE COMMERCE, D'INDUSTRIE ET DU TOURISME MEMPHRÉMAGOG”.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46984&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0308",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the application of the Chambre de commerce Memphrémagog, in Quebec, to CHANGE ITS NAME to the “CHAMBRE DE COMMERCE, D'INDUSTRIE ET DU TOURISME MEMPHRÉMAGOG”.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46984"
+  ],
+  "htmlHash": "e016264391ae2d20f2d33cc9e132b2b1"
+}

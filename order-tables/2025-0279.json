@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0279</td><td>2025-03-05</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Excise Tax Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Real Property (GST/HST) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending the REAL PROPERTY GST/HST REGULATIONS in order to (1) to implement a rebate in respect of the provincial component of the HST for purpose-built rental housing situated in New Brunswick based on the criteria set by New Brunswick, which rebate would be available for purpose-built rental housing projects for construction begins on or after November 15, 2024, and before 2028, and in respect of which construction is substantially completed before 2030.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0076  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46953&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0279",
+  "date": "2025-03-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending the REAL PROPERTY GST/HST REGULATIONS in order to (1) to implement a rebate in respect of the provincial component of the HST for purpose-built rental housing situated in New Brunswick based on the criteria set by New Brunswick, which rebate would be available for purpose-built rental housing projects for construction begins on or after November 15, 2024, and before 2028, and in respect of which construction is substantially completed before 2030.",
+  "registration": "Registration: SOR/ 2025-0076  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0076",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46953"
+  ],
+  "htmlHash": "3aeb0e15169f70857534682278570558"
+}

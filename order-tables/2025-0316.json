@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0316</td><td>2025-03-07</td><td></td><td></td><td></td><td>INFC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Infrastructure Bank Act<br>Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Amendment to the Corporate Plan of the Canada Infrastructure Bank</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the amendment to the Corporate Plan of the CANADA INFRASTRUCTURE BANK for the 2024-25 to 2028-29 planning period.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46992&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0316",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the amendment to the Corporate Plan of the CANADA INFRASTRUCTURE BANK for the 2024-25 to 2028-29 planning period.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46992"
+  ],
+  "htmlHash": "9ff03568128fd4f5150540779f8c4517"
+}

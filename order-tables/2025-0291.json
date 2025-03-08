@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0291</td><td>2025-03-06</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending Part III of Schedule VI to the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order amending PART III OF SCHEDULE VI TO THE FINANCIAL ADMINISTRATION ACT in order to add the Miscarriage of Justice Review Commission as a Portion of the public service of Canada in Column I, and add the Chief Commissioner as the Position in Column II.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0085  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46965&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0291",
+  "date": "2025-03-06",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order amending PART III OF SCHEDULE VI TO THE FINANCIAL ADMINISTRATION ACT in order to add the Miscarriage of Justice Review Commission as a Portion of the public service of Canada in Column I, and add the Chief Commissioner as the Position in Column II.",
+  "registration": "Registration: SOR/ 2025-0085  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0085",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46965"
+  ],
+  "htmlHash": "7597a4b0b347499f4424510248ad6cc0"
+}

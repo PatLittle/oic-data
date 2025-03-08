@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0386</td><td>2025-03-07</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of CHRISTIAN L. MONNIN of the city of Winnipeg, in the Province of Manitoba, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench of Manitoba, effective March 13, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47086&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0386",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of CHRISTIAN L. MONNIN of the city of Winnipeg, in the Province of Manitoba, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench of Manitoba, effective March 13, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47086"
+  ],
+  "htmlHash": "1979c376c5673fb9e74644de66f6e536"
+}

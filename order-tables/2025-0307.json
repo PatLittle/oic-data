@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0307</td><td>2025-03-07</td><td></td><td></td><td></td><td>ISED</td></tr><tr><td>Act</td><td colspan=\"6\">Boards of Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Approving the Change of boundary of the Tobermory Chamber of Commerce (Ontario)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order approving the application by the TOBERMORY CHAMBER OF COMMERCE, in Ontario, to CHANGE THE BOUNDARIES of its district from St. Edmunds Township to encompass the area of the Municipality of the Northern Bruce Peninsula.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46983&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0307",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order approving the application by the TOBERMORY CHAMBER OF COMMERCE, in Ontario, to CHANGE THE BOUNDARIES of its district from St. Edmunds Township to encompass the area of the Municipality of the Northern Bruce Peninsula.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46983"
+  ],
+  "htmlHash": "83839bd2a564c4f6401d901cfd8e341d"
+}

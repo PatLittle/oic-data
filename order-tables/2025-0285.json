@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0285</td><td>2025-03-05</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Amendments to Appendices I, II and III of the Convention on International Trade in Endangered Species of Wild Fauna and Flora</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Minister of Foreign Affairs to accept, on behalf of Canada, the Amendments to Appendices I and II of the CONVENTION ON INTERNATIONAL TRADE IN ENDANGERED SPECIES OF WILD FAUNA AND FLORA, adopted at Panama City, from November 14 to 25, 2022, and the Amendments to Appendix III of the CONVENTION ON INTERNATIONAL TRADE IN ENDANGERED SPECIES OF WILD FAUNA AND FLORA, notified on November 16, 2020, March 24, 2021, March 15, 2022, March 24, 2022, October 13, 2022, November 3, 2022, November 25, 2022, February 3, 2023, and February 20, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46959&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0285",
+  "date": "2025-03-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Minister of Foreign Affairs to accept, on behalf of Canada, the Amendments to Appendices I and II of the CONVENTION ON INTERNATIONAL TRADE IN ENDANGERED SPECIES OF WILD FAUNA AND FLORA, adopted at Panama City, from November 14 to 25, 2022, and the Amendments to Appendix III of the CONVENTION ON INTERNATIONAL TRADE IN ENDANGERED SPECIES OF WILD FAUNA AND FLORA, notified on November 16, 2020, March 24, 2021, March 15, 2022, March 24, 2022, October 13, 2022, November 3, 2022, November 25, 2022, February 3, 2023, and February 20, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46959"
+  ],
+  "htmlHash": "f711bd93422bd4c689c3991b31488143"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0268</td><td>2025-03-04</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Proceeds of Crime (Money Laundering) and Terrorist Financing Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations and the Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING REGULATIONS and the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to (1) implement measures to enhance the ability of reporting entities to voluntarily share information with each other to detect and deter money laundering, terrorist financing, and sanctions evasion, while maintaining privacy protections for personal information, including an oversight role for the Office of the Privacy Commissioner of Canada; (2) require for reporting entities to report material discrepancies between their records and a corporation’s registry filings to the federal beneficial ownership registry in circumstances where they assess there is a high risk of a money laundering or terrorist financing offence; (3) introduce anti-money laundering and anti-terrorist financing (AML/ATF) regulatory requirements for factoring companies, cheque cashing businesses and financing and leasing companies; and (4) introduce corresponding penalties for non-compliance through the administrative monetary penalties regime.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0068  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46940&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0268",
+  "date": "2025-03-04",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING REGULATIONS and the PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ADMINISTRATIVE MONETARY PENALTIES REGULATIONS in order to (1) implement measures to enhance the ability of reporting entities to voluntarily share information with each other to detect and deter money laundering, terrorist financing, and sanctions evasion, while maintaining privacy protections for personal information, including an oversight role for the Office of the Privacy Commissioner of Canada; (2) require for reporting entities to report material discrepancies between their records and a corporation’s registry filings to the federal beneficial ownership registry in circumstances where they assess there is a high risk of a money laundering or terrorist financing offence; (3) introduce anti-money laundering and anti-terrorist financing (AML/ATF) regulatory requirements for factoring companies, cheque cashing businesses and financing and leasing companies; and (4) introduce corresponding penalties for non-compliance through the administrative monetary penalties regime.",
+  "registration": "Registration: SOR/ 2025-0068  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0068",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46940"
+  ],
+  "htmlHash": "c0a118eaea5f4b02ebe60e92de1ef79c"
+}

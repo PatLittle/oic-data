@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0281</td><td>2025-03-05</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">United Nations Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Regulations Implementing the United Nations Resolutions on Haiti</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the REGULATIONS IMPLEMENTING THE UNITED NATIONS RESOLUTIONS ON HAITI in order to (1) replace the targeted arms embargo by a territorial arms embargo, as stated in UNSC Resolution 2699, thus prohibiting the supply, sale, or transfer of arms and related material to Haiti; (2) add exceptions to the arms embargo, as stated in UNSC Resolution 2700 and Resolution 2752; and (3) amend the existing definition of \"military equipment\" to remove the reference to \"armed mercenaries\".</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0078  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46955&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0281",
+  "date": "2025-03-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the REGULATIONS IMPLEMENTING THE UNITED NATIONS RESOLUTIONS ON HAITI in order to (1) replace the targeted arms embargo by a territorial arms embargo, as stated in UNSC Resolution 2699, thus prohibiting the supply, sale, or transfer of arms and related material to Haiti; (2) add exceptions to the arms embargo, as stated in UNSC Resolution 2700 and Resolution 2752; and (3) amend the existing definition of \"military equipment\" to remove the reference to \"armed mercenaries\".",
+  "registration": "Registration: SOR/ 2025-0078  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0078",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46955"
+  ],
+  "htmlHash": "6d6fa1ab3428d387a76fbcd1f9cfa453"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0273</td><td>2025-03-05</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canadian Aviation Regulations (RPAS – Beyond Visual Line-of-Sight and Other Operations)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (RPAS – BEYOND VISUAL LINE-OF-SIGHT AND OTHER OPERATIONS) in order to (1) allow operations with a remotely piloted aircraft (RPA) up to 150 kg to be flown within visual line-of-sight; (2) introduce rules for routine beyond visual line-of-sight operations with an RPA up to 150 kg over sparsely populated areas, at low altitudes, and in uncontrolled airspace; (3) remove the requirement for a special flight operations certificate for these operations; (4) include requirements for a new pilot certification, new technical standards for the aircraft and supporting systems, new operational procedures and new requirements for individuals and organizations; and (5) update existing service fees and introduce new fees for the new services.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0070  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46947&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0273",
+  "date": "2025-03-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADIAN AVIATION REGULATIONS (RPAS – BEYOND VISUAL LINE-OF-SIGHT AND OTHER OPERATIONS) in order to (1) allow operations with a remotely piloted aircraft (RPA) up to 150 kg to be flown within visual line-of-sight; (2) introduce rules for routine beyond visual line-of-sight operations with an RPA up to 150 kg over sparsely populated areas, at low altitudes, and in uncontrolled airspace; (3) remove the requirement for a special flight operations certificate for these operations; (4) include requirements for a new pilot certification, new technical standards for the aircraft and supporting systems, new operational procedures and new requirements for individuals and organizations; and (5) update existing service fees and introduce new fees for the new services.",
+  "registration": "Registration: SOR/ 2025-0070  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0070",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46947"
+  ],
+  "htmlHash": "6b8522468bf878d938bca06fa7a032b8"
+}

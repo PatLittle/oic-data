@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0381</td><td>2025-03-07</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of DOUGLAS E. JOHNSTON of the city of Winnipeg, in the Province of Manitoba, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench of Manitoba (Family Division).</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47071&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0381",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of DOUGLAS E. JOHNSTON of the city of Winnipeg, in the Province of Manitoba, Barrister-at-law, to be a Judge of His Majesty's Court of King's Bench of Manitoba (Family Division).",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47071"
+  ],
+  "htmlHash": "cce173512d906e01ab6b393198a7c7cd"
+}

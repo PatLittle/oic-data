@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0277</td><td>2025-03-05</td><td></td><td></td><td></td><td>ESDC, CEIC</td></tr><tr><td>Act</td><td colspan=\"6\">Department of Employment and Social Development Act<br>Employment Insurance Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Employment Insurance Board of Appeal Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">EMPLOYMENT INSURANCE BOARD OF APPEAL REGULATIONS in order to (1) set out the processes and procedures for Board of Appeal issues such as: filing an appeal, Board of Appeal regions, hearing format, quorum, issuing of decisions, hearings held in private and considerations for hearings that involve allegations of harassment; and (2) provide consistency and transparency to the administrative functions of the Board of Appeal and protect all parties’ rights and obligations for first level Employment Insurance appeals.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0074  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46951&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0277",
+  "date": "2025-03-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "EMPLOYMENT INSURANCE BOARD OF APPEAL REGULATIONS in order to (1) set out the processes and procedures for Board of Appeal issues such as: filing an appeal, Board of Appeal regions, hearing format, quorum, issuing of decisions, hearings held in private and considerations for hearings that involve allegations of harassment; and (2) provide consistency and transparency to the administrative functions of the Board of Appeal and protect all parties’ rights and obligations for first level Employment Insurance appeals.",
+  "registration": "Registration: SOR/ 2025-0074  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0074",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46951"
+  ],
+  "htmlHash": "87e416da308ac84ec4c64598e8f5cca0"
+}

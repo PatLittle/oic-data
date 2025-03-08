@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0322</td><td>2025-03-07</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Criminal Code</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Regulations Prescribing Certain Firearms and Other Weapons, Components and Parts of Weapons, Accessories, Cartridge Magazines, Ammunition and Projectiles as Prohibited or Restricted</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending the REGULATIONS PRESCRIBING CERTAIN FIREARMS AND OTHER WEAPONS, COMPONENTS AND PARTS OF WEAPONS, ACCESSORIES, CARTRIDGE MAGAZINES, AMMUNITION AND PROJECTILES AS PROHIBITED, RESTRICTED OR NON-RESTRICTED in order to prescribe as prohibited 104 families of firearms, encompassing 324 unique makes and models of firearms because they have semi-automatic action with sustained rapid-fire capability (tactical/military design with large magazine capacity).</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0086  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46998&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0322",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending the REGULATIONS PRESCRIBING CERTAIN FIREARMS AND OTHER WEAPONS, COMPONENTS AND PARTS OF WEAPONS, ACCESSORIES, CARTRIDGE MAGAZINES, AMMUNITION AND PROJECTILES AS PROHIBITED, RESTRICTED OR NON-RESTRICTED in order to prescribe as prohibited 104 families of firearms, encompassing 324 unique makes and models of firearms because they have semi-automatic action with sustained rapid-fire capability (tactical/military design with large magazine capacity).",
+  "registration": "Registration: SOR/ 2025-0086  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0086",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46998"
+  ],
+  "htmlHash": "b44742cf6ad057b78555745e4627bde4"
+}

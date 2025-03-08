@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0304</td><td>2025-03-07</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Emergency Management Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Provincial Emergency Financial Assistance Order No. 283, Yukon</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 283 in order to (1) declare the natural disaster to be of concern to the federal government; and (2) authorize the provision of financial assistance to Yukon with respect to the landslide that occurred on July 23, 2024.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46979&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0304",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "PROVINCIAL EMERGENCY FINANCIAL ASSISTANCE ORDER No. 283 in order to (1) declare the natural disaster to be of concern to the federal government; and (2) authorize the provision of financial assistance to Yukon with respect to the landslide that occurred on July 23, 2024.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46979"
+  ],
+  "htmlHash": "a54a29813d1e8ba6fba8173fc46c48d4"
+}

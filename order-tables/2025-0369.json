@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0369</td><td>2025-03-07</td><td></td><td></td><td></td><td>PS</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations and Employment Board Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of AUGUSTUS RICHARDSON of Halifax, Nova Scotia, as a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47055&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0369",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of AUGUSTUS RICHARDSON of Halifax, Nova Scotia, as a part-time member of the Federal Public Sector Labour Relations and Employment Board, to hold office during good behaviour for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47055"
+  ],
+  "htmlHash": "1842424de58516224c28614a036d1dd4"
+}

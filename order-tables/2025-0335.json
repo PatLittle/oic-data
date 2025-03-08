@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0335</td><td>2025-03-07</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Marine Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of CATHERINE IRENE MCLAY of Surrey, British Columbia, as a director of the Vancouver Fraser Port Authority, to hold office for a term ending on June 20, 2026.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47014&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0335",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of CATHERINE IRENE MCLAY of Surrey, British Columbia, as a director of the Vancouver Fraser Port Authority, to hold office for a term ending on June 20, 2026.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47014"
+  ],
+  "htmlHash": "f881303a189faf1f3a596dd4d7967dde"
+}

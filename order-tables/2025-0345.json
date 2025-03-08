@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0345</td><td>2025-03-07</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Net-Zero Emissions Accountability Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of H. DAMON MATTHEWS of Montréal, Quebec, to be a member of the Net-Zero Advisory Body, to hold office during pleasure for a term of three years.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47026&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0345",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of H. DAMON MATTHEWS of Montréal, Quebec, to be a member of the Net-Zero Advisory Body, to hold office during pleasure for a term of three years.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47026"
+  ],
+  "htmlHash": "1f90048bdbc2b97473067452546ac6ec"
+}

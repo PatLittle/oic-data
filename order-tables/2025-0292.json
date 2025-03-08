@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0292</td><td>2025-03-06</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">National Security and Intelligence Review Agency Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the National Security and Intelligence Review Agency Act Deputy Heads of the Federal Public Administration Order</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Amending the NATIONAL SECURITY AND INTELLIGENCE REVIEW AGENCY ACT DEPUTY HEADS OF THE FEDERAL PUBLIC ADMINISTRATION ORDER in order to add the Miscarriage of Justice Review Commission as a Portion of the public service of Canada in Column I, and add the Chief Commissioner as the Position in Column II of the Schedule.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46967&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0292",
+  "date": "2025-03-06",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the NATIONAL SECURITY AND INTELLIGENCE REVIEW AGENCY ACT DEPUTY HEADS OF THE FEDERAL PUBLIC ADMINISTRATION ORDER in order to add the Miscarriage of Justice Review Commission as a Portion of the public service of Canada in Column I, and add the Chief Commissioner as the Position in Column II of the Schedule.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "46967"
+  ],
+  "htmlHash": "7885c126e59aa1428524006634799e05"
+}

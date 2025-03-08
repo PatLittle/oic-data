@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0370</td><td>2025-03-07</td><td></td><td></td><td></td><td>JUS</td></tr><tr><td>Act</td><td colspan=\"6\">Canadian Human Rights Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Re-appointment of JULIE LASSONDE of Toronto, Ontario, as a part-time member of the Canadian Human Rights Commission, to hold office during good behaviour for a term of three years, effective June 20, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47057&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0370",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Re-appointment of JULIE LASSONDE of Toronto, Ontario, as a part-time member of the Canadian Human Rights Commission, to hold office during good behaviour for a term of three years, effective June 20, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47057"
+  ],
+  "htmlHash": "6fd472ba1d01898d1deef7c76f94d0c1"
+}

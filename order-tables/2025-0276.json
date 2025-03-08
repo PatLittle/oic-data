@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0276</td><td>2025-03-05</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Wild Animal and Plant Protection  and Regulation of International  and Interprovincial Trade Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Wild Animal and Plant Trade Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the WILD ANIMAL AND PLANT TRADE REGULATIONS in order to include the updates to the Convention on International Trade in Endangered Species (CITES) Appendices I and II adopted by 19th Conference of the Parties (CoP19).</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0073  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=46950&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0276",
+  "date": "2025-03-05",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the WILD ANIMAL AND PLANT TRADE REGULATIONS in order to include the updates to the Convention on International Trade in Endangered Species (CITES) Appendices I and II adopted by 19th Conference of the Parties (CoP19).",
+  "registration": "Registration: SOR/ 2025-0073  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0073",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "46950"
+  ],
+  "htmlHash": "1f711ee3c2647b6814ee87b5a1760a17"
+}

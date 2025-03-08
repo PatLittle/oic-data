@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0372</td><td>2025-03-07</td><td></td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"6\">Canada-Newfoundland and Labrador Atlantic Accord Implementation Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Reappointment of KIMBERLY DUNPHY of Corner Brook, Newfoundland and Labrador, as a member of the Canada–Newfoundland and Labrador Offshore Petroleum Board, to hold office during good behaviour for a term of six years, effective July 8, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47059&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0372",
+  "date": "2025-03-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Reappointment of KIMBERLY DUNPHY of Corner Brook, Newfoundland and Labrador, as a member of the Canada–Newfoundland and Labrador Offshore Petroleum Board, to hold office during good behaviour for a term of six years, effective July 8, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47059"
+  ],
+  "htmlHash": "7320f4aadc154fe14a1c7835843742be"
+}

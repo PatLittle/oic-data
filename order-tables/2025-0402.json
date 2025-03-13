@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0402</td><td>2025-03-12</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Migratory Birds Convention  Act, 1994</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Migratory Bird\nSanctuary Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the MIGRATORY BIRD SANCTUARY REGULATIONS in order to (1) rename seven Migratory Bird Sanctuaries (MBS) in the Nunavut Settlement Area with Inukitut names identified by the Area Co-Management Committee (ACMC) responsible for each of the MBS; and (2) create a new part XIII to the Schedule for MBS formerly located in the Northwest Territories and now located in Nunavut.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0099  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47102&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0402",
+  "date": "2025-03-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the MIGRATORY BIRD SANCTUARY REGULATIONS in order to (1) rename seven Migratory Bird Sanctuaries (MBS) in the Nunavut Settlement Area with Inukitut names identified by the Area Co-Management Committee (ACMC) responsible for each of the MBS; and (2) create a new part XIII to the Schedule for MBS formerly located in the Northwest Territories and now located in Nunavut.",
+  "registration": "Registration: SOR/ 2025-0099  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0099",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "47102"
+  ],
+  "htmlHash": "3b01eb917f52bc07c8c5f1893102482f"
+}

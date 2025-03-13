@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0401</td><td>2025-03-12</td><td></td><td></td><td></td><td>TC</td></tr><tr><td>Act</td><td colspan=\"6\">Aeronautics Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Canadian Aviation Regulations (Parts I, III, IV and VI to VIII – Air Navigation Services)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I, III, IV AND VI TO VIII – AIR NAVIGATION SERVICES) in order to (1) streamline and update terminology to facilitate interpretation of regulatory requirements; (2) eliminate perceived ambiguities and enhance consistency in the interpretation of regulatory requirements; (3) facilitate the adoption and use of innovative technologies; (4) make certain recognized best practices mandatory; (5) facilitate application of procedures in Standard 821 to provide ATC separation; (6) address concerns raised by the SJCSR; and (7) restructure air traffic service provisions.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0098  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47101&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0401",
+  "date": "2025-03-12",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the CANADIAN AVIATION REGULATIONS (PARTS I, III, IV AND VI TO VIII – AIR NAVIGATION SERVICES) in order to (1) streamline and update terminology to facilitate interpretation of regulatory requirements; (2) eliminate perceived ambiguities and enhance consistency in the interpretation of regulatory requirements; (3) facilitate the adoption and use of innovative technologies; (4) make certain recognized best practices mandatory; (5) facilitate application of procedures in Standard 821 to provide ATC separation; (6) address concerns raised by the SJCSR; and (7) restructure air traffic service provisions.",
+  "registration": "Registration: SOR/ 2025-0098  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0098",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "47101"
+  ],
+  "htmlHash": "69571bbc4c43d031ad98b52e9b7e5ae6"
+}

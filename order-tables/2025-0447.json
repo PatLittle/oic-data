@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0447</td><td>2025-03-15</td><td></td><td></td><td></td><td>ECCC</td></tr><tr><td>Act</td><td colspan=\"6\">Greenhouse Gas Pollution Pricing Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Output-Based Pricing System Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the OUTPUT-BASED PRICING SYSTEM (OBPS) REGULATIONS in order to (1) ensure that on-site transportation emissions currently reported under the OBPS continue to be reported; and (2) shorten the compliance period for voluntary facilities where designation as a covered facility is cancelled by the Minister in 2025 to align the compliance period for these facilities to end when the fuel charge rate is set to $0.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0108 </td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47115&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0447",
+  "date": "2025-03-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the OUTPUT-BASED PRICING SYSTEM (OBPS) REGULATIONS in order to (1) ensure that on-site transportation emissions currently reported under the OBPS continue to be reported; and (2) shorten the compliance period for voluntary facilities where designation as a covered facility is cancelled by the Minister in 2025 to align the compliance period for these facilities to end when the fuel charge rate is set to $0.",
+  "registration": "Registration: SOR/ 2025-0108 ",
+  "registration_type": "SOR",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47115"
+  ],
+  "htmlHash": "3d6e96eb7fe48c59221c1c7c3f4d9fbe"
+}

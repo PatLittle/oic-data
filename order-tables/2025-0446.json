@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0446</td><td>2025-03-15</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Greenhouse Gas Pollution Pricing Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending Schedule 2 to the Greenhouse Gas Pollution Pricing Act and the Fuel Charge Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending SCHEDULE 2 TO THE GREENHOUSE GAS POLLUTION PRICING ACT and the FUEL CHARGE REGULATIONS in order to set applicable fuel charge rates for all types of fuel and combustible waste to zero after March 31, 2025.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0107  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47114&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0446",
+  "date": "2025-03-15",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending SCHEDULE 2 TO THE GREENHOUSE GAS POLLUTION PRICING ACT and the FUEL CHARGE REGULATIONS in order to set applicable fuel charge rates for all types of fuel and combustible waste to zero after March 31, 2025.",
+  "registration": "Registration: SOR/ 2025-0107  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0107",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "47114"
+  ],
+  "htmlHash": "4d55b4450b2d0409d91be113cad26f8d"
+}

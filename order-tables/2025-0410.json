@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0410</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending Schedule I.1 of the Financial Administration Act (Federal Economic Development Agency for Southern Ontario)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order AMENDING SCHEDULE I.1 OF THE FINANCIAL ADMINISTRATION ACT by striking out the reference to the Minister of State (Federal Economic Development Agency for Southern Ontario) and by substituting for that reference a reference to the Minister of Industry.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0102  <strong>Publication Date:</strong> 2025-03-26</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47121&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0410",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order AMENDING SCHEDULE I.1 OF THE FINANCIAL ADMINISTRATION ACT by striking out the reference to the Minister of State (Federal Economic Development Agency for Southern Ontario) and by substituting for that reference a reference to the Minister of Industry.",
+  "registration": "Registration: SOR/ 2025-0102  Publication Date: 2025-03-26",
+  "registration_type": "SOR",
+  "registration_id": "2025-0102",
+  "registration_publication_date": "2025-03-26",
+  "attachments": [
+    "47121"
+  ],
+  "htmlHash": "710a702946d4a3b43b78dd0f7ff09a80"
+}

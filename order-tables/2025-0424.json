@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0424</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Accessible Canada Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Designating the Minister of Employment and Social Development as the Minister for the Purposes of the Accessible Canada Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing Order in Council P.C. 2023-1064 of October 27, 2023; and (2) designating the Minister of Employment and Social Development, a member of the King's Privy Council for Canada, as the Minister for the purposes of the ACCESSIBLE CANADA ACT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47135&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0424",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing Order in Council P.C. 2023-1064 of October 27, 2023; and (2) designating the Minister of Employment and Social Development, a member of the King's Privy Council for Canada, as the Minister for the purposes of the ACCESSIBLE CANADA ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47135"
+  ],
+  "htmlHash": "666aea2a138cc200fd212ce83c826a3e"
+}

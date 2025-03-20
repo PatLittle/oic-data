@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0442</td><td>2025-03-19</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Amendment to Order in Council P.C. 2025-397, dated March 7, 2025, by replacing “Minister of Sport and Physical Activity” with “Minister of Canadian Heritage”.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47157&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0442",
+  "date": "2025-03-19",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Amendment to Order in Council P.C. 2025-397, dated March 7, 2025, by replacing “Minister of Sport and Physical Activity” with “Minister of Canadian Heritage”.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47157"
+  ],
+  "htmlHash": "31647ab1e1d58c7b452390c6d140e0da"
+}

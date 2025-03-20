@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0428</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Canada Small Business Financing Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order designating the Minister of Industry as the Minister for the Purposes of the Canada Small Business Financing Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) Repealing Order in Council P.C. 2023-781 of July 26, 2023; and (2) Designating the Minister of Industry, a member of the King's Privy Council for Canada, as the Minister for the purposes of the CANADA SMALL BUSINESS FINANCING ACT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47139&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0428",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) Repealing Order in Council P.C. 2023-781 of July 26, 2023; and (2) Designating the Minister of Industry, a member of the King's Privy Council for Canada, as the Minister for the purposes of the CANADA SMALL BUSINESS FINANCING ACT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47139"
+  ],
+  "htmlHash": "0e3e347ccd6d83b7c13a972ecc77988b"
+}

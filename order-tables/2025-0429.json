@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0429</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Business Development Bank of Canada Act<br>Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Designating the Minister of Industry as the Designated Minister for the purposes of the Business Development Bank of Canada Act and as the appropriate Minister with respect to the Business Development Bank of Canada for the purposes of the Financial Administration Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing P.C. 2023-1066 of October 27, 2023; (2) designating the MINISTER OF INDUSTRY, a member of the King's Privy Council for Canada, as the Designated Minister for the purposes of the Business Development Bank of Canada Act; and (3) designating the same minister as the appropriate Minister with respect to the Business Development Bank of Canada for the purposes of the Financial Administration Act.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47140&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0429",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing P.C. 2023-1066 of October 27, 2023; (2) designating the MINISTER OF INDUSTRY, a member of the King's Privy Council for Canada, as the Designated Minister for the purposes of the Business Development Bank of Canada Act; and (3) designating the same minister as the appropriate Minister with respect to the Business Development Bank of Canada for the purposes of the Financial Administration Act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47140"
+  ],
+  "htmlHash": "6fc58bb93be23b851e6dda57c19e40ff"
+}

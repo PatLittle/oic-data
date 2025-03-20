@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0413</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Public Service Rearrangement and Transfer of Duties Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Transferring from the Minister of Public Safety and Emergency Preparedness to the Minister for International Trade the Control and Supervision of the Canadian Intergovernmental Conference Secretariat</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Transferring from the Minister of Public Safety and Emergency Preparedness to the Minister for INTERNATIONAL TRADE the Control and Supervision of the CANADIAN INTERGOVERNMENTAL CONFERENCE SECRETARIAT.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47124&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0413",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Transferring from the Minister of Public Safety and Emergency Preparedness to the Minister for INTERNATIONAL TRADE the Control and Supervision of the CANADIAN INTERGOVERNMENTAL CONFERENCE SECRETARIAT.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47124"
+  ],
+  "htmlHash": "b976644b0e0db9d2ada902c748561bec"
+}

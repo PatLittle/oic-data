@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0445</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Appointment of those Cabinet Ministers who may act for the Prime Minister if he is unable to do so, as well as Acting Ministers for all the statutory portfolios.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47156&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0445",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Appointment of those Cabinet Ministers who may act for the Prime Minister if he is unable to do so, as well as Acting Ministers for all the statutory portfolios.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47156"
+  ],
+  "htmlHash": "c324c8f14e2c1a5adadb47a1b3fbd044"
+}

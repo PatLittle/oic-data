@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0432</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Federal Public Sector Labour Relations and Employment Board Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Designating the Leader of the Government in the House of Commons To Be the Minister Referred to in Federal Public Sector Labour Relations and Employment Board Act and as the Minister for the Purposes of the Federal Public Sector Labour Relations Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing Order in Council P.C. 2025-87 of February 12, 2025; (2) designating the Leader of the Government in the House of Commons, who is not a member of the Treasury Board, to be the Minister referred to in the FEDERAL PUBLIC SECTOR LABOUR RELATIONS ACT; and (3) designating the Leader of the Government in the House of Commons, who is a member of the King's Privy Council for Canada and is not a member of the Treasury Board, to be the Minister for the purposes of that act.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47150&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0432",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing Order in Council P.C. 2025-87 of February 12, 2025; (2) designating the Leader of the Government in the House of Commons, who is not a member of the Treasury Board, to be the Minister referred to in the FEDERAL PUBLIC SECTOR LABOUR RELATIONS ACT; and (3) designating the Leader of the Government in the House of Commons, who is a member of the King's Privy Council for Canada and is not a member of the Treasury Board, to be the Minister for the purposes of that act.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47150"
+  ],
+  "htmlHash": "71537784d6078fa2a046f92aa6219ed8"
+}

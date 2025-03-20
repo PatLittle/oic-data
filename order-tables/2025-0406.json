@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0406</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Salaries Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Repealing Certain Designations Under Subsections 5(1) and (3) of the Salaries Act</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order REPEALING the designations made by (1) Order in Council P.C. 2019-1346 of November 20, 2019; (2) Order in Council P.C. 2021-923 of October 26, 2021; (3) Order in Council P.C. 2023-760 of July 26, 2023; (4) Order in Council P.C. 2023-761 of July 26, 2023; and (5) Order in Council P.C. 2023-762 of July 26, 2023.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47117&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0406",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order REPEALING the designations made by (1) Order in Council P.C. 2019-1346 of November 20, 2019; (2) Order in Council P.C. 2021-923 of October 26, 2021; (3) Order in Council P.C. 2023-760 of July 26, 2023; (4) Order in Council P.C. 2023-761 of July 26, 2023; and (5) Order in Council P.C. 2023-762 of July 26, 2023.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47117"
+  ],
+  "htmlHash": "87318580394fc63c8de3989ee2d9408e"
+}

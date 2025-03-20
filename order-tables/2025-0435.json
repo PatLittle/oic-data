@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0435</td><td>2025-03-14</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Act</td><td colspan=\"6\">Electoral Boundaries Readjustment Suspension Act, 1994</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Designating the Leader of the Governemnt in the House of Commons as the Minister for the Purposes of the Electoral Boundaries Readjustment Suspension Act, 1994</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order (1) repealing Order in Council P.C. 2025-84 of February 12, 2025; and (2) designating the Leader of the Government in the House of Commons, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the ELECTORAL BOUNDARIES READJUSTMENT SUSPENSION ACT, 1994.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47145&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0435",
+  "date": "2025-03-14",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order (1) repealing Order in Council P.C. 2025-84 of February 12, 2025; and (2) designating the Leader of the Government in the House of Commons, a member of the King’s Privy Council for Canada, as the Minister for the purposes of the ELECTORAL BOUNDARIES READJUSTMENT SUSPENSION ACT, 1994.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47145"
+  ],
+  "htmlHash": "e94daeb69e0ac78b7071b0cfbdd5014d"
+}

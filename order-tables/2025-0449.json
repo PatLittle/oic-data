@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0449</td><td>2025-03-20</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Special Economic Measures (Haiti) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the SPECIAL ECONOMIC MEASURES (HAITI) REGULATIONS in order to add three (3) individuals who are now subject to a broad dealings ban, to the list of persons under the Regulations in which individuals in Canada, as well as Canadians outside of Canada, are prohibited from dealing in the property of listed persons, entering into transactions with, providing services to them, transferring property to them, or otherwise making goods available them.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0111  <strong>Publication Date:</strong> 2025-04-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47160&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0449",
+  "date": "2025-03-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the SPECIAL ECONOMIC MEASURES (HAITI) REGULATIONS in order to add three (3) individuals who are now subject to a broad dealings ban, to the list of persons under the Regulations in which individuals in Canada, as well as Canadians outside of Canada, are prohibited from dealing in the property of listed persons, entering into transactions with, providing services to them, transferring property to them, or otherwise making goods available them.",
+  "registration": "Registration: SOR/ 2025-0111  Publication Date: 2025-04-09",
+  "registration_type": "SOR",
+  "registration_id": "2025-0111",
+  "registration_publication_date": "2025-04-09",
+  "attachments": [
+    "47160"
+  ],
+  "htmlHash": "25d349001bfc76fee8d8cd2f59784117"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0451</td><td>2025-03-20</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Other Than Statutory Authority</td></tr><tr><td>Subject</td><td colspan=\"6\">Agreement between Canada and the Portuguese Republic on the Protection of Classified Information</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to SIGN, on behalf of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND THE PORTUGUESE REPUBLIC ON THE PROTECTION OF CLASSIFIED INFORMATION.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47162&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0451",
+  "date": "2025-03-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order authorizing the Prime Minister, the Minister of Foreign Affairs, or a delegate, to SIGN, on behalf of Canada, subject to ratification, the AGREEMENT BETWEEN CANADA AND THE PORTUGUESE REPUBLIC ON THE PROTECTION OF CLASSIFIED INFORMATION.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47162"
+  ],
+  "htmlHash": "8b85099ee8392dbd813263c8fa4e8947"
+}

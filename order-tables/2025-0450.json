@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0450</td><td>2025-03-20</td><td></td><td></td><td></td><td>GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Special Economic Measures Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Special Economic Measures (Venezuela) Regulations</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations amending the SPECIAL ECONOMIC MEASURES (VENEZUELA) REGULATIONS in order to to add eight (8) individuals to the Schedule of listed persons under the Regulations in which any person in Canada or Canadians outside of Canada are thereby prohibited from dealing in the property of, entering into transactions with, providing services to, transferring property to, or otherwise making goods available to listed persons (individuals and entities).</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0112  <strong>Publication Date:</strong> 2025-04-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47161&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0450",
+  "date": "2025-03-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations amending the SPECIAL ECONOMIC MEASURES (VENEZUELA) REGULATIONS in order to to add eight (8) individuals to the Schedule of listed persons under the Regulations in which any person in Canada or Canadians outside of Canada are thereby prohibited from dealing in the property of, entering into transactions with, providing services to, transferring property to, or otherwise making goods available to listed persons (individuals and entities).",
+  "registration": "Registration: SOR/ 2025-0112  Publication Date: 2025-04-09",
+  "registration_type": "SOR",
+  "registration_id": "2025-0112",
+  "registration_publication_date": "2025-04-09",
+  "attachments": [
+    "47161"
+  ],
+  "htmlHash": "1d148eebd39c5e84aa6b74d2c158f453"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0448</td><td>2025-03-20</td><td></td><td></td><td></td><td>NRCAN</td></tr><tr><td>Act</td><td colspan=\"6\">Energy Efficiency Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Energy Efficiency Regulations, 2016 (Amendment 18)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the ENERGY EFFICIENCY REGULATIONS, 2016 (AMENDMENT 18) in order to (1) add the following products into the Regulations: air compressors, faucets, line voltage thermostats, pool pumps and showerheads;  (2) expand the scope of what is defined as a general service lamp and introduce or update energy efficiency and testing standards to harmonize with U.S. standards for the following products specifically: air conditioners, heat pumps, gas furnaces, electric water heaters and general service lamps; and (3) expand the use of ambulatory incorporation by reference and update the list of energy-using products that can be amended through Ministerial Regulations for the purpose of maintaining harmonization.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0110  <strong>Publication Date:</strong> 2025-04-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47159&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0448",
+  "date": "2025-03-20",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the ENERGY EFFICIENCY REGULATIONS, 2016 (AMENDMENT 18) in order to (1) add the following products into the Regulations: air compressors, faucets, line voltage thermostats, pool pumps and showerheads;  (2) expand the scope of what is defined as a general service lamp and introduce or update energy efficiency and testing standards to harmonize with U.S. standards for the following products specifically: air conditioners, heat pumps, gas furnaces, electric water heaters and general service lamps; and (3) expand the use of ambulatory incorporation by reference and update the list of energy-using products that can be amended through Ministerial Regulations for the purpose of maintaining harmonization.",
+  "registration": "Registration: SOR/ 2025-0110  Publication Date: 2025-04-09",
+  "registration_type": "SOR",
+  "registration_id": "2025-0110",
+  "registration_publication_date": "2025-04-09",
+  "attachments": [
+    "47159"
+  ],
+  "htmlHash": "13bd227f0da177f21463940ef723d3c6"
+}

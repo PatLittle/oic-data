@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0461</td><td>2025-03-23</td><td></td><td></td><td></td><td>PMO</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order directing that WRITS OF ELECTION do issue for a GENERAL ELECTION, with polling to take place on MONDAY, APRIL 28, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47205&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0461",
+  "date": "2025-03-23",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that WRITS OF ELECTION do issue for a GENERAL ELECTION, with polling to take place on MONDAY, APRIL 28, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47205"
+  ],
+  "htmlHash": "9b4f1471d4b277542f40c2c02ef74ebf"
+}

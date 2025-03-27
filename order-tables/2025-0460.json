@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0460</td><td>2025-03-23</td><td></td><td></td><td></td><td>PS, CBSA</td></tr><tr><td>Act</td><td colspan=\"6\">Customs Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Regulations Amending the Regulations Amending Certain Regulations Administered and Enforced by the Canada Border Services Agency</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Regulations Amending the REGULATIONS AMENDING CERTAIN REGULATIONS ADMINISTERED AND ENFORCED BY THE CANADA BORDER SERVICES AGENCY in order to replace the repeal of the regulatory provision that allows importers or owners of commercial goods registered in Canada Border Services Agency Assessment and Revenue Management to participate in the Release Prior to Payment Program without giving financial security 180 days after the regulations came into force with a repeal date of May 20, 2025.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0116  <strong>Publication Date:</strong> 2025-04-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47172&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0460",
+  "date": "2025-03-23",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Regulations Amending the REGULATIONS AMENDING CERTAIN REGULATIONS ADMINISTERED AND ENFORCED BY THE CANADA BORDER SERVICES AGENCY in order to replace the repeal of the regulatory provision that allows importers or owners of commercial goods registered in Canada Border Services Agency Assessment and Revenue Management to participate in the Release Prior to Payment Program without giving financial security 180 days after the regulations came into force with a repeal date of May 20, 2025.",
+  "registration": "Registration: SOR/ 2025-0116  Publication Date: 2025-04-09",
+  "registration_type": "SOR",
+  "registration_id": "2025-0116",
+  "registration_publication_date": "2025-04-09",
+  "attachments": [
+    "47172"
+  ],
+  "htmlHash": "24dea729e7c2834a5a277d2ac58bb3cf"
+}

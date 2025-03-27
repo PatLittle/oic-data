@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0458</td><td>2025-03-23</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">Canada Development Investment Corporation -- Canada Enterprise Emergency Funding Corporation</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order increasing the amount that may be drawn by the Minister of Finance from the Consolidated Revenue Fund for the purpose of providing loan guarantees as part of the Indigenous Loan Guarantee Program (ILGP) from $5 billion to $10 billion.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47170&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0458",
+  "date": "2025-03-23",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order increasing the amount that may be drawn by the Minister of Finance from the Consolidated Revenue Fund for the purpose of providing loan guarantees as part of the Indigenous Loan Guarantee Program (ILGP) from $5 billion to $10 billion.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47170"
+  ],
+  "htmlHash": "ef99a35c836595b71f60c01463ae7179"
+}

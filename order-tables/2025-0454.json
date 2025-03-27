@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0454</td><td>2025-03-23</td><td></td><td></td><td></td><td>FIN</td></tr><tr><td>Act</td><td colspan=\"6\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"6\">Order Amending the China Surtax Remission Order (2024)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order Amending the CHINA SURTAX REMISSION ORDER (2024) in order to (1) remit surtaxes to any importer in respect of two additional aluminum products imported on or after October 22, 2024 that have been determined to be in short supply; (2) expand the scope of remission to include steel and aluminum products imported by seven specifically identified companies facing contractual obligations that existed prior to August 26, 2024, or exceptional circumstances that could have significant adverse impacts on the Canadian economy; (3) correct an administrative error by amending the business number associated with remission provided under the the initial China Surtax Remission Order (2024) on certain Hybrid Electric Vehicles; (4) amend remission for one product to provide relief on a company-specific basis instead of a product-specific basis; and (5) exclude items subject to orders or findings under the Special Import Measures Act (SIMA) from being eligible for product-specific remissions under Schedule 1.</td></tr><tr><td>Registration</td><td colspan=\"6\" id=\"registration\"><strong>Registration: </strong>SOR/ 2025-0114  <strong>Publication Date:</strong> 2025-04-09</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47166&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0454",
+  "date": "2025-03-23",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order Amending the CHINA SURTAX REMISSION ORDER (2024) in order to (1) remit surtaxes to any importer in respect of two additional aluminum products imported on or after October 22, 2024 that have been determined to be in short supply; (2) expand the scope of remission to include steel and aluminum products imported by seven specifically identified companies facing contractual obligations that existed prior to August 26, 2024, or exceptional circumstances that could have significant adverse impacts on the Canadian economy; (3) correct an administrative error by amending the business number associated with remission provided under the the initial China Surtax Remission Order (2024) on certain Hybrid Electric Vehicles; (4) amend remission for one product to provide relief on a company-specific basis instead of a product-specific basis; and (5) exclude items subject to orders or findings under the Special Import Measures Act (SIMA) from being eligible for product-specific remissions under Schedule 1.",
+  "registration": "Registration: SOR/ 2025-0114  Publication Date: 2025-04-09",
+  "registration_type": "SOR",
+  "registration_id": "2025-0114",
+  "registration_publication_date": "2025-04-09",
+  "attachments": [
+    "47166"
+  ],
+  "htmlHash": "cf447dc395a08a604ecd92f67eba31c6"
+}

@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0462</td><td>2025-04-01</td><td></td><td></td><td></td><td>TBS</td></tr><tr><td>Act</td><td colspan=\"6\">Financial Administration Act</td></tr><tr><td>Subject</td><td colspan=\"6\">SPECIAL WARRANT - Consolidated Revenue Fund</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">Order directing that a SPECIAL WARRANT be prepared authorizing the payment of certain sums out of the Consolidated Revenue Fund which are urgently required for the public good, for the period covering April 1, 2025 up to and including May 15, 2025.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47207&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0462",
+  "date": "2025-04-01",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "Order directing that a SPECIAL WARRANT be prepared authorizing the payment of certain sums out of the Consolidated Revenue Fund which are urgently required for the public good, for the period covering April 1, 2025 up to and including May 15, 2025.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47207"
+  ],
+  "htmlHash": "2d2e7c4bd8289f77bfda710bda8819c9"
+}

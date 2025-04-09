@@ -1,0 +1,19 @@
+{
+  "html": "<table border=\"1px\" style=\"width: 100%;\"> <tbody><tr><td>&nbsp;</td>\n\t\t\t\t\t\t\t<th>PC Number</th>\n\t\t\t\t\t\t\t<th>Date</th>\n\t\t\t\t\t\t\t<th>Chapter</th>\n\t\t\t\t\t\t\t<th>Chapter Year</th>\n\t\t\t\t\t\t\t<th>Bill</th>\n\t\t\t\t\t\t\t<th>Dept</th></tr><tr><td style=\"min-width: 120px;\">&nbsp;</td><td>2025-0463</td><td>2025-04-07</td><td></td><td></td><td></td><td>FIN, GAC</td></tr><tr><td>Act</td><td colspan=\"6\">Customs Tariff</td></tr><tr><td>Subject</td><td colspan=\"6\">United States Surtax Order (Motor Vehicles 2025)</td></tr><tr><td>Precis</td><td colspan=\"6\" id=\"precis\">UNITED STATES SURTAX ORDER (MOTOR VEHICLES 2025) in order to establish reciprocal surtaxes of 25% on passenger vehicles and certain trucks that originate in the United States in accordance with the Determination of Country of Origin for the purpose of Marking Goods Regulations, covering approximately a total of $35.6 billion in annual imports.</td></tr><tr><td>Attachments</td><td colspan=\"6\"><a href=\"attachment.php?attach=47210&amp;lang=en\">Attachment</a></td></tr></tbody></table>",
+  "pcNumber": "2025-0463",
+  "date": "2025-04-07",
+  "chapter": "",
+  "bill": "",
+  "department": "",
+  "act": "",
+  "subject": "",
+  "precis": "UNITED STATES SURTAX ORDER (MOTOR VEHICLES 2025) in order to establish reciprocal surtaxes of 25% on passenger vehicles and certain trucks that originate in the United States in accordance with the Determination of Country of Origin for the purpose of Marking Goods Regulations, covering approximately a total of $35.6 billion in annual imports.",
+  "registration": "",
+  "registration_type": "",
+  "registration_id": "",
+  "registration_publication_date": "",
+  "attachments": [
+    "47210"
+  ],
+  "htmlHash": "ef34fc24e125ff40cb3775aec459c261"
+}

@@ -37,8 +37,13 @@ const savedOrderTablesPath = 'order-tables/';
 
     // Try to extract the number of total pages
     const totalPages = await page.evaluate(() => {
-        const paginationElement = document.querySelector('.pagebutton');
-        return paginationElement ? parseInt(paginationElement.innerText) : 1;
+        const paginationElement = document.querySelector('ul.pagination');
+        if (!paginationElement) return 1;
+
+        const pageLinks = Array.from(paginationElement.querySelectorAll('li > a[href*="pageNum="]'));
+        const pageNumbers = pageLinks.map(link => parseInt(new URL(link.href).searchParams.get('pageNum')));
+
+        return Math.max(...pageNumbers);
     });
 
     while (currentPage <= totalPages) {

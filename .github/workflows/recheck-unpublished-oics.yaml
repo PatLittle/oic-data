@@ -8,7 +8,7 @@ on:
 
 jobs:
   recheck-unpublished-oics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2

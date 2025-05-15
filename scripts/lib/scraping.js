@@ -65,16 +65,17 @@ async function extractOrderTables() {
 }
 
 export async function scrapeResultPage(page) {
-	await page.waitForSelector('.btn-toolbar');
+    // Wait for a new selector that is still present on the page
+    await page.waitForSelector('main > form > table', { timeout: 60000 });
 
-	let orderTables = await page.evaluate(extractOrderTables);
-	
-	orderTables = orderTables.map((orderTable) => ({
-		...orderTable,
-		htmlHash: MD5(orderTable.html).toString()
-	}));
+    let orderTables = await page.evaluate(extractOrderTables);
 
-	return orderTables;
+    orderTables = orderTables.map((orderTable) => ({
+        ...orderTable,
+        htmlHash: MD5(orderTable.html).toString()
+    }));
+
+    return orderTables;
 }
 
 export function filenameFromOrderTable(orderTable) {

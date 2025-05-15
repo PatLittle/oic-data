@@ -43,21 +43,31 @@ const savedOrderTablesPath = 'order-tables/';
 
     while (currentPage <= totalPages) {
         console.log(`Scraping page ${currentPage}`);
-        
-        // Scrape the current page
-        const orderTables = await scrapeResultPage(page);
 
-        // If all scraped order tables have already been saved, quit
-        if (orderTables.map(filenameFromOrderTable).every((filename) => savedOrderTables.includes(filename))) {
-            console.log('Scraped orders already saved, quitting');
-            break;
+        try {
+            // Scrape the current page
+            const orderTables = await scrapeResultPage(page);
+
+            // If all scraped order tables have already been saved, quit
+            if (orderTables.map(filenameFromOrderTable).every((filename) => savedOrderTables.includes(filename))) {
+                console.log('Scraped orders already saved, quitting');
+                break;
+            }
+
+            console.log('New tables found, saving');
+            saveOrderTables(orderTables);
+
+            currentPage++;
+            await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`, { waitUntil: 'domcontentloaded' });
+
+            // Wait for the toolbar to appear with a longer timeout
+            await page.waitForSelector('main > form > table', { timeout: 60000 });
+        } catch (error) {
+            console.error(`Error scraping page ${currentPage}:`, error);
+            console.log('Retrying...');
+            await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`, { waitUntil: 'domcontentloaded' });
+            continue;
         }
-
-        console.log('New tables found, saving');
-        saveOrderTables(orderTables);
-
-        currentPage++;
-        await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`);
     }
 
     await browser.close();

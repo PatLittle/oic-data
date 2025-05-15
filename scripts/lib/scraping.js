@@ -1,4 +1,3 @@
-// scripts/lib/scraping.js
 import fs from 'fs';
 import MD5 from 'crypto-js/md5.js';
 
@@ -19,16 +18,16 @@ async function extractOrderTables() {
     const cells = row.querySelectorAll('td');
     return {
       html: row.outerHTML,
-      pcNumber:    cells[0]?.innerText.trim(),
-      date:        cells[1]?.innerText.trim(),
-      chapter:     cells[2]?.innerText.trim(),
-      chapterYear: cells[3]?.innerText.trim(),
-      bill:        cells[4]?.innerText.trim(),
-      department:  cells[5]?.innerText.trim(),
-      act:         cells[6]?.innerText.trim(),
-      subject:     cells[7]?.innerText.trim(),
-      precis:      cells[8]?.innerText.trim(),
-      registration:cells[9]?.innerText.trim(),
+      pcNumber:     cells[0]?.innerText.trim(),
+      date:         cells[1]?.innerText.trim(),
+      chapter:      cells[2]?.innerText.trim(),
+      chapterYear:  cells[3]?.innerText.trim(),
+      bill:         cells[4]?.innerText.trim(),
+      department:   cells[5]?.innerText.trim(),
+      act:          cells[6]?.innerText.trim(),
+      subject:      cells[7]?.innerText.trim(),
+      precis:       cells[8]?.innerText.trim(),
+      registration: cells[9]?.innerText.trim(),
       attachments: Array.from(
         row.querySelectorAll('a[href*="attachment.php?attach="]')
       )

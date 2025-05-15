@@ -11,51 +11,55 @@
 */
 
 import fs from 'fs';
-
 import puppeteer from 'puppeteer';
-
 import { scrapeResultPage, saveOrderTables, filenameFromOrderTable } from './lib/scraping.js';
 
 const savedOrderTablesPath = 'order-tables/';
 
 (async function scrape() {
-	const browser = await puppeteer.launch({ headless: true });
-	
-	const page = await browser.newPage();
-	await page.goto('https://orders-in-council.canada.ca/index.php?lang=en');
-	
-	await page.waitForSelector('#btnSearch');
-	await page.click('#btnSearch');
+    const browser = await puppeteer.launch({ headless: true });
+    const page = await browser.newPage();
 
-	// get list of stored tables from disk, convert to comparable form
+    // Navigate to the main search page
+    await page.goto('https://orders-in-council.canada.ca/index.php?lang=en');
 
-	let savedOrderTables = fs.readdirSync(savedOrderTablesPath).filter(filename => filename.endsWith("json"));
+    // Wait for the search button to be available
+    await page.waitForSelector('#btnSearch', { timeout: 60000 });
+    await page.click('#btnSearch');
 
-	await page.waitForSelector('.btn-toolbar');
+    // Get the list of stored tables from the disk for comparison
+    const savedOrderTables = fs.readdirSync(savedOrderTablesPath).filter(filename => filename.endsWith("json"));
 
-	let currentPage = 1;
-	const totalPages = await page.evaluate(() => {
-		return parseInt(document.querySelector('.btn-toolbar + .pagebutton').innerText);
-	});
+    // Wait for the main content area to appear
+    await page.waitForSelector('main#wb-cont', { timeout: 60000 });
 
-	while(currentPage <= totalPages) {
-		console.log(`scraping page ${currentPage}`);
-		let orderTables = await scrapeResultPage(page);
+    let currentPage = 1;
 
-		// if all scraped order tables have already been saved, quit
-		if (orderTables.map(filenameFromOrderTable).every((filename) => savedOrderTables.includes(filename))) {
-			console.log('scraped orders already saved, quitting');
-			break;
-		}
+    // Try to extract the number of total pages
+    const totalPages = await page.evaluate(() => {
+        const paginationElement = document.querySelector('.pagebutton');
+        return paginationElement ? parseInt(paginationElement.innerText) : 1;
+    });
 
-		console.log('new tables, saving');
-		saveOrderTables(orderTables);
+    while (currentPage <= totalPages) {
+        console.log(`Scraping page ${currentPage}`);
+        
+        // Scrape the current page
+        const orderTables = await scrapeResultPage(page);
 
-		currentPage++;
-		await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`);
-	}
+        // If all scraped order tables have already been saved, quit
+        if (orderTables.map(filenameFromOrderTable).every((filename) => savedOrderTables.includes(filename))) {
+            console.log('Scraped orders already saved, quitting');
+            break;
+        }
 
-	await browser.close();
-	return;
+        console.log('New tables found, saving');
+        saveOrderTables(orderTables);
+
+        currentPage++;
+        await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`);
+    }
+
+    await browser.close();
 })();
 

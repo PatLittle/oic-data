@@ -60,8 +60,8 @@ const savedOrderTablesPath = 'order-tables/';
             currentPage++;
             await page.goto(`https://orders-in-council.canada.ca/results.php?pageNum=${currentPage}&lang=en`, { waitUntil: 'domcontentloaded' });
 
-            // Wait for the toolbar to appear with a longer timeout
-            await page.waitForSelector('main > form > table', { timeout: 60000 });
+            // Wait for the updated table selector
+            await page.waitForSelector('div.table-responsive > table#results', { timeout: 60000 });
         } catch (error) {
             console.error(`Error scraping page ${currentPage}:`, error);
             console.log('Retrying...');

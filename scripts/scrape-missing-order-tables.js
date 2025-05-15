@@ -32,7 +32,7 @@ const missingOrdersPath = 'processed-csvs/missing-oic-pc-numbers.csv';
 		await page.click('#btnSearch');
 
 		await page.waitForNavigation();
-		await page.waitForSelector('.btn-toolbar');
+		await page.waitForSelector('div.table-responsive > table#results');
 
 		console.log(`attempting to scrape unpublished OIC ${missingOrder.pc_number}`);
 		let orderTables = await scrapeResultPage(page);

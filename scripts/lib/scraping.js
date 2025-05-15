@@ -66,7 +66,7 @@ async function extractOrderTables() {
 
 export async function scrapeResultPage(page) {
     // Wait for a new selector that is still present on the page
-    await page.waitForSelector('main > form > table', { timeout: 60000 });
+    await page.waitForSelector('div.table-responsive > table#results', { timeout: 60000 });
 
     let orderTables = await page.evaluate(extractOrderTables);
 

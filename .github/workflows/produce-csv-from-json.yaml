@@ -28,7 +28,7 @@ jobs:
         sudo apt-get install miller
     - name: Run order table conversions with miller
       run: |-
-        find order-tables -iname "*.json" | xargs mlr --ijson --ocsvlite --no-auto-flatten regularize > orders-interim1.csv
+        find order-tables -iname "*.json" | xargs mlr --ijson --ocsvlite --quote-all --no-auto-flatten regularize > orders-interim1.csv
         mlr --csv --from orders-interim1.csv filter '$html != "html"' > orders-interim2.csv
         mlr --csv --from orders-interim2.csv cut -x -f html then sort -f pcNumber > processed-csvs/orders.csv
         mlr --csv --from orders-interim2.csv then cut -f pcNumber,html then sort -f pcNumber > processed-csvs/orders-html.csv

@@ -1,17 +1,17 @@
 {
-  "html": "<tr><td><a title=\"Link to attachment for 2025-0500\" href=\"attachment.php?attach=47289&amp;lang=en\">2025-0500</a><br></td><td>2025-05-26</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>TBS</td><td></td><td>Main Estimates - 2025-26 ** Tabling **</td><td>Order authorizing the tabling in the House of Commons of the MAIN ESTIMATES for the federal public administration for the fiscal year ending March 31, 2026.</td><td aria-label=\"not applicable\">N/A</td></tr>",
+  "html": "<tr><td><a title=\"Link to attachment for 2025-0500\" href=\"attachment.php?attach=47321&amp;lang=en\">2025-0500</a><br></td><td>2025-05-26</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>TBS</td><td>Constitution Act, 1867</td><td>Main Estimates - 2025-26 ** Tabling **</td><td>Order authorizing the tabling in the House of Commons of the MAIN ESTIMATES for the federal public administration for the fiscal year ending March 31, 2026.</td><td aria-label=\"not applicable\">N/A</td></tr>",
   "pcNumber": "2025-0500",
   "date": "2025-05-26",
   "chapter": "",
   "chapterYear": "",
   "bill": "",
   "department": "TBS",
-  "act": "",
+  "act": "Constitution Act, 1867",
   "subject": "Main Estimates - 2025-26 ** Tabling **",
   "precis": "Order authorizing the tabling in the House of Commons of the MAIN ESTIMATES for the federal public administration for the fiscal year ending March 31, 2026.",
   "registration": "N/A",
   "attachments": [
-    "47289"
+    "47321"
   ],
-  "htmlHash": "2cc3eb7e1dcda720f08266db2dfd44e6"
+  "htmlHash": "c2c43581d84eb5dca98d42bc30715b1b"
 }

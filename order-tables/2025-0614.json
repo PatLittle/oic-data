@@ -1,5 +1,5 @@
 {
-  "html": "<tr><td><a title=\"Link to attachment for 2025-0614\" href=\"attachment.php?attach=47511&amp;lang=en\">2025-0614</a><br></td><td>2025-08-11</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>FA</td><td>Other Than Statutory Authority</td><td>Appointment of the High Commissioner for Canada in the Republic of Fiji.</td><td>Appointment of Jennifer Lalonde as High Commissioner for Canada in the Republic of Fiji.</td><td aria-label=\"not applicable\">N/A</td></tr>",
+  "html": "<tr><td><a title=\"Link to attachment for 2025-0614\" href=\"attachment.php?attach=47511&amp;lang=en\">2025-0614</a><br></td><td class=\"\">2025-08-11</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>FA</td><td>Other Than Statutory Authority</td><td>Appointment of the High Commissioner for Canada in the Republic of Fiji.</td><td>Appointment of Jennifer Lalonde as High Commissioner for Canada in the Republic of Fiji.</td><td aria-label=\"not applicable\">N/A</td></tr>",
   "pcNumber": "2025-0614",
   "date": "2025-08-11",
   "chapter": "",
@@ -13,5 +13,5 @@
   "attachments": [
     "47511"
   ],
-  "htmlHash": "e9093e97189c1dcc26db34eb07ea8b12"
+  "htmlHash": "e2f0d63f5c0f9f939b34591b53a29f6b"
 }

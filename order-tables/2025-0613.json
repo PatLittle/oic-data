@@ -1,5 +1,5 @@
 {
-  "html": "<tr><td><a title=\"Link to attachment for 2025-0613\" href=\"attachment.php?attach=47510&amp;lang=en\">2025-0613</a><br></td><td>2025-08-11</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>FA</td><td>Other Than Statutory Authority</td><td>Appointment of the Consul General of Canada in Sao Paulo (Federative Republic of Brazil)</td><td>Appointment of Joanne Lemay as Consul General of Canada in Sao Paulo (Federative Republic of Brazil).</td><td aria-label=\"not applicable\">N/A</td></tr>",
+  "html": "<tr><td><a title=\"Link to attachment for 2025-0613\" href=\"attachment.php?attach=47510&amp;lang=en\">2025-0613</a><br></td><td class=\"\">2025-08-11</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>FA</td><td>Other Than Statutory Authority</td><td>Appointment of the Consul General of Canada in Sao Paulo (Federative Republic of Brazil)</td><td>Appointment of Joanne Lemay as Consul General of Canada in Sao Paulo (Federative Republic of Brazil).</td><td aria-label=\"not applicable\">N/A</td></tr>",
   "pcNumber": "2025-0613",
   "date": "2025-08-11",
   "chapter": "",
@@ -13,5 +13,5 @@
   "attachments": [
     "47510"
   ],
-  "htmlHash": "1fc543d159c01e985dbe99bab009bcf9"
+  "htmlHash": "8a9124e5a55f201855cc5db4b9c806a8"
 }

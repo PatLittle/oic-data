@@ -1,0 +1,28 @@
+name: Generate SQLite artifact
+
+on:
+  workflow_dispatch:
+    inputs:
+      attachment_whitespace:
+        description: "Whitespace mode for attachments (preserve, strip, collapse, remove)"
+        required: false
+        default: "preserve"
+
+permissions:
+  contents: read
+
+jobs:
+  build-sqlite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v4
+      - name: Build SQLite database
+        run: |
+          python3 scripts/build-sqlite-db.py --attachment-whitespace "${{ inputs.attachment_whitespace }}"
+      - name: Upload SQLite artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: oic-data-sqlite
+          path: processed-csvs/oic-data.sqlite
+          if-no-files-found: error

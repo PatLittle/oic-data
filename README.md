@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-03-13
-**Last checked:** 2026-03-25 10:58 UTC
+**Last checked:** 2026-03-25 11:05 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -40,7 +40,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 ```mermaid
 xychart-beta
     title "Orders in Council by Year"
-    x-axis ["1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"]
+    x-axis ["1990", "", "", "", "", "1995", "", "", "", "", "2000", "", "", "", "", "2005", "", "", "", "", "2010", "", "", "", "", "2015", "", "", "", "", "2020", "", "", "", "", "2025", ""]
     y-axis "Orders" 0 --> 2873
     line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 228]
 ```
@@ -48,7 +48,7 @@ xychart-beta
 
 ### Monthly order counts by act
 
-Mermaid XY charts support multiple bar series, but not documented stacked bars, so this chart uses one monthly series per act in a GitHub-renderable format.
+Mermaid XY charts support multiple line series, so this chart shows one monthly series per act in a GitHub-renderable format.
 
 <!-- MONTHLY_ACT_CHART:START -->
 Series order: 1. Other Than Statutory Authority; 2. Financial Administration Act; 3. Department of Employment and Social Development Act; 4. Public Service Employment Act; 5. Customs Tariff; 6. Immigration and Refugee Protection Act; 7. Other
@@ -58,13 +58,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03"]
     y-axis "Orders" 0 --> 71
-    bar [0, 1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 13]
-    bar [0, 7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 1]
-    bar [0, 0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 0]
-    bar [0, 0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10]
-    bar [4, 0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 0]
-    bar [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 2]
-    bar [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 32]
+    line [0, 1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 13]
+    line [0, 7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 1]
+    line [0, 0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 0]
+    line [0, 0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10]
+    line [4, 0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 0]
+    line [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 2]
+    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 32]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

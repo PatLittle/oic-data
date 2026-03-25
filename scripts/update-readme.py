@@ -123,7 +123,10 @@ def render_year_chart(orders: list[OrderRow]) -> str:
             counts[order.date.year] += 1
 
     years = sorted(counts)
-    year_labels = ", ".join(f'"{year}"' for year in years)
+    year_labels = ", ".join(
+        f'"{year}"' if year % 5 == 0 else '""'
+        for year in years
+    )
     values = ", ".join(str(counts[year]) for year in years)
     max_count = max(counts.values(), default=0)
 
@@ -205,7 +208,7 @@ def render_monthly_act_chart(orders: list[OrderRow]) -> str:
     ]
 
     for _label, values in series:
-        lines.append(f"    bar [{', '.join(str(value) for value in values)}]")
+        lines.append(f"    line [{', '.join(str(value) for value in values)}]")
 
     lines.append("```")
     return "\n".join(lines)

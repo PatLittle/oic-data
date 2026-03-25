@@ -3,10 +3,18 @@ name: Generate SQLite artifact
 on:
   workflow_dispatch:
     inputs:
+      order_whitespace:
+        description: "Whitespace mode for orders (preserve, strip, collapse, remove)"
+        required: false
+        default: "collapse"
       attachment_whitespace:
         description: "Whitespace mode for attachments (preserve, strip, collapse, remove)"
         required: false
-        default: "preserve"
+        default: "collapse"
+      secondary_indexes:
+        description: "Whether to create secondary indexes (yes, no)"
+        required: false
+        default: "no"
 
 permissions:
   contents: read
@@ -19,8 +27,26 @@ jobs:
         uses: actions/checkout@v4
       - name: Build SQLite database
         run: |
-          python3 scripts/build-sqlite-db.py --attachment-whitespace "${{ inputs.attachment_whitespace }}"
+          extra_args=""
+          if [ "${{ inputs.secondary_indexes }}" = "no" ]; then
+            extra_args="--no-secondary-indexes"
+          fi
+          python3 scripts/build-sqlite-db.py \
+            --order-whitespace "${{ inputs.order_whitespace }}" \
+            --attachment-whitespace "${{ inputs.attachment_whitespace }}" \
+            ${extra_args}
+      - name: Check SQLite size
+        id: sqlite_size
+        run: |
+          db_bytes=$(stat -c%s processed-csvs/oic-data.sqlite)
+          echo "db_bytes=${db_bytes}" >> "$GITHUB_OUTPUT"
+          if [ "$db_bytes" -le 104857600 ]; then
+            echo "store_in_repo=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "store_in_repo=false" >> "$GITHUB_OUTPUT"
+          fi
       - name: Upload SQLite artifact
+        if: steps.sqlite_size.outputs.store_in_repo != 'true'
         uses: actions/upload-artifact@v4
         with:
           name: oic-data-sqlite

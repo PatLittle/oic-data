@@ -19,7 +19,7 @@ ATTACHMENTS_CSV = CSV_DIR / "attachments.csv"
 MISSING_CSV = CSV_DIR / "missing-oic-pc-numbers.csv"
 
 
-def normalize_attachment_text(text: str, mode: str) -> str:
+def normalize_text(text: str, mode: str) -> str:
     if mode == "preserve":
         return text
 
@@ -34,7 +34,7 @@ def normalize_attachment_text(text: str, mode: str) -> str:
     raise ValueError(f"Unsupported whitespace mode: {mode}")
 
 
-def load_orders(cur: sqlite3.Cursor) -> None:
+def load_orders(cur: sqlite3.Cursor, whitespace_mode: str) -> None:
     with ORDERS_CSV.open("r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -64,14 +64,14 @@ def load_orders(cur: sqlite3.Cursor) -> None:
                     row["date"],
                     row["chapter"],
                     row["bill"],
-                    row["department"],
-                    row["act"],
-                    row["subject"],
-                    row["precis"],
-                    row["registration"],
-                    row["registration_type"],
-                    row["registration_id"],
-                    row["registration_publication_date"],
+                    normalize_text(row["department"], whitespace_mode),
+                    normalize_text(row["act"], whitespace_mode),
+                    normalize_text(row["subject"], whitespace_mode),
+                    normalize_text(row["precis"], whitespace_mode),
+                    normalize_text(row["registration"], whitespace_mode),
+                    normalize_text(row["registration_type"], whitespace_mode),
+                    normalize_text(row["registration_id"], whitespace_mode),
+                    normalize_text(row["registration_publication_date"], whitespace_mode),
                 ),
             )
 
@@ -100,7 +100,7 @@ def load_attachments(cur: sqlite3.Cursor, whitespace_mode: str) -> None:
                 "INSERT INTO attachments (id, attachment_text) VALUES (?, ?)",
                 (
                     int(row["id"]),
-                    normalize_attachment_text(row["attachmentText"], whitespace_mode),
+                    normalize_text(row["attachmentText"], whitespace_mode),
                 ),
             )
 
@@ -115,7 +115,7 @@ def load_missing(cur: sqlite3.Cursor) -> None:
             )
 
 
-def initialize_schema(cur: sqlite3.Cursor) -> None:
+def initialize_schema(cur: sqlite3.Cursor, create_secondary_indexes: bool) -> None:
     cur.executescript(
         """
         PRAGMA foreign_keys = ON;
@@ -160,14 +160,23 @@ def initialize_schema(cur: sqlite3.Cursor) -> None:
         CREATE TABLE missing_oic_pc_numbers (
             pc_number TEXT PRIMARY KEY
         );
-
-        CREATE INDEX idx_orders_date ON orders(date);
-        CREATE INDEX idx_order_attachments_attachment_id ON order_attachments(attachment_id);
         """
     )
+    if create_secondary_indexes:
+        cur.executescript(
+            """
+            CREATE INDEX idx_orders_date ON orders(date);
+            CREATE INDEX idx_order_attachments_attachment_id ON order_attachments(attachment_id);
+            """
+        )
 
 
-def build_database(db_path: Path, whitespace_mode: str) -> None:
+def build_database(
+    db_path: Path,
+    order_whitespace: str,
+    attachment_whitespace: str,
+    create_secondary_indexes: bool,
+) -> None:
     csv.field_size_limit(10_000_000)
 
     db_path.parent.mkdir(parents=True, exist_ok=True)
@@ -176,10 +185,14 @@ def build_database(db_path: Path, whitespace_mode: str) -> None:
 
     with sqlite3.connect(db_path) as conn:
         cur = conn.cursor()
-        initialize_schema(cur)
-        load_attachments(cur, whitespace_mode)
-        load_orders(cur)
+        cur.execute("PRAGMA journal_mode = OFF")
+        cur.execute("PRAGMA synchronous = OFF")
+        initialize_schema(cur, create_secondary_indexes)
+        load_attachments(cur, attachment_whitespace)
+        load_orders(cur, order_whitespace)
         load_missing(cur)
+        conn.commit()
+        cur.execute("VACUUM")
         conn.commit()
 
 
@@ -192,21 +205,41 @@ def parse_args() -> argparse.Namespace:
         help=f"Output SQLite path (default: {DEFAULT_DB_PATH})",
     )
     parser.add_argument(
-        "--attachment-whitespace",
+        "--order-whitespace",
         choices=["preserve", "strip", "collapse", "remove"],
-        default="preserve",
+        default="strip",
         help=(
-            "How to normalize attachment_text whitespace: "
-            "preserve (default), strip (trim ends), collapse (single-space runs), "
+            "How to normalize order text whitespace: "
+            "preserve, strip (default; trim ends), collapse (single-space runs), "
             "or remove (delete all whitespace)."
         ),
+    )
+    parser.add_argument(
+        "--attachment-whitespace",
+        choices=["preserve", "strip", "collapse", "remove"],
+        default="strip",
+        help=(
+            "How to normalize attachment_text whitespace: "
+            "preserve, strip (default; trim ends), collapse (single-space runs), "
+            "or remove (delete all whitespace)."
+        ),
+    )
+    parser.add_argument(
+        "--no-secondary-indexes",
+        action="store_true",
+        help="Skip non-primary-key indexes to reduce database size.",
     )
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
-    build_database(args.db_path, args.attachment_whitespace)
+    build_database(
+        args.db_path,
+        args.order_whitespace,
+        args.attachment_whitespace,
+        create_secondary_indexes=not args.no_secondary_indexes,
+    )
 
 
 if __name__ == "__main__":

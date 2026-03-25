@@ -124,7 +124,7 @@ def render_year_chart(orders: list[OrderRow]) -> str:
 
     years = sorted(counts)
     year_labels = ", ".join(
-        f'"{year}"' if year % 5 == 0 else '""'
+        f'"{year}"' if year % 5 == 0 else '" "'
         for year in years
     )
     values = ", ".join(str(counts[year]) for year in years)

@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-03-13
-**Last checked:** 2026-03-25 11:40 UTC
+**Last checked:** 2026-03-25 11:47 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -38,9 +38,15 @@ The database’s disclaimer _extra applies_ to this dataset:
 
 <!-- ORDERS_BY_YEAR:START -->
 ```mermaid
+---
+config:
+  xychart:
+    xAxis:
+      labelFontSize: 8
+---
 xychart-beta
     title "Orders in Council by Year"
-    x-axis ["1990", " ", " ", " ", " ", "1995", " ", " ", " ", " ", "2000", " ", " ", " ", " ", "2005", " ", " ", " ", " ", "2010", " ", " ", " ", " ", "2015", " ", " ", " ", " ", "2020", " ", " ", " ", " ", "2025", " "]
+    x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
     line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 228]
 ```

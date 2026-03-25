@@ -123,16 +123,19 @@ def render_year_chart(orders: list[OrderRow]) -> str:
             counts[order.date.year] += 1
 
     years = sorted(counts)
-    year_labels = ", ".join(
-        f'"{year}"' if year % 5 == 0 else '" "'
-        for year in years
-    )
+    year_labels = ", ".join(f'"{year % 100:02d}"' for year in years)
     values = ", ".join(str(counts[year]) for year in years)
     max_count = max(counts.values(), default=0)
 
     return "\n".join(
         [
             "```mermaid",
+            "---",
+            "config:",
+            "  xychart:",
+            "    xAxis:",
+            "      labelFontSize: 8",
+            "---",
             "xychart-beta",
             '    title "Orders in Council by Year"',
             f"    x-axis [{year_labels}]",

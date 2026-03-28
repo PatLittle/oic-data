@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 from collections import Counter, defaultdict
 from dataclasses import dataclass
-from datetime import UTC, datetime
+from datetime import timezone, datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -77,7 +77,7 @@ def replace_block(readme: str, marker: str, content: str) -> str:
 def render_status_block(orders: list[OrderRow]) -> str:
     dated_orders = [order for order in orders if order.date is not None]
     latest_order_date = max(order.date for order in dated_orders)
-    last_checked = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
+    last_checked = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     return "\n".join(
         [

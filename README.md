@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-03-13
-**Last checked:** 2026-03-25 11:47 UTC
+**Latest OIC date:** 2026-03-24
+**Last checked:** 2026-03-28 10:24 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -20,6 +20,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-03-24 | 2026-0245 | ESDC | Accessible Canada Act | Reappointment of a director of the Canadian Accessibility Standards Development Organization |
 | 2026-03-13 | 2026-0244 | JUS | Other Than Statutory Authority | Appointment of a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta |
 | 2026-03-13 | 2026-0243 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Court of King’s Bench of Manitoba |
 | 2026-03-13 | 2026-0242 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Court of King’s Bench of Manitoba |
@@ -29,7 +30,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-03-13 | 2026-0238 | PCH | National Film Act | Appointment of a part-time member of the National Film Board |
 | 2026-03-13 | 2026-0237 | PCH | Telefilm Canada Act | Reappointment of a member of Telefilm Canada |
 | 2026-03-13 | 2026-0236 | PCH | Museums Act | Designation of the Director of the Canadian Museum of Immigration at Pier 21 |
-| 2026-03-13 | 2026-0235 | HC | Canadian Institutes of Health Research Act | Reappointment of a member of the Governing Council of the Canadian Institutes of Health Research |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -48,7 +48,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 228]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 229]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -70,7 +70,7 @@ xychart-beta
     line [0, 0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10]
     line [4, 0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 0]
     line [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 2]
-    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 32]
+    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 33]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

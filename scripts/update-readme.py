@@ -197,6 +197,7 @@ def render_monthly_act_chart(orders: list[OrderRow]) -> str:
 
     all_values = [value for _label, values in series for value in values]
     max_count = max(all_values, default=0)
+    month_axis = ", ".join(f'"{month}"' for month in month_labels)
 
     lines = [
         "Series order: " + "; ".join(
@@ -206,7 +207,7 @@ def render_monthly_act_chart(orders: list[OrderRow]) -> str:
         "```mermaid",
         "xychart-beta",
         '    title "Monthly Order Counts by Act (Latest 12 Months)"',
-        f"    x-axis [{', '.join(f'\"{month}\"' for month in month_labels)}]",
+        f"    x-axis [{month_axis}]",
         f'    y-axis "Orders" 0 --> {max_count}',
     ]
 

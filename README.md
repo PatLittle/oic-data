@@ -7,13 +7,22 @@
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
 
-The [Orders in Council (OIC) database](https://orders-in-council.canada.ca/) is great—but it has no export. This makes it difficult to study OICs at scale.
+The [Orders in Council (OIC) database](https://orders-in-council.canada.ca/) is great—but it has no export. This makes it difficult to study OICs at scale. This project mirrors OICs, and their attachments, once a day.
 
-This project mirrors OICs, and their attachments, once a day.
 
 The database’s disclaimer _extra applies_ to this dataset:
 
 > The Orders in Council available through this website are not to be considered to be official versions, and are provided only for information purposes. If you wish to obtain an official version, please [contact the Orders in Council Division](https://www.canada.ca/en/privy-council/services/orders-in-council.html#summary-details3).
+
+### View OIC Data in Flat Data Viewer
+#### Orders.csv
+>[![Static Badge](https://img.shields.io/badge/Open%20in%20Flatdata%20Viewer-FF00E8?style=for-the-badge&logo=github&logoColor=black)](https://flatgithub.com/PatLittle/oic-data/blob/main/processed-csvs?filename=processed-csvs%2Forders.csv&sort=date%2Cdesc&stickyColumnName=pcNumber) 
+
+#### Attachments.csv
+>[![Static Badge](https://img.shields.io/badge/Open%20in%20Flatdata%20Viewer-FF00E8?style=for-the-badge&logo=github&logoColor=black)](https://flatgithub.com/PatLittle/oic-data/blob/main/processed-csvs?filename=processed-csvs%2Fattachments.csv)
+
+
+
 
 ## Recent orders
 

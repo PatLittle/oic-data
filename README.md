@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-03-24
-**Last checked:** 2026-03-30 09:45 UTC
+**Latest OIC date:** 2026-03-25
+**Last checked:** 2026-03-31 09:15 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-03-24 | 2026-0245 | ESDC | Accessible Canada Act | Reappointment of a director of the Canadian Accessibility Standards Development Organization |
-| 2026-03-13 | 2026-0244 | JUS | Other Than Statutory Authority | Appointment of a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta |
-| 2026-03-13 | 2026-0243 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Court of King’s Bench of Manitoba |
-| 2026-03-13 | 2026-0242 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Court of King’s Bench of Manitoba |
-| 2026-03-13 | 2026-0241 | JUS | Other Than Statutory Authority | Appointment of a Regional Senior Judge of the Superior Court of Justice of Ontario for the Central East Region, and a Judge ex officio of the Court of Appeal for Ontario |
-| 2026-03-13 | 2026-0240 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
-| 2026-03-13 | 2026-0239 | WAGE | Canadian Tourism Commission Act | Reappointment of the Chairperson of the Board of Directors of the Canadian Tourism Commission |
-| 2026-03-13 | 2026-0238 | PCH | National Film Act | Appointment of a part-time member of the National Film Board |
-| 2026-03-13 | 2026-0237 | PCH | Telefilm Canada Act | Reappointment of a member of Telefilm Canada |
-| 2026-03-13 | 2026-0236 | PCH | Museums Act | Designation of the Director of the Canadian Museum of Immigration at Pier 21 |
+| 2026-03-25 | 2026-0271 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Russia) Regulations |
+| 2026-03-25 | 2026-0270 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Iran) Regulations |
+| 2026-03-25 | 2026-0269 | PMO | Other Than Statutory Authority | Order establishing the new mandate of Rapid Response Mechanism Canada |
+| 2026-03-25 | 2026-0268 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Transport to the Department of National Defence the Control and Supervision of the Aircraft Services Directorate |
+| 2026-03-25 | 2026-0267 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of British Columbia |
+| 2026-03-25 | 2026-0266 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of British Columbia |
+| 2026-03-25 | 2026-0265 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of British Columbia |
+| 2026-03-25 | 2026-0264 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of British Columbia |
+| 2026-03-25 | 2026-0263 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Court of King's Bench of Manitoba |
+| 2026-03-25 | 2026-0262 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Quebec for the District of Montréal |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 229]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 255]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03"]
     y-axis "Orders" 0 --> 71
-    line [0, 1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 13]
+    line [0, 1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 26]
     line [0, 7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 1]
-    line [0, 0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 0]
+    line [0, 0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1]
     line [0, 0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10]
     line [4, 0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 0]
-    line [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 2]
-    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 33]
+    line [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 5]
+    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 42]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

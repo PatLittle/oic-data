@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-03-27
-**Last checked:** 2026-04-02 09:12 UTC
+**Latest OIC date:** 2026-03-30
+**Last checked:** 2026-04-03 09:08 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-03-27 | 2026-0274 | DND | Visiting Forces Act | Proclamation to designate the Republic of the Philippines as a "designated state" |
-| 2026-03-27 | 2026-0273 | TBS | Financial Administration Act | Release of Interim Supply for Main Estimates - 2026-27 ** Warrant ** |
-| 2026-03-27 | 2026-0272 | TBS | Financial Administration Act | Release of Supply for Supplementary Estimates (C) 2025-2026 ** Warrant ** |
-| 2026-03-25 | 2026-0271 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Russia) Regulations |
-| 2026-03-25 | 2026-0270 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Iran) Regulations |
-| 2026-03-25 | 2026-0269 | PMO | Other Than Statutory Authority | Order establishing the new mandate of Rapid Response Mechanism Canada |
-| 2026-03-25 | 2026-0268 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Transport to the Department of National Defence the Control and Supervision of the Aircraft Services Directorate |
-| 2026-03-25 | 2026-0267 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of British Columbia |
-| 2026-03-25 | 2026-0266 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of British Columbia |
-| 2026-03-25 | 2026-0265 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of British Columbia |
+| 2026-03-30 | 2026-0302 | FIN | Customs Tariff | United States Surtax Remission Order (Motor Vehicles 2026) |
+| 2026-03-30 | 2026-0301 | ESDC | Employment Insurance Act | Regulations Amending the Employment Insurance Regulations |
+| 2026-03-30 | 2026-0300 | IRCC, TB | Financial Administration Act | Adjustment of Certain Fees Under the Passport and Other Travel Document Services Fees Regulations Remission Order |
+| 2026-03-30 | 2026-0299 | IRCC, TB | Financial Administration Act | Fees Paid or Payable for the Processing of an Application for Permanent Resident Status (Humanitarian and Compassionate Considerations) Remission Order, No. 2 |
+| 2026-03-30 | 2026-0298 | IRCC, TB | Financial Administration Act | Fees Paid or Payable for the Processing of an Application for Permanent Resident Status (Humanitarian and Compassionate Considerations) Remission Order, No. 1 |
+| 2026-03-30 | 2026-0297 | IRCC, TB | Financial Administration Act | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Certain Foreign Nationals) Remission Order |
+| 2026-03-30 | 2026-0296 | IRCC, TB | Financial Administration Act | Fees Paid or Payable for the Acquisition of Permanent Resident Status and for the Processing of a Sponsoship Application for Family Classes (Sudan) Remission Order |
+| 2026-03-30 | 2026-0295 | IRCC, TB | Financial Administration Act | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
+| 2026-03-30 | 2026-0294 | JUS | Judges Act | Order approving the resignation and Annuity of Honourable Heather J. Williams, a judge of the Superior Court of Justice of Ontario |
+| 2026-03-30 | 2026-0293 | ISED | Boards of Trade Act | Order Approving the Name Change of the Chambre de commerce et d'Industrie Vallée-du-Richelieu |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 258]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 286]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03"]
     y-axis "Orders" 0 --> 71
-    line [0, 1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 26]
-    line [0, 7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 3]
+    line [0, 1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31]
+    line [0, 7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 13]
     line [0, 0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1]
     line [0, 0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10]
-    line [4, 0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 0]
-    line [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 5]
-    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 43]
+    line [4, 0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 1]
+    line [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6]
+    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 54]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

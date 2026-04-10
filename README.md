@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-03-31
-**Last checked:** 2026-04-09 09:22 UTC
+**Latest OIC date:** 2026-04-01
+**Last checked:** 2026-04-10 09:22 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-04-01 | 2026-0304 | PMO | Nunavut Act | Reappointment of the Commissioner of Nunavut |
 | 2026-03-31 | 2026-0303 | AAFC, FIN | Agricultural Marketing Programs Act | Regulations Amending the Agricultural Marketing Programs Regulations (2026) |
 | 2026-03-30 | 2026-0302 | FIN | Customs Tariff | United States Surtax Remission Order (Motor Vehicles 2026) |
 | 2026-03-30 | 2026-0301 | ESDC | Employment Insurance Act | Regulations Amending the Employment Insurance Regulations |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-03-30 | 2026-0297 | IRCC, TB | Financial Administration Act | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Certain Foreign Nationals) Remission Order |
 | 2026-03-30 | 2026-0296 | IRCC, TB | Financial Administration Act | Fees Paid or Payable for the Acquisition of Permanent Resident Status and for the Processing of a Sponsoship Application for Family Classes (Sudan) Remission Order |
 | 2026-03-30 | 2026-0295 | IRCC, TB | Financial Administration Act | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
-| 2026-03-30 | 2026-0294 | JUS | Judges Act | Order approving the resignation and Annuity of Honourable Heather J. Williams, a judge of the Superior Court of Justice of Ontario |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 287]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 288]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -66,20 +66,20 @@ xychart-beta
 Mermaid XY charts support multiple line series, so this chart shows one monthly series per act in a GitHub-renderable format.
 
 <!-- MONTHLY_ACT_CHART:START -->
-Series order: 1. Other Than Statutory Authority; 2. Financial Administration Act; 3. Department of Employment and Social Development Act; 4. Public Service Employment Act; 5. Customs Tariff; 6. Immigration and Refugee Protection Act; 7. Other
+Series order: 1. Other Than Statutory Authority; 2. Financial Administration Act; 3. Department of Employment and Social Development Act; 4. Public Service Employment Act; 5. Immigration and Refugee Protection Act; 6. Customs Tariff; 7. Other
 
 ```mermaid
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
-    x-axis ["2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03"]
+    x-axis ["2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04"]
     y-axis "Orders" 0 --> 71
-    line [0, 1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31]
-    line [0, 7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 13]
-    line [0, 0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1]
-    line [0, 0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10]
-    line [4, 0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 1]
-    line [0, 0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6]
-    line [1, 49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55]
+    line [1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 0]
+    line [7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 0]
+    line [0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 0]
+    line [0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0]
+    line [0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 0]
+    line [0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 0]
+    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 1]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

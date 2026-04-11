@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-04-01
-**Last checked:** 2026-04-10 09:22 UTC
+**Latest OIC date:** 2026-04-07
+**Last checked:** 2026-04-11 09:00 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-04-07 | 2026-0305 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of the Republic of the Philippines concerning the Status of Visiting Forces of Each State in the Territory of the Other State |
 | 2026-04-01 | 2026-0304 | PMO | Nunavut Act | Reappointment of the Commissioner of Nunavut |
 | 2026-03-31 | 2026-0303 | AAFC, FIN | Agricultural Marketing Programs Act | Regulations Amending the Agricultural Marketing Programs Regulations (2026) |
 | 2026-03-30 | 2026-0302 | FIN | Customs Tariff | United States Surtax Remission Order (Motor Vehicles 2026) |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-03-30 | 2026-0298 | IRCC, TB | Financial Administration Act | Fees Paid or Payable for the Processing of an Application for Permanent Resident Status (Humanitarian and Compassionate Considerations) Remission Order, No. 1 |
 | 2026-03-30 | 2026-0297 | IRCC, TB | Financial Administration Act | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Certain Foreign Nationals) Remission Order |
 | 2026-03-30 | 2026-0296 | IRCC, TB | Financial Administration Act | Fees Paid or Payable for the Acquisition of Permanent Resident Status and for the Processing of a Sponsoship Application for Family Classes (Sudan) Remission Order |
-| 2026-03-30 | 2026-0295 | IRCC, TB | Financial Administration Act | Fee Paid or Payable for the Acquisition of Permanent Resident Status (Afghanistan) Remission Order |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 288]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 289]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,7 +73,7 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04"]
     y-axis "Orders" 0 --> 71
-    line [1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 0]
+    line [1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 1]
     line [7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 0]
     line [0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 0]
     line [0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0]

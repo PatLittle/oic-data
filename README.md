@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-04-16
-**Last checked:** 2026-04-19 09:05 UTC
+**Latest OIC date:** 2026-04-20
+**Last checked:** 2026-04-21 09:49 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-04-20 | 2026-0340 | FIN | Canadian International Trade Tribunal Act | Order Referring the Matter of the Importation of Certain Wood Goods to the Canadian International Trade Tribunal |
 | 2026-04-16 | 2026-0334 | FIN | Customs Tariff | Order Amending the Surtax on Imports of Certain Steel Goods Remission Order, 2025 |
 | 2026-04-09 | 2026-0325 | GAC | Other Than Statutory Authority | Canada - Oriental Republic of Uruguay on Mutual Administrative Assistance in Customs Matters ** Agreement ** |
 | 2026-04-09 | 2026-0324 | GAC | Other Than Statutory Authority | Canada - Federative Republic of Brazil on Mutual Administrative Assistance in Customs Matters ** Agreement ** |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-04-09 | 2026-0320 | TC | Transportation Appeal Tribunal of Canada Act | Reappointment of a part-time member of the Transportation Appeal Tribunal of Canada |
 | 2026-04-09 | 2026-0319 | TC | Transportation Appeal Tribunal of Canada Act | Reappointment of a part-time member of the Transportation Appeal Tribunal of Canada |
 | 2026-04-09 | 2026-0318 | TC | Transportation Appeal Tribunal of Canada Act | Reappointment of a part-time member of the Transportation Appeal Tribunal of Canada |
-| 2026-04-09 | 2026-0317 | IC | Statistics Act | Appointment of a Chairperson of the Canadian Statistics Advisory Council |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 310]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 311]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -79,7 +79,7 @@ xychart-beta
     line [0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0]
     line [0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 3]
     line [0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 1]
-    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 11]
+    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 12]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

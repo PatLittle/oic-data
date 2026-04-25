@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-04-20
-**Last checked:** 2026-04-24 09:53 UTC
+**Latest OIC date:** 2026-04-21
+**Last checked:** 2026-04-25 09:07 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-04-20 | 2026-0340 | FIN | Canadian International Trade Tribunal Act | Order Referring the Matter of the Importation of Certain Wood Goods to the Canadian International Trade Tribunal |
-| 2026-04-17 | 2026-0339 | PMO | None | Appointment of the Assistant Clerk of the King's Privy Council for Canada (Orders in Council). |
-| 2026-04-17 | 2026-0338 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Natural Resources to the Department of Employment and Social Development the Control and Supervision of the Sustainable Jobs Secretariat |
-| 2026-04-17 | 2026-0337 | PMO | Canadian Sustainable Jobs Act | Order Designating the Minister of Natural Resources, a member of the King’s Privy Council for Canada to be a specified Minister for the purposes of the Canadian Sustainable Jobs Act |
-| 2026-04-17 | 2026-0336 | PMO | Canadian Sustainable Jobs Act | Order Designating the Minister of Employment and Social Development, a member of the King’s Privy Council for Canada to be the Minister for the purposes of the Canadian Sustainable Jobs Act. |
-| 2026-04-16 | 2026-0335 | ISED | Telecommunications Act | Order declining to vary, rescind or refer back to the Canadian Radio-television and Telecommunications Commission for reconsideration |
-| 2026-04-16 | 2026-0334 | FIN | Customs Tariff | Order Amending the Surtax on Imports of Certain Steel Goods Remission Order, 2025 |
-| 2026-04-16 | 2026-0333 | GAC | Other Than Statutory Authority | Order Ratifying the Framework Agreement for International Collaboration on Research and Development of Generation IV Nuclear Energy Systems |
-| 2026-04-16 | 2026-0332 | GAC | Other Than Statutory Authority | Order Ratifying the Final Acts of the Agreement between Canada and the European Union Amending Annex B of the Agreement on Civil Aviation Safety between Canada and the European Community. |
-| 2026-04-16 | 2026-0331 | GAC | Other Than Statutory Authority | Order Ratifying the Final Acts of the World Radiocommunication Conference of the International Telecommunication Union |
+| 2026-04-21 | 2026-0377 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Federative Republic of Brazil |
+| 2026-04-21 | 2026-0376 | PMO | National Security and Intelligence Committee of Parliamentarians Act | Reappointment of a Executive Director of the Secretariat of the National Security and Intelligence Committee of Parliamentarians |
+| 2026-04-21 | 2026-0375 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-04-21 | 2026-0374 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Federal Court, and a Judge ex officio of the Federal Court of Appeal |
+| 2026-04-21 | 2026-0373 | JUS | Other Than Statutory Authority | Appointment of a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta |
+| 2026-04-21 | 2026-0372 | SB&T | Canadian Tourism Commission Act | Reappointment of a director of the Board of Directors of the Canadian Tourism Commission |
+| 2026-04-21 | 2026-0371 | SB&T | Canadian Tourism Commission Act | Reappointment of a director of the Board of Directors of the Canadian Tourism Commission |
+| 2026-04-21 | 2026-0370 | ISED | Business Development Bank of Canada Act | Reappointment of a director of the Board of Directors of the Business Development Bank of Canada |
+| 2026-04-21 | 2026-0369 | ESDC | Department of Employment and Social Development Act | Reappointment of a full-time member of the Social Security Tribunal who may hear matters in the Employment Insurance Section |
+| 2026-04-21 | 2026-0368 | ESDC | Department of Employment and Social Development Act | Reappointment of a full-time member of the Social Security Tribunal who may hear matters in the Employment Insurance Section |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 324]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 354]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04"]
     y-axis "Orders" 0 --> 71
-    line [1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 9]
+    line [1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 20]
     line [7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 1]
-    line [0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 2]
+    line [0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 8]
     line [0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0]
-    line [0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 3]
+    line [0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 6]
     line [0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 1]
-    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 21]
+    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 31]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

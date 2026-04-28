@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-04-21
-**Last checked:** 2026-04-27 10:25 UTC
+**Latest OIC date:** 2026-04-22
+**Last checked:** 2026-04-28 10:24 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-04-22 | 2026-0378 | NRCAN | Canadian Energy Regulator Act | Order directing the issue of a Certificate of Public Convenience and Necessity to Westcoast Energy Inc. |
 | 2026-04-21 | 2026-0377 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Federative Republic of Brazil |
 | 2026-04-21 | 2026-0376 | PMO | National Security and Intelligence Committee of Parliamentarians Act | Reappointment of a Executive Director of the Secretariat of the National Security and Intelligence Committee of Parliamentarians |
 | 2026-04-21 | 2026-0375 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-04-21 | 2026-0371 | SB&T | Canadian Tourism Commission Act | Reappointment of a director of the Board of Directors of the Canadian Tourism Commission |
 | 2026-04-21 | 2026-0370 | ISED | Business Development Bank of Canada Act | Reappointment of a director of the Board of Directors of the Business Development Bank of Canada |
 | 2026-04-21 | 2026-0369 | ESDC | Department of Employment and Social Development Act | Reappointment of a full-time member of the Social Security Tribunal who may hear matters in the Employment Insurance Section |
-| 2026-04-21 | 2026-0368 | ESDC | Department of Employment and Social Development Act | Reappointment of a full-time member of the Social Security Tribunal who may hear matters in the Employment Insurance Section |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 354]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 355]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -79,7 +79,7 @@ xychart-beta
     line [0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0]
     line [0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 6]
     line [0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 1]
-    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 31]
+    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 32]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

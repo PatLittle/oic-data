@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-04-23
-**Last checked:** 2026-05-04 10:22 UTC
+**Latest OIC date:** 2026-04-29
+**Last checked:** 2026-05-05 10:11 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-04-23 | 2026-0384 | INFC, FIN, TB | Canada Infrastructure Bank Act Financial Administration Act | The 2026-27 to 2030-31 Corporate Plan for the Canada Infrastructure Bank |
-| 2026-04-23 | 2026-0383 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of the Republic of Fiji on Air Transport |
-| 2026-04-23 | 2026-0382 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of the Co-operative Republic of Guyana on Air Transport |
-| 2026-04-23 | 2026-0381 | ESDC, LAB | Canada Labour Code | Regulations Amending Certain Regulations Made Under the Canada Labour Code (Equal Treatment and Temporary Help Agencies) |
-| 2026-04-23 | 2026-0380 | ESDC, LAB | Budget Implementation Act, 2018, No. 2 | Order Fixing the 180th Day After the Day on Which this Order Is Made as the Day on Which Certain Provisions of the Budget Implementation Act, 2018, No. 2 Come into Force |
-| 2026-04-23 | 2026-0379 | CFIA, AAFC | Plant Breeders' Rights Act | Regulations Amending the Plant Breeders' Rights Regulations |
-| 2026-04-22 | 2026-0378 | NRCAN | Canadian Energy Regulator Act | Order directing the issue of a Certificate of Public Convenience and Necessity to Westcoast Energy Inc. |
-| 2026-04-21 | 2026-0377 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Federative Republic of Brazil |
-| 2026-04-21 | 2026-0376 | PMO | National Security and Intelligence Committee of Parliamentarians Act | Reappointment of a Executive Director of the Secretariat of the National Security and Intelligence Committee of Parliamentarians |
-| 2026-04-21 | 2026-0375 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-04-29 | 2026-0402 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring to the Department of Public Works and Government Services the Control and Supervision of Certain Portions of the Federal Public Administration |
+| 2026-04-29 | 2026-0401 | PMO | Other Than Statutory Authority | Order directing a Commission do issue empowering the administration of Oaths |
+| 2026-04-29 | 2026-0400 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-04-29 | 2026-0399 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-04-29 | 2026-0398 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Federal Court, and a Judge ex officio of the Federal Court of Appeal |
+| 2026-04-29 | 2026-0397 | AAFC | Farm Products Agencies Act | Reappointment of a member of the National Farm Products Council |
+| 2026-04-29 | 2026-0396 | PPC | Canadian Transportation Accident Investigation and Safety Board Act | Reappointment of a full-time member of the Canadian Transportation Accident Investigation and Safety Board |
+| 2026-04-29 | 2026-0395 | ESDC | Department of Employment and Social Development Act | Reappointment of a part-time member of the Social Security Tribunal who may hear matters in the Employment Insurance Section |
+| 2026-04-29 | 2026-0394 | ESDC | Department of Employment and Social Development Act | Appointment of a member of the Employment Insurance Board of Appeal |
+| 2026-04-29 | 2026-0393 | ESDC | Department of Employment and Social Development Act | Appointment of a member of the Employment Insurance Board of Appeal |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 361]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 379]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04"]
     y-axis "Orders" 0 --> 71
-    line [1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 22]
+    line [1, 26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 26]
     line [7, 3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 1]
-    line [0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 8]
+    line [0, 0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 11]
     line [0, 3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0]
     line [0, 0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 6]
     line [0, 3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 1]
-    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 36]
+    line [49, 29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 47]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

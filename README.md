@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-05-08
-**Last checked:** 2026-05-19 11:30 UTC
+**Latest OIC date:** 2026-05-13
+**Last checked:** 2026-05-20 11:18 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-05-13 | 2026-0446 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Principality of Monaco |
+| 2026-05-13 | 2026-0445 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-13 | 2026-0444 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-13 | 2026-0443 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-13 | 2026-0442 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-13 | 2026-0441 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-13 | 2026-0440 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-13 | 2026-0439 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-13 | 2026-0438 | PMO | Public Service Employment Act | Appointment of a Chairperson of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
 | 2026-05-08 | 2026-0437 | NA, CIRNAC | Yukon Act | Relinquishement of the administration and control from the Commissioner of Yukon |
-| 2026-05-08 | 2026-0436 | INFC | Financial Administration Act | Appointment of an Auditor for the Windsor-Detroit Bridge Authority |
-| 2026-05-08 | 2026-0435 | TBS | Constitution Act, 1867 | Supplementary Estimates (A), 2026-27 ** Tabling ** |
-| 2026-05-08 | 2026-0434 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 295, Yukon |
-| 2026-05-08 | 2026-0433 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 294, Northwest Territories |
-| 2026-05-08 | 2026-0432 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 293, Northwest Territories |
-| 2026-05-08 | 2026-0431 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 290, Newfoundland and Labrador |
-| 2026-05-08 | 2026-0430 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 289, Nova Scotia |
-| 2026-05-08 | 2026-0429 | TBS | Budget Implementation Act, 2018, No. 2 | Order Fixing the Day on Which this Order is Published as the Day on Which Certain Provisions of the Budget Implementation Act, 2018, No. 2 Come into Force |
-| 2026-05-08 | 2026-0428 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Russia) Regulations |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 414]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 423]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,10 +73,10 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05"]
     y-axis "Orders" 0 --> 71
-    line [26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 3]
+    line [26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 4]
     line [0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 10]
     line [3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 1]
-    line [3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 0]
+    line [3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8]
     line [0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 0]
     line [3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 0]
     line [29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 16]

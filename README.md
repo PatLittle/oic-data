@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-05-27
-**Last checked:** 2026-05-29 11:38 UTC
+**Latest OIC date:** 2026-05-29
+**Last checked:** 2026-05-30 10:13 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-05-29 | 2026-0522 | HC, PHAC | Quarantine Act | Minimizing the Risk of Exposure to Ebola Disease in Canada Order, 2026 |
 | 2026-05-27 | 2026-0500 | IRCC | Immigration and Refugee Protection Act | Minimizing the Risk of Exposure to Ebola Disease in Canada Order (Immigration Applications and Documents) |
-| 2026-05-20 | 2026-0448 | IRCC | Immigration and Refugee Protection Act | Regulations Amending the Immigration and Refugee Protection Regulations (Electronic Travel Authorization) |
-| 2026-05-14 | 2026-0447 | GAC | Other Than Statutory Authority | Order Authorizing to Accept the Amendments to the International Health Regulations (2005) |
-| 2026-05-13 | 2026-0446 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Principality of Monaco |
-| 2026-05-13 | 2026-0445 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
-| 2026-05-13 | 2026-0444 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
-| 2026-05-13 | 2026-0443 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
-| 2026-05-13 | 2026-0442 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
-| 2026-05-13 | 2026-0441 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
-| 2026-05-13 | 2026-0440 | PMO | Public Service Employment Act | Appointment of a member of the Independent Advisory Board for Supreme Court of Canada Judicial Appointments |
+| 2026-05-26 | 2026-0499 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Quebec for the District of Québec |
+| 2026-05-26 | 2026-0498 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-05-26 | 2026-0497 | ND | National Defence Act | Reappointment of a full-time member of the Military Grievances External Review Committee |
+| 2026-05-26 | 2026-0496 | TC | Canada Marine Act | Appointment of a director of the Windsor Port Authority |
+| 2026-05-26 | 2026-0495 | TC | Canada Marine Act | Reappointment of a director of the St. John's Port Authority |
+| 2026-05-26 | 2026-0494 | TC | Canada Marine Act | Appointment of a director of the Saint John Port Authority |
+| 2026-05-26 | 2026-0493 | LGC | Federal Public Sector Labour Relations and Employment Board Act | Appointment of a full-time member of the Federal Public Sector Labour Relations and Employment Board |
+| 2026-05-26 | 2026-0492 | TC | Federal Public Sector Labour Relations and Employment Board Act | Reappointment of a full-time member of the Federal Public Sector Labour Relations and Employment Board |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 426]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 455]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05"]
     y-axis "Orders" 0 --> 71
-    line [26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 5]
-    line [0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 10]
-    line [3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 1]
+    line [26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 7]
+    line [0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16]
+    line [3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 3]
     line [3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8]
     line [0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2]
     line [3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 0]
-    line [29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 16]
+    line [29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 35]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

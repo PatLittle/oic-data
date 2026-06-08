@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-05-29
-**Last checked:** 2026-06-05 11:35 UTC
+**Latest OIC date:** 2026-06-02
+**Last checked:** 2026-06-08 12:41 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-05-29 | 2026-0524 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Eastern Republic of Uruguay |
-| 2026-05-29 | 2026-0523 | PMO | Parliament of Canada Act | Appointment of Parliamentary Secretaries |
-| 2026-05-29 | 2026-0522 | HC, PHAC | Quarantine Act | Minimizing the Risk of Exposure to Ebola Disease in Canada Order, 2026 |
-| 2026-05-28 | 2026-0521 | GAC | Other Than Statutory Authority | Appointment of the Permanent Observer of Canada to the African Union, in Addis Ababa |
-| 2026-05-28 | 2026-0520 | GAC | Other Than Statutory Authority | Appointment of the Ambassador and Permanent Representative of Canada to the World Trade Organization, in Geneva |
-| 2026-05-28 | 2026-0519 | FIN | Budget 2025 Implementation Act | Order Fixing the 16th Day After the Day on Which this Order Is Made as the Day on Which Division 22 of Part 5 of the Budget 2025 Implementation Act, No. 1 Comes into Force - CDEV |
-| 2026-05-28 | 2026-0518 | PSPC, CPC | Financial Administration Act | Order appointing auditors of the Canada Post Corporation |
-| 2026-05-28 | 2026-0517 | JUS | Nunavut Act | Order Appointing the Hon. Keith D. Yamauchi, to be deputy judge of the Nunavut Court of Justice |
-| 2026-05-28 | 2026-0516 | ISED | Boards of Trade Act | Order approving the application by Camrose Chamber of Commerce (Alberta) ** Change of name ** |
-| 2026-05-28 | 2026-0515 | ISED | Boards of Trade Act | Order approving the application by La Chambre de Commerce des Trois-Pistoles (Quebec) ** Change of name ** |
+| 2026-06-02 | 2026-0546 | PCH | National Film Act | Re-appointment of a member of the National Film Board |
+| 2026-06-02 | 2026-0545 | HC | Canadian Centre on Substance Abuse Act | Appointment of a director of the Board of Directors of the Canadian Centre on Substance Abuse |
+| 2026-06-02 | 2026-0544 | TC | Canada Marine Act | Appointment of a director of the Thunder Bay Port Authority |
+| 2026-06-02 | 2026-0543 | TC | Canada Marine Act | Appointment of a director of the Thunder Bay Port Authority |
+| 2026-06-02 | 2026-0542 | TC | Canada Marine Act | Appointment of the director of the Saint John Port Authority |
+| 2026-06-02 | 2026-0541 | TC | Canada Marine Act | Appointment of a director of the Prince Rupert Port Authority |
+| 2026-06-02 | 2026-0540 | TC | Canada Marine Act | Appointment of a director of the Montréal Port Authority |
+| 2026-06-02 | 2026-0539 | ISED | Competition Tribunal Act | Reappointment of a member of the Competition Tribunal |
+| 2026-06-02 | 2026-0538 | HC, ESDC | Order in Council P.C. 2007-281 of March 2, 2007 | Appointment of a member of the National Seniors Council |
+| 2026-06-02 | 2026-0537 | ESDC | Department of Employment and Social Development Act | Reappointment of a part-time member of the Social Security Tribunal |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 478]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 500]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -71,15 +71,15 @@ Series order: 1. Other Than Statutory Authority; 2. Department of Employment and
 ```mermaid
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
-    x-axis ["2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05"]
+    x-axis ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06"]
     y-axis "Orders" 0 --> 71
-    line [26, 12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10]
-    line [0, 0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16]
-    line [3, 0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 4]
-    line [3, 0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8]
-    line [0, 0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2]
-    line [3, 2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1]
-    line [29, 19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53]
+    line [12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 1]
+    line [0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 1]
+    line [0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 0]
+    line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 0]
+    line [0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 3]
+    line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 0]
+    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 17]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

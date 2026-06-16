@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-06-09
-**Last checked:** 2026-06-14 11:07 UTC
+**Latest OIC date:** 2026-06-11
+**Last checked:** 2026-06-16 13:02 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-06-11 | 2026-0593 | FIN, GAC | Customs Tariff | Order Amending the Order Imposing a Surtax on the Importation of Certain Steel Goods |
 | 2026-06-09 | 2026-0566 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Haiti |
 | 2026-06-09 | 2026-0565 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Rio de Janeiro (Federative Republic of Brazil) |
 | 2026-06-09 | 2026-0564 | PMO | Parliament of Canada Act | Order appointing a Parliamentary Secretary |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-06-04 | 2026-0560 | FA | Other Than Statutory Authority | No subject listed |
 | 2026-06-04 | 2026-0559 | PS, TB | Financial Administration Act | This Order contains privileged information and cannot be published. The vast majority of Orders in Council are accessible to Canadians online through the PCO Order in Council website as well as through publication in the Canada Gazette. Those that are not available, such as this one, are restricted for reasons of national security, military operations, contain personal or commercially sensitive information. |
 | 2026-06-04 | 2026-0558 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 303, Nova Scotia |
-| 2026-06-04 | 2026-0557 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 302, Northwest Territories |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 520]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 521]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -78,7 +78,7 @@ xychart-beta
     line [0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 3]
     line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 0]
     line [0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 3]
-    line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 1]
+    line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 2]
     line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 30]
 ```
 <!-- MONTHLY_ACT_CHART:END -->

@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-06-11
-**Last checked:** 2026-06-16 13:02 UTC
+**Last checked:** 2026-06-17 12:24 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -30,15 +30,15 @@ The database’s disclaimer _extra applies_ to this dataset:
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
 | 2026-06-11 | 2026-0593 | FIN, GAC | Customs Tariff | Order Amending the Order Imposing a Surtax on the Importation of Certain Steel Goods |
-| 2026-06-09 | 2026-0566 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Haiti |
-| 2026-06-09 | 2026-0565 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Rio de Janeiro (Federative Republic of Brazil) |
-| 2026-06-09 | 2026-0564 | PMO | Parliament of Canada Act | Order appointing a Parliamentary Secretary |
-| 2026-06-09 | 2026-0563 | PS | Criminal Code | Regulations Amending the Regulations Establishing a List of Entities |
-| 2026-06-09 | 2026-0562 | PS | Criminal Code | Minute of Council submitting the Minister's Review of the List of Entities |
-| 2026-06-05 | 2026-0561 | JUS, PS | Criminal Code | Order Amending Certain Orders Declaring an Amnesty Period |
-| 2026-06-04 | 2026-0560 | FA | Other Than Statutory Authority | No subject listed |
-| 2026-06-04 | 2026-0559 | PS, TB | Financial Administration Act | This Order contains privileged information and cannot be published. The vast majority of Orders in Council are accessible to Canadians online through the PCO Order in Council website as well as through publication in the Canada Gazette. Those that are not available, such as this one, are restricted for reasons of national security, military operations, contain personal or commercially sensitive information. |
-| 2026-06-04 | 2026-0558 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 303, Nova Scotia |
+| 2026-06-11 | 2026-0589 | SB&T | Canadian Tourism Commission Act | Reappointment of a director of the Board of Directors of the Canadian Tourism Commission |
+| 2026-06-11 | 2026-0588 | CH | Indigenous Languages Act | Appointment of the Commissioner of Indigenous Languages, on an interim basis |
+| 2026-06-11 | 2026-0587 | HC | Patent Act | Appointment of a member of the Patented Medicine Prices Review Board |
+| 2026-06-11 | 2026-0586 | HC | Patent Act | Designation of a Vice-Chairperson of the Patented Medicine Prices Review Board |
+| 2026-06-11 | 2026-0585 | DND | National Defence Act | Reappointment of a part-time member of the Military Police Complaints Commission |
+| 2026-06-11 | 2026-0584 | TC | Canada Marine Act | Appointment of a director of the Vancouver Fraser Port Authority |
+| 2026-06-11 | 2026-0583 | TC | Canada Marine Act | Appointment of a director of the Vancouver Fraser Port Authority |
+| 2026-06-11 | 2026-0582 | TC | Transportation Appeal Tribunal of Canada Act | Appointment of a part-time member of the Transportation Appeal Tribunal of Canada |
+| 2026-06-11 | 2026-0581 | TC | Canada Marine Act | Appointment of a director of the Saint John Port Authority |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 521]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 544]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -66,20 +66,20 @@ xychart-beta
 Mermaid XY charts support multiple line series, so this chart shows one monthly series per act in a GitHub-renderable format.
 
 <!-- MONTHLY_ACT_CHART:START -->
-Series order: 1. Other Than Statutory Authority; 2. Department of Employment and Social Development Act; 3. Financial Administration Act; 4. Public Service Employment Act; 5. Immigration and Refugee Protection Act; 6. Customs Tariff; 7. Other
+Series order: 1. Other Than Statutory Authority; 2. Department of Employment and Social Development Act; 3. Financial Administration Act; 4. Public Service Employment Act; 5. Immigration and Refugee Protection Act; 6. Canada Marine Act; 7. Other
 
 ```mermaid
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06"]
-    y-axis "Orders" 0 --> 71
+    y-axis "Orders" 0 --> 72
     line [12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 4]
-    line [0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 1]
+    line [0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3]
     line [0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 3]
-    line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 0]
+    line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4]
     line [0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 3]
-    line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 2]
-    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 30]
+    line [0, 0, 1, 0, 1, 1, 0, 3, 3, 0, 3, 11]
+    line [21, 24, 45, 33, 62, 48, 29, 72, 53, 49, 51, 38]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

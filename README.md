@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-06-19
-**Last checked:** 2026-06-24 11:15 UTC
+**Last checked:** 2026-06-25 10:52 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -30,6 +30,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
 | 2026-06-19 | 2026-0646 | FIN | Customs Tariff | Certain Canned Vegetable Goods Surtax Order |
+| 2026-06-19 | 2026-0627 | PMO | Ministries and Ministers of State Act | Order Terminating the Assignment of the Honourable Nathalie Provost and Assigning the Honourable Nathalie Provost to Assist the Minister of the Environment, the Minister of Fisheries and Oceans and the Minister of Natural Resources |
 | 2026-06-18 | 2026-0625 | TBS | Financial Administration Act | Release of Supply for Supplementary Estimates (A) 2026-27 ** Warrant ** |
 | 2026-06-18 | 2026-0624 | TBS | Financial Administration Act | Release of Full Supply for Main Estimates - 2026-27 ** Warrant ** |
 | 2026-06-18 | 2026-0623 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Ecuador |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-06-18 | 2026-0620 | PMO | Other Than Statutory Authority | Salary Order (Heads of Agencies) |
 | 2026-06-18 | 2026-0619 | PMO | Official Residences Act | Order fixing the remuneration of the Special Assistant at the Prime Minister's official residence. |
 | 2026-06-18 | 2026-0617 | TC | Canada Marine Act | Appointment of a director of the St. John’s Port Authority |
-| 2026-06-12 | 2026-0616 | GAC | Other Than Statutory Authority | Order Authorizing the Agreement between the Government of Canada and the Government of Republic of Ecuador Concerning the Free Trade Agreement |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 575]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 576]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -79,7 +79,7 @@ xychart-beta
     line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4]
     line [0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4]
     line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 6]
-    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 61]
+    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 62]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

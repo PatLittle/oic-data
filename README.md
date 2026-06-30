@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-06-22
-**Last checked:** 2026-06-29 12:41 UTC
+**Latest OIC date:** 2026-06-23
+**Last checked:** 2026-06-30 11:20 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-06-23 | 2026-0672 | PMO | Canada Revenue Agency Act | Appointment of the Commissioner of Revenue |
 | 2026-06-22 | 2026-0671 | GAC | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Independent State of Samoa |
 | 2026-06-22 | 2026-0670 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Federated States of Micronesia |
 | 2026-06-22 | 2026-0669 | FA | Other Than Statutory Authority | Appointment of a Senior Advisor, Global Affairs Canada and of the Ambassador Extraordinary and Plenipotentiary of Canada to the European Union, in Brussels |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-06-22 | 2026-0665 | PS, RCMP | Royal Canadian Mounted Police Act | Appointment of a Deputy Commissioner - RCMP |
 | 2026-06-22 | 2026-0664 | PS, RCMP | Royal Canadian Mounted Police Act | Order Designating Daniel Ross Morrow - Commanding Officer of “H” Division for the province of Nova Scotia |
 | 2026-06-22 | 2026-0663 | PS, RCMP | Royal Canadian Mounted Police Act | Order Designating Robin Emmanuel McNeil - Commanding Officer of “F” Division for the province of Saskatchewan |
-| 2026-06-22 | 2026-0662 | ISED | Bankruptcy and Insolvency Act | Order Appointing Official Receivers |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 605]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 606]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -72,14 +72,14 @@ Series order: 1. Other Than Statutory Authority; 2. Department of Employment and
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06"]
-    y-axis "Orders" 0 --> 81
+    y-axis "Orders" 0 --> 82
     line [12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 21]
     line [0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3]
     line [0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6]
     line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4]
     line [0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4]
     line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8]
-    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 81]
+    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 82]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

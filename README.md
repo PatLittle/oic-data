@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-06-25
-**Last checked:** 2026-07-03 10:48 UTC
+**Latest OIC date:** 2026-06-29
+**Last checked:** 2026-07-04 10:22 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-06-29 | 2026-0681 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Hungary. |
+| 2026-06-29 | 2026-0680 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Latvia |
+| 2026-06-29 | 2026-0679 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Türkiye with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to Georgia |
+| 2026-06-29 | 2026-0678 | FA | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Republic of Zambia. |
 | 2026-06-25 | 2026-0677 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Democratic Republic of the Congo |
+| 2026-06-25 | 2026-0676 | PMO | Invest in Canada Act | Order Designating the President of the King’s Privy Council for Canada as the Minister Responsible for the Invest in Canada Act |
+| 2026-06-25 | 2026-0675 | PMO | Other Than Statutory Authority | Canadian Ombudsperson for Responsible Enterprise |
 | 2026-06-25 | 2026-0674 | PMO | Other Than Statutory Authority | Acting Ministers Minute |
 | 2026-06-25 | 2026-0673 | ECCC | Parks Canada Agency Act | Appointment of the Interim Chief Executive Officer of the Parks Canada Agency |
 | 2026-06-23 | 2026-0672 | PMO | Canada Revenue Agency Act | Appointment of the Commissioner of Revenue |
-| 2026-06-22 | 2026-0671 | GAC | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Independent State of Samoa |
-| 2026-06-22 | 2026-0670 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Federated States of Micronesia |
-| 2026-06-22 | 2026-0669 | FA | Other Than Statutory Authority | Appointment of a Senior Advisor, Global Affairs Canada and of the Ambassador Extraordinary and Plenipotentiary of Canada to the European Union, in Brussels |
-| 2026-06-22 | 2026-0668 | PS | Foreign Influence Transparency and Accountability Act | Appointment of the Foreign Influence Transparency Commissioner |
-| 2026-06-22 | 2026-0667 | TB, ECCC | Canada Wildlife Act | Funding to Renew Nature Programs |
-| 2026-06-22 | 2026-0666 | GAC | Other Than Statutory Authority | Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 609]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 615]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -72,14 +72,14 @@ Series order: 1. Other Than Statutory Authority; 2. Department of Employment and
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06"]
-    y-axis "Orders" 0 --> 83
-    line [12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 23]
+    y-axis "Orders" 0 --> 84
+    line [12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 28]
     line [0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3]
     line [0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6]
     line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4]
     line [0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4]
     line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8]
-    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 83]
+    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 84]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-06-29
-**Last checked:** 2026-07-06 12:12 UTC
+**Latest OIC date:** 2026-06-30
+**Last checked:** 2026-07-08 10:29 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-06-30 | 2026-0690 | TC, CTA | Canada Transportation Act | Accessible Transportation for Persons with Disabilities Regulations Application Exemption Order (VIA Rail Canada Inc.) |
+| 2026-06-30 | 2026-0689 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of Nova Scotia (Family Division), and a Judge ex officio of the Nova Scotia Court of Appeal |
+| 2026-06-30 | 2026-0688 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-06-30 | 2026-0687 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-06-30 | 2026-0686 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Court of Appeal for Ontario and a Judge ex officio of the Superior Court of Justice of Ontario |
+| 2026-06-30 | 2026-0685 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-06-30 | 2026-0684 | PMO | Other Than Statutory Authority | Appointment of the Chief Justice of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-06-30 | 2026-0683 | PMO | Other Than Statutory Authority | Appointment of the Chief Justice of the Federal Court, and a Judge ex officio of the Federal Court of Appeal |
+| 2026-06-30 | 2026-0682 | PMO | Other Than Statutory Authority | Appointment of a puisne Judge of the Supreme Court of Canada |
 | 2026-06-29 | 2026-0681 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Hungary. |
-| 2026-06-29 | 2026-0680 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Latvia |
-| 2026-06-29 | 2026-0679 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Türkiye with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to Georgia |
-| 2026-06-29 | 2026-0678 | FA | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Republic of Zambia. |
-| 2026-06-25 | 2026-0677 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Democratic Republic of the Congo |
-| 2026-06-25 | 2026-0676 | PMO | Invest in Canada Act | Order Designating the President of the King’s Privy Council for Canada as the Minister Responsible for the Invest in Canada Act |
-| 2026-06-25 | 2026-0675 | PMO | Other Than Statutory Authority | Canadian Ombudsperson for Responsible Enterprise |
-| 2026-06-25 | 2026-0674 | PMO | Other Than Statutory Authority | Acting Ministers Minute |
-| 2026-06-25 | 2026-0673 | ECCC | Parks Canada Agency Act | Appointment of the Interim Chief Executive Officer of the Parks Canada Agency |
-| 2026-06-23 | 2026-0672 | PMO | Canada Revenue Agency Act | Appointment of the Commissioner of Revenue |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 615]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 624]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -72,14 +72,14 @@ Series order: 1. Other Than Statutory Authority; 2. Department of Employment and
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06"]
-    y-axis "Orders" 0 --> 84
-    line [12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 28]
+    y-axis "Orders" 0 --> 85
+    line [12, 11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36]
     line [0, 0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3]
     line [0, 1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6]
     line [0, 3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4]
     line [0, 0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4]
     line [2, 1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8]
-    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 84]
+    line [19, 23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

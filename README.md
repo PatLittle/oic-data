@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-07-07
-**Last checked:** 2026-07-14 10:07 UTC
+**Latest OIC date:** 2026-07-09
+**Last checked:** 2026-07-15 10:13 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-07-09 | 2026-0706 | GAC | Other Than Statutory Authority | Canada - Jamaica on the Audiovisual Coproduction Treaty |
+| 2026-07-09 | 2026-0705 | GAC | Other Than Statutory Authority | Canada - Spain on the Audiovisual Coproduction Treaty |
+| 2026-07-09 | 2026-0704 | GAC | Other Than Statutory Authority | Audiovisual Coproduction Treaty between the Government of Canada and the Government of the United Kingdom of Great Britain and Northern Ireland ** Agreement ** |
+| 2026-07-09 | 2026-0703 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Industry to the Department of Public Works and Government Services the Control and Supervision of the Industrial Technological Benefits Branch, Except for the Research and Analysis Directorate |
+| 2026-07-09 | 2026-0702 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Public Safety and Emergency Preparedness to the Department of Employment and Social Development the Control and Supervision of the Supply Chains Act Taskforce |
+| 2026-07-09 | 2026-0701 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Chicago (United States of America) |
+| 2026-07-09 | 2026-0700 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in New York (United States of America), with concurrent accreditation as non-resident Consul General of Canada in Bermuda |
+| 2026-07-09 | 2026-0699 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Los Angeles (United States of America) |
+| 2026-07-09 | 2026-0698 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Detroit (United States of America). |
 | 2026-07-07 | 2026-0697 | PMO | Build Canada Homes Act | Order Designating Toronto, Ontario, as the place where the head office of Build Canada Homes is to be located. |
-| 2026-07-07 | 2026-0696 | PMO | Build Canada Homes Act | Order Designating the Minister of Infrastructure and Communities to Be the Minister for the Purposes of the Build Canada Homes Act |
-| 2026-07-07 | 2026-0695 | INFC | Build Canada Homes Act | Order Fixing the Day on Which This Order is Made as the Day on Which Certain Provisions of the Build Canada Homes Act Come into Force |
-| 2026-07-06 | 2026-0694 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Benin. |
-| 2026-07-06 | 2026-0693 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Romania with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Moldova and as Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Bulgaria |
-| 2026-07-06 | 2026-0692 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Republic of Senegal |
-| 2026-06-30 | 2026-0690 | TC, CTA | Canada Transportation Act | Accessible Transportation for Persons with Disabilities Regulations Application Exemption Order (VIA Rail Canada Inc.) |
-| 2026-06-30 | 2026-0689 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Supreme Court of Nova Scotia (Family Division), and a Judge ex officio of the Nova Scotia Court of Appeal |
-| 2026-06-30 | 2026-0688 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
-| 2026-06-30 | 2026-0687 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 630]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 639]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
     y-axis "Orders" 0 --> 85
-    line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 3]
+    line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 10]
     line [0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3, 0]
     line [1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0]
     line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 0]
     line [0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4, 0]
     line [1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 0]
-    line [23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 3]
+    line [23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 5]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

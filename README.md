@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-07-09
-**Last checked:** 2026-07-17 10:09 UTC
+**Latest OIC date:** 2026-07-14
+**Last checked:** 2026-07-18 09:43 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,8 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-07-14 | 2026-0708 | FA | Other Than Statutory Authority | Appointment of the Consul of Canada in Nuuk (Greenland) |
+| 2026-07-14 | 2026-0707 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Ukraine |
 | 2026-07-09 | 2026-0706 | GAC | Other Than Statutory Authority | Canada - Jamaica on the Audiovisual Coproduction Treaty |
 | 2026-07-09 | 2026-0705 | GAC | Other Than Statutory Authority | Canada - Spain on the Audiovisual Coproduction Treaty |
 | 2026-07-09 | 2026-0704 | GAC | Other Than Statutory Authority | Audiovisual Coproduction Treaty between the Government of Canada and the Government of the United Kingdom of Great Britain and Northern Ireland ** Agreement ** |
@@ -37,8 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-07-09 | 2026-0701 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Chicago (United States of America) |
 | 2026-07-09 | 2026-0700 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in New York (United States of America), with concurrent accreditation as non-resident Consul General of Canada in Bermuda |
 | 2026-07-09 | 2026-0699 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Los Angeles (United States of America) |
-| 2026-07-09 | 2026-0698 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Detroit (United States of America). |
-| 2026-07-07 | 2026-0697 | PMO | Build Canada Homes Act | Order Designating Toronto, Ontario, as the place where the head office of Build Canada Homes is to be located. |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 639]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 641]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,7 +73,7 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
     y-axis "Orders" 0 --> 85
-    line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 10]
+    line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 12]
     line [0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3, 0]
     line [1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0]
     line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 0]

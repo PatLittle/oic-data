@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-07-14
-**Last checked:** 2026-07-21 10:32 UTC
+**Latest OIC date:** 2026-07-16
+**Last checked:** 2026-07-22 10:32 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-07-16 | 2026-0710 | PMO | Public Service Employment Act | Reappointment of the Commissioner of the Public Service Commission |
 | 2026-07-14 | 2026-0708 | FA | Other Than Statutory Authority | Appointment of the Consul of Canada in Nuuk (Greenland) |
 | 2026-07-14 | 2026-0707 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Ukraine |
 | 2026-07-09 | 2026-0706 | GAC | Other Than Statutory Authority | Canada - Jamaica on the Audiovisual Coproduction Treaty |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-07-09 | 2026-0702 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Public Safety and Emergency Preparedness to the Department of Employment and Social Development the Control and Supervision of the Supply Chains Act Taskforce |
 | 2026-07-09 | 2026-0701 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Chicago (United States of America) |
 | 2026-07-09 | 2026-0700 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in New York (United States of America), with concurrent accreditation as non-resident Consul General of Canada in Bermuda |
-| 2026-07-09 | 2026-0699 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Los Angeles (United States of America) |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 641]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 642]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -76,7 +76,7 @@ xychart-beta
     line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 12]
     line [0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3, 0]
     line [1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0]
-    line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 0]
+    line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 1]
     line [0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4, 0]
     line [1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 0]
     line [23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 5]

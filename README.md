@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-07-20
-**Last checked:** 2026-07-27 11:35 UTC
+**Latest OIC date:** 2026-07-22
+**Last checked:** 2026-07-28 10:43 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-07-20 | 2026-0713 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Republic of Poland |
-| 2026-07-20 | 2026-0712 | GAC | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Kingdom of Lesotho, with residence in Pretoria. |
-| 2026-07-18 | 2026-0711 | HC, PHAC | Quarantine Act | Order Amending the Minimizing the Risk of Exposure to Ebola Disease in Canada Order, 2026 |
-| 2026-07-16 | 2026-0710 | PMO | Public Service Employment Act | Reappointment of the Commissioner of the Public Service Commission |
-| 2026-07-14 | 2026-0708 | FA | Other Than Statutory Authority | Appointment of the Consul of Canada in Nuuk (Greenland) |
-| 2026-07-14 | 2026-0707 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Ukraine |
-| 2026-07-09 | 2026-0706 | GAC | Other Than Statutory Authority | Canada - Jamaica on the Audiovisual Coproduction Treaty |
-| 2026-07-09 | 2026-0705 | GAC | Other Than Statutory Authority | Canada - Spain on the Audiovisual Coproduction Treaty |
-| 2026-07-09 | 2026-0704 | GAC | Other Than Statutory Authority | Audiovisual Coproduction Treaty between the Government of Canada and the Government of the United Kingdom of Great Britain and Northern Ireland ** Agreement ** |
-| 2026-07-09 | 2026-0703 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Industry to the Department of Public Works and Government Services the Control and Supervision of the Industrial Technological Benefits Branch, Except for the Research and Analysis Directorate |
+| 2026-07-22 | 2026-0723 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Natural Resources to the Department of the Environment the Control and Supervision of the Office of Energy Efficiency |
+| 2026-07-22 | 2026-0722 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Bengaluru (Republic of India) |
+| 2026-07-22 | 2026-0721 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-07-22 | 2026-0720 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-07-22 | 2026-0719 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-07-22 | 2026-0718 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-07-22 | 2026-0717 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-07-22 | 2026-0716 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-07-22 | 2026-0715 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-07-22 | 2026-0714 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as the Chairperson of the Independent Advisory Board for Senate Appointments |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 645]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 655]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
     y-axis "Orders" 0 --> 85
-    line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 14]
+    line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 15]
     line [0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3, 0]
     line [1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0]
-    line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 1]
+    line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 9]
     line [0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4, 0]
     line [1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 0]
-    line [23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 6]
+    line [23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 7]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

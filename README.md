@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-07-24
-**Last checked:** 2026-07-31 10:49 UTC
+**Latest OIC date:** 2026-07-31
+**Last checked:** 2026-08-01 10:08 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-07-31 | 2026-0727 | FIN | Customs Tariff | Certain Wood Cabinet and Vanity Goods Surtax Order |
 | 2026-07-24 | 2026-0726 | PMO | Canada Elections Act | By-Election - Chicoutimi-Le Fjord |
 | 2026-07-24 | 2026-0725 | PMO | Canada Elections Act | By-Election - Beaches-East York |
 | 2026-07-24 | 2026-0724 | PMO | Canada Elections Act | By-Election - North Vancouver-Capilano |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-07-22 | 2026-0720 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
 | 2026-07-22 | 2026-0719 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
 | 2026-07-22 | 2026-0718 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
-| 2026-07-22 | 2026-0717 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 658]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 659]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -78,7 +78,7 @@ xychart-beta
     line [1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0]
     line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 9]
     line [0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4, 0]
-    line [1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 0]
+    line [1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 1]
     line [23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 10]
 ```
 <!-- MONTHLY_ACT_CHART:END -->

@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-07-31
-**Last checked:** 2026-08-12 09:21 UTC
+**Latest OIC date:** 2026-08-07
+**Last checked:** 2026-08-13 09:22 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-07-31 | 2026-0730 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Guangzhou (People's Republic of China) |
-| 2026-07-31 | 2026-0729 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Armenia |
-| 2026-07-31 | 2026-0728 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Chongqing (People’s Republic of China) |
-| 2026-07-31 | 2026-0727 | FIN | Customs Tariff | Certain Wood Cabinet and Vanity Goods Surtax Order |
-| 2026-07-24 | 2026-0726 | PMO | Canada Elections Act | By-Election - Chicoutimi-Le Fjord |
-| 2026-07-24 | 2026-0725 | PMO | Canada Elections Act | By-Election - Beaches-East York |
-| 2026-07-24 | 2026-0724 | PMO | Canada Elections Act | By-Election - North Vancouver-Capilano |
-| 2026-07-22 | 2026-0723 | PMO | Public Service Rearrangement and Transfer of Duties Act | Order Transferring from the Department of Natural Resources to the Department of the Environment the Control and Supervision of the Office of Energy Efficiency |
-| 2026-07-22 | 2026-0722 | FA | Other Than Statutory Authority | Appointment of the Consul General of Canada in Bengaluru (Republic of India) |
-| 2026-07-22 | 2026-0721 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
+| 2026-08-07 | 2026-0748 | PMO | Build Canada Homes Act | Order fixing the remuneration of the Chairperson and other directors of Build Canada Homes |
+| 2026-08-07 | 2026-0747 | INFC | Build Canada Homes Act | Appointment of the Chairperson of the Board of Directors of Build Canada Homes |
+| 2026-08-06 | 2026-0746 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Slovenia, with residence in Budapest. |
+| 2026-08-06 | 2026-0745 | PS, RCMP | Royal Canadian Mounted Police Act | Appointment of Officers ** RCMP ** |
+| 2026-08-06 | 2026-0744 | ISED | Boards of Trade Act | Order approving the dissolution of the Chambre de commerce et industrie de la région de Valcourt in Quebec. |
+| 2026-08-06 | 2026-0743 | ISED | Boards of Trade Act | Order approving the application of the Sydney and Area Chamber of Commerce to ** Change of name ** |
+| 2026-08-06 | 2026-0742 | JUS | Escheats Act | Order granting to 9098-2885 Québec Inc. the interest of His Majesty in right of Canada in the 25 class A shares in 6198546 Canada Inc. |
+| 2026-08-06 | 2026-0741 | PSPC, NCC | National Capital Act Financial Administration Act | Order approving the repeals of the emphyteusis and its disposal in favour of WMD Wakefield Mill Developments Inc. |
+| 2026-08-06 | 2026-0740 | PS | Corrections and Conditional Release Act | Exchange of Service Agreement between the Government of Canada and the Government of Manitoba |
+| 2026-08-06 | 2026-0739 | GAC | Other Than Statutory Authority | Amendment to the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal **Agreement** |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 662]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 680]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -71,15 +71,15 @@ Series order: 1. Other Than Statutory Authority; 2. Department of Employment and
 ```mermaid
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
-    x-axis ["2025-08", "2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
+    x-axis ["2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08"]
     y-axis "Orders" 0 --> 85
-    line [11, 8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 18]
-    line [0, 0, 2, 5, 35, 7, 9, 1, 11, 16, 3, 0]
-    line [1, 1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0]
-    line [3, 3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 9]
-    line [0, 1, 1, 2, 0, 3, 10, 6, 6, 2, 4, 0]
-    line [1, 0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 1]
-    line [23, 46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 10]
+    line [8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 2]
+    line [0, 2, 5, 35, 7, 9, 1, 11, 16, 3, 0, 1]
+    line [1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0, 0]
+    line [3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 0]
+    line [1, 1, 2, 0, 3, 10, 6, 6, 2, 4, 0, 0]
+    line [0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 1, 1]
+    line [46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 10, 14]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

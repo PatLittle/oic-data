@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-08-10
-**Last checked:** 2026-08-18 08:50 UTC
+**Latest OIC date:** 2026-08-13
+**Last checked:** 2026-08-19 08:51 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-08-13 | 2026-0760 | GAC | United Nations Act | Regulations Amending Certain Regulations Made Under the United Nations Act |
+| 2026-08-13 | 2026-0759 | INFC | Build Canada Homes Act | Order to transfer the rights, property, obligations and liabilities of the Build Canada Homes |
+| 2026-08-13 | 2026-0758 | INFC | Build Canada Homes Act | Order Fixing the Day on Which this Order Is Made as the Day on Which Sections 29 and 47 of the Build Canada Homes Act Comes into Force |
+| 2026-08-13 | 2026-0757 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Iran) Regulations |
+| 2026-08-13 | 2026-0756 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Russia) Regulations |
 | 2026-08-10 | 2026-0755 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Iraq |
 | 2026-08-10 | 2026-0754 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Russian Federation |
 | 2026-08-10 | 2026-0753 | JUS | Other Than Statutory Authority | Appointment of a Justice of the Court of King's Bench of Alberta, and a Judge ex officio of the Court of Appeal of Alberta |
 | 2026-08-10 | 2026-0752 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Quebec for the districts of Abitibi, Rouyn-Noranda and Témiscamingue |
 | 2026-08-10 | 2026-0751 | PMO | Other Than Statutory Authority | Appointment of the Chief Justice of Quebec |
-| 2026-08-10 | 2026-0750 | TB | Public Sector Pension Investment Board Act | Reappointment of a director of the Public Sector Pension Investment Board and her designation as Chairperson of the Public Sector Pension Investment Board |
-| 2026-08-10 | 2026-0749 | JUS, CIRNAC | Specific Claims Tribunal Act | Reappointment of a part-time member of the Specific Claims Tribunal |
-| 2026-08-07 | 2026-0748 | PMO | Build Canada Homes Act | Order fixing the remuneration of the Chairperson and other directors of Build Canada Homes |
-| 2026-08-07 | 2026-0747 | INFC | Build Canada Homes Act | Appointment of the Chairperson of the Board of Directors of Build Canada Homes |
-| 2026-08-06 | 2026-0746 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Slovenia, with residence in Budapest. |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 687]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 692]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -79,7 +79,7 @@ xychart-beta
     line [3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 0]
     line [1, 1, 2, 0, 3, 10, 6, 6, 2, 4, 0, 0]
     line [0, 4, 0, 4, 1, 4, 1, 1, 1, 8, 1, 1]
-    line [46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 10, 16]
+    line [46, 29, 63, 45, 28, 71, 55, 48, 53, 85, 10, 21]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

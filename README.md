@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-08-17
-**Last checked:** 2026-08-21 08:54 UTC
+**Latest OIC date:** 2026-08-18
+**Last checked:** 2026-08-22 08:44 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,9 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-08-18 | 2026-0774 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Bosnia and Herzegovina |
+| 2026-08-18 | 2026-0773 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of the Congo |
+| 2026-08-18 | 2026-0772 | PMO | Other Than Statutory Authority | Amendment of the schedule to Order in Council P.C. 2016-11 of January 19, 2016 |
 | 2026-08-17 | 2026-0771 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
 | 2026-08-17 | 2026-0770 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
 | 2026-08-17 | 2026-0769 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
@@ -36,9 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-08-17 | 2026-0767 | JUS | Other Than Statutory Authority | Order amending the residence |
 | 2026-08-17 | 2026-0766 | JUS | Other Than Statutory Authority | Order amending the residence |
 | 2026-08-17 | 2026-0765 | GAC | Other Than Statutory Authority | Appointment of the Ambassador and Permanent Representative of Canada to the Organization of American States |
-| 2026-08-17 | 2026-0764 | JUS, CIRC | Specific Claims Tribunal Act | Appointment of the full-time Chairperson of the Specific Claims Tribunal |
-| 2026-08-17 | 2026-0763 | JUS, CIRC | Specific Claims Tribunal Act | Amendment to the Schedule on who may act as members of the Specific Claims Tribunal |
-| 2026-08-17 | 2026-0762 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to Burkina Faso |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 703]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 706]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,7 +73,7 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-09", "2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08"]
     y-axis "Orders" 0 --> 85
-    line [8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 12]
+    line [8, 15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 15]
     line [0, 2, 5, 35, 7, 9, 1, 11, 16, 3, 0, 1]
     line [1, 4, 4, 22, 17, 6, 13, 2, 4, 6, 0, 0]
     line [3, 2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 4]

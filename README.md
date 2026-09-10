@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-09-04
-**Last checked:** 2026-09-09 12:56 UTC
+**Last checked:** 2026-09-10 12:53 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -31,6 +31,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 | --- | --- | --- | --- | --- |
 | 2026-09-04 | 2026-0786 | FIN, GAC | Customs Tariff | Order Amending the United States Surtax Order (Steel and Aluminum 2025) |
 | 2026-09-04 | 2026-0785 | GAC, FIN | Customs Tariff | United States Surtax Order (2026) |
+| 2026-09-03 | 2026-0784 | ECCC | Impact Assessment Act | Regulations Amending the Physical Activities Regulations |
 | 2026-09-02 | 2026-0783 | PMO | Public Service Employment Act | Appointment of the Chief of the Communications Security Establishment, |
 | 2026-09-02 | 2026-0782 | PMO | Other Than Statutory Authority | Appointment of the Senior Advisor, Communications Security Establishment |
 | 2026-09-02 | 2026-0781 | PMO | Shared Services Canada Act | appointment of the President of Shared Services Canada |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-08-28 | 2026-0779 | HC, PHAC | Quarantine Act | Minimizing the Risk of Exposure to Ebola Disease in Canada Order, 2026, No. 2 |
 | 2026-08-27 | 2026-0778 | GAC | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Kingdom of Thailand |
 | 2026-08-21 | 2026-0777 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
-| 2026-08-21 | 2026-0776 | PMO | Public Service Employment Act | Appointment of a special adviser to the Prime Minister, to serve as an ad hoc provincial member of the Independent Advisory Board for Senate Appointments |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 717]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 718]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -79,7 +79,7 @@ xychart-beta
     line [2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 1]
     line [1, 2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0]
     line [4, 0, 4, 1, 4, 1, 1, 1, 8, 1, 1, 2]
-    line [29, 63, 45, 28, 71, 55, 48, 53, 85, 10, 25, 1]
+    line [29, 63, 45, 28, 71, 55, 48, 53, 85, 10, 25, 2]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

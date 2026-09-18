@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-09-04
-**Last checked:** 2026-09-17 13:23 UTC
+**Latest OIC date:** 2026-09-14
+**Last checked:** 2026-09-18 12:56 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-09-04 | 2026-0789 | CIRNAC | Mackenzie Valley Resource Management Act | Order extending the time limit under Subsection 72.24 (2) of Mackenzie Valley Ressource Management Act |
-| 2026-09-04 | 2026-0788 | GAC | Foreign Missions and International Organizations Act | Second International Conference on Returning Ukrainian Children, Detained Civilians, and Prisoners of War Privileges and Immunities Order |
-| 2026-09-04 | 2026-0787 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Russia) Regulations |
-| 2026-09-04 | 2026-0786 | FIN, GAC | Customs Tariff | Order Amending the United States Surtax Order (Steel and Aluminum 2025) |
-| 2026-09-04 | 2026-0785 | GAC, FIN | Customs Tariff | United States Surtax Order (2026) |
-| 2026-09-03 | 2026-0784 | ECCC | Impact Assessment Act | Regulations Amending the Physical Activities Regulations |
-| 2026-09-02 | 2026-0783 | PMO | Public Service Employment Act | Appointment of the Chief of the Communications Security Establishment, |
-| 2026-09-02 | 2026-0782 | PMO | Other Than Statutory Authority | Appointment of the Senior Advisor, Communications Security Establishment |
-| 2026-09-02 | 2026-0781 | PMO | Shared Services Canada Act | appointment of the President of Shared Services Canada |
-| 2026-08-31 | 2026-0780 | PPC | Invest in Canada Act | Appointment of the Chief Executive Officer of the Invest in Canada Hub |
+| 2026-09-14 | 2026-0849 | FA | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Co-operative Republic of Guyana and as Plenipotentiary Representative of Canada to the Caribbean Community |
+| 2026-09-14 | 2026-0848 | TC | Canada Marine Act | Appointment of a director of the Montréal Port Authority |
+| 2026-09-14 | 2026-0847 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Federal Court of Appeal, and a Judge ex officio of the Federal Court. |
+| 2026-09-14 | 2026-0846 | JUS | Other Than Statutory Authority | Appointment of a puisne Judge of the Court of Appeal of Quebec |
+| 2026-09-14 | 2026-0845 | IT | Canadian Commercial Corporation Act | Reappointment of the Chairperson of the Board of Directors of the Canadian Commercial Corporation |
+| 2026-09-14 | 2026-0844 | INTD | International Development Research Centre Act | Re-appointment of a Governor of the Board of Governors of the International Development Research Centre |
+| 2026-09-14 | 2026-0843 | INTD | International Development Research Centre Act | Re-appointment of a Governor of the Board of Governors of the International Development Research Centre |
+| 2026-09-14 | 2026-0842 | PCH | Museums Act | Reappointment of a trustee of the Board of Trustees of the Canadian Museum of Nature |
+| 2026-09-14 | 2026-0841 | CH | Museums Act | Appointment of the Chairperson of the Board of Trustees of the Canadian Museum of Immigration at Pier 21 |
+| 2026-09-14 | 2026-0840 | HC | Canadian Institutes of Health Research Act | Appointment of a member of the Governing Council of the Canadian Institutes of Health Research |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 721]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 751]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -66,20 +66,20 @@ xychart-beta
 Mermaid XY charts support multiple line series, so this chart shows one monthly series per act in a GitHub-renderable format.
 
 <!-- MONTHLY_ACT_CHART:START -->
-Series order: 1. Other Than Statutory Authority; 2. Department of Employment and Social Development Act; 3. Financial Administration Act; 4. Public Service Employment Act; 5. Immigration and Refugee Protection Act; 6. Customs Tariff; 7. Other
+Series order: 1. Other Than Statutory Authority; 2. Department of Employment and Social Development Act; 3. Financial Administration Act; 4. Public Service Employment Act; 5. Immigration and Refugee Protection Act; 6. Canada Marine Act; 7. Other
 
 ```mermaid
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
-    y-axis "Orders" 0 --> 85
-    line [15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 1]
+    y-axis "Orders" 0 --> 81
+    line [15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 4]
     line [2, 5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0]
-    line [4, 4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 0]
-    line [2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 1]
+    line [4, 4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 3]
+    line [2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2]
     line [1, 2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0]
-    line [4, 0, 4, 1, 4, 1, 1, 1, 8, 1, 1, 2]
-    line [29, 63, 45, 28, 71, 55, 48, 53, 85, 10, 25, 5]
+    line [0, 1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 6]
+    line [33, 62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 24]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

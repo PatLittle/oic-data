@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-09-14
-**Last checked:** 2026-09-22 13:23 UTC
+**Latest OIC date:** 2026-09-17
+**Last checked:** 2026-09-23 13:36 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-09-17 | 2026-0850 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Kingdom of Belgium |
 | 2026-09-14 | 2026-0849 | FA | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Co-operative Republic of Guyana and as Plenipotentiary Representative of Canada to the Caribbean Community |
 | 2026-09-14 | 2026-0848 | TC | Canada Marine Act | Appointment of a director of the Montréal Port Authority |
 | 2026-09-14 | 2026-0847 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Federal Court of Appeal, and a Judge ex officio of the Federal Court. |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-09-14 | 2026-0843 | INTD | International Development Research Centre Act | Re-appointment of a Governor of the Board of Governors of the International Development Research Centre |
 | 2026-09-14 | 2026-0842 | PCH | Museums Act | Reappointment of a trustee of the Board of Trustees of the Canadian Museum of Nature |
 | 2026-09-14 | 2026-0841 | CH | Museums Act | Appointment of the Chairperson of the Board of Trustees of the Canadian Museum of Immigration at Pier 21 |
-| 2026-09-14 | 2026-0840 | HC | Canadian Institutes of Health Research Act | Appointment of a member of the Governing Council of the Canadian Institutes of Health Research |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 751]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 752]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,7 +73,7 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
     y-axis "Orders" 0 --> 81
-    line [15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 4]
+    line [15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 5]
     line [2, 5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0]
     line [4, 4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 3]
     line [2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2]

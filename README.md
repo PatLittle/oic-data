@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-09-24
-**Last checked:** 2026-09-30 14:53 UTC
+**Latest OIC date:** 2026-10-01
+**Last checked:** 2026-10-01 15:25 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-10-01 | 2026-0925 | PPC | Building Canada Act | Order Amending Schedule 1 to the Building Canada Act |
 | 2026-09-24 | 2026-0853 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of the Federal Republic of Germany on the Mutual Protection and Exchange of Classified and Protected Information ** Agreement ** |
 | 2026-09-22 | 2026-0852 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Cuba |
 | 2026-09-22 | 2026-0851 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Iran) Regulations |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-09-14 | 2026-0847 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Federal Court of Appeal, and a Judge ex officio of the Federal Court. |
 | 2026-09-14 | 2026-0846 | JUS | Other Than Statutory Authority | Appointment of a puisne Judge of the Court of Appeal of Quebec |
 | 2026-09-14 | 2026-0845 | IT | Canadian Commercial Corporation Act | Reappointment of the Chairperson of the Board of Directors of the Canadian Commercial Corporation |
-| 2026-09-14 | 2026-0844 | INTD | International Development Research Centre Act | Re-appointment of a Governor of the Board of Governors of the International Development Research Centre |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 755]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 756]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -71,15 +71,15 @@ Series order: 1. Other Than Statutory Authority; 2. Department of Employment and
 ```mermaid
 xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
-    x-axis ["2025-10", "2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
+    x-axis ["2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "Orders" 0 --> 81
-    line [15, 28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 7]
-    line [2, 5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0]
-    line [4, 4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 3]
-    line [2, 1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2]
-    line [1, 2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0]
-    line [0, 1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 6]
-    line [33, 62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 25]
+    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 7, 0]
+    line [5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0]
+    line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 3, 0]
+    line [1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0]
+    line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 0]
+    line [1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 6, 0]
+    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 25, 1]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

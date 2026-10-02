@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-10-01
-**Last checked:** 2026-10-01 15:25 UTC
+**Last checked:** 2026-10-02 14:42 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -30,15 +30,15 @@ The database’s disclaimer _extra applies_ to this dataset:
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
 | 2026-10-01 | 2026-0925 | PPC | Building Canada Act | Order Amending Schedule 1 to the Building Canada Act |
-| 2026-09-24 | 2026-0853 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of the Federal Republic of Germany on the Mutual Protection and Exchange of Classified and Protected Information ** Agreement ** |
-| 2026-09-22 | 2026-0852 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Cuba |
-| 2026-09-22 | 2026-0851 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Iran) Regulations |
-| 2026-09-17 | 2026-0850 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Kingdom of Belgium |
-| 2026-09-14 | 2026-0849 | FA | Other Than Statutory Authority | Appointment of the High Commissioner for Canada in the Co-operative Republic of Guyana and as Plenipotentiary Representative of Canada to the Caribbean Community |
-| 2026-09-14 | 2026-0848 | TC | Canada Marine Act | Appointment of a director of the Montréal Port Authority |
-| 2026-09-14 | 2026-0847 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Federal Court of Appeal, and a Judge ex officio of the Federal Court. |
-| 2026-09-14 | 2026-0846 | JUS | Other Than Statutory Authority | Appointment of a puisne Judge of the Court of Appeal of Quebec |
-| 2026-09-14 | 2026-0845 | IT | Canadian Commercial Corporation Act | Reappointment of the Chairperson of the Board of Directors of the Canadian Commercial Corporation |
+| 2026-09-25 | 2026-0875 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the United Arab Emirates |
+| 2026-09-25 | 2026-0874 | PMO | Parliament of Canada Act | Appointment of two Parliamentary Secretaries |
+| 2026-09-25 | 2026-0873 | HC, PHAC | Quarantine Act | Minimizing the Risk of Exposure to Ebola Disease in Canada Order, 2026, No. 3 |
+| 2026-09-25 | 2026-0872 | JUS | Yukon Act | Order Appointing the Hon. Keith D. Yamauchi, to be deputy judge of the Supreme Court of Yukon |
+| 2026-09-25 | 2026-0871 | PSPC | National Capital Act | Order Authorizing the National Capital Commission to Grant an Easement to the City of Ottawa (the City) ***NCC*** |
+| 2026-09-25 | 2026-0870 | PS, RCMP | Firearms Act | Authority to Enter into Contribution Agreements |
+| 2026-09-25 | 2026-0869 | ISED, NRC | National Research Council Act Canada Business Corporations Act | Order Authorizing the Incorporation of a Corporation under the Canada Business Corporations Act |
+| 2026-09-25 | 2026-0868 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of Romania on the Protection of Classified Information ** Agreement ** |
+| 2026-09-25 | 2026-0867 | NRCAN | Financial Administration Act | Order in Council Directing that the Annual Report of the Canadian Nuclear Safety Commission and the Annual Report of the Canada Energy Regulator Board of Directors Be Discontinued |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 756]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 778]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "Orders" 0 --> 81
-    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 7, 0]
+    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 9, 0]
     line [5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0]
-    line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 3, 0]
+    line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 5, 0]
     line [1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0]
     line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 0]
     line [1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 6, 0]
-    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 25, 1]
+    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 43, 1]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

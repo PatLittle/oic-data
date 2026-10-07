@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-10-01
-**Last checked:** 2026-10-06 15:05 UTC
+**Last checked:** 2026-10-07 15:31 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.

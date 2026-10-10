@@ -1,5 +1,5 @@
 {
-  "html": "<tr><td><a title=\"Link to attachment for 2026-0924\" href=\"attachment.php?attach=49088&amp;lang=en\">2026-0924</a><br></td><td>2026-09-28</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>PMO</td><td>Public Service Rearrangement and Transfer of Duties Act</td><td>Order Transferring from the Treasury Board Secretariat to Shared Services Canada the Control and Supervision of the Financial Management Transformation Sector and the Enterprise Resource Planning Solutions Division</td><td>Order Transferring from the Treasury Board Secretariat to Shared Services Canada the Control and Supervision of the Financial Management Transformation Sector and the Enterprise Resource Planning Solutions Division.</td><td aria-label=\"not applicable\">N/A</td></tr>",
+  "html": "<tr><td><a title=\"Link to attachment for 2026-0924\" href=\"attachment.php?attach=49088&amp;lang=en\">2026-0924</a><br></td><td>2026-09-28</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>PMO</td><td>Public Service Rearrangement and Transfer of Duties Act</td><td>Order Transferring from the Treasury Board Secretariat to Shared Services Canada the Control and Supervision of the Financial Management Transformation Sector and the Enterprise Resource Planning Solutions Division</td><td>Order Transferring from the Treasury Board Secretariat to Shared Services Canada the Control and Supervision of the Financial Management Transformation Sector and the Enterprise Resource Planning Solutions Division.</td><td><strong>Registration: </strong>SI/2026-0057  <strong>Publication Date:</strong> 2026-10-07</td></tr>",
   "pcNumber": "2026-0924",
   "date": "2026-09-28",
   "chapter": "",
@@ -9,9 +9,9 @@
   "act": "Public Service Rearrangement and Transfer of Duties Act",
   "subject": "Order Transferring from the Treasury Board Secretariat to Shared Services Canada the Control and Supervision of the Financial Management Transformation Sector and the Enterprise Resource Planning Solutions Division",
   "precis": "Order Transferring from the Treasury Board Secretariat to Shared Services Canada the Control and Supervision of the Financial Management Transformation Sector and the Enterprise Resource Planning Solutions Division.",
-  "registration": "N/A",
+  "registration": "Registration: SI/2026-0057 Publication Date: 2026-10-07",
   "attachments": [
     "49088"
   ],
-  "htmlHash": "0de00995826efb5b8b23d8c264b1e4f4"
+  "htmlHash": "de08b2b71db71aca92787de0dfe69aa3"
 }

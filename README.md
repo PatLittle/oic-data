@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-10-09
-**Last checked:** 2026-10-19 15:33 UTC
+**Latest OIC date:** 2026-10-14
+**Last checked:** 2026-10-20 13:32 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,8 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-10-14 | 2026-0980 | FA | Other Than Statutory Authority | Appointment of the Permanent Representative of Canada to the International Renewable Energy Agency |
+| 2026-10-14 | 2026-0979 | PS | Royal Canadian Mounted Police Act | Reappointment of a Chairperson of the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, on an interim basis |
 | 2026-10-09 | 2026-0978 | FA | Other Than Statutory Authority | Appointment of the Ambassador Extraordinary and Plenipotentiary of Canada to the Republic of Peru, with concurrent accreditation as Ambassador Extraordinary and Plenipotentiary of Canada to the Plurinational State of Bolivia |
 | 2026-10-09 | 2026-0977 | FA | Other Than Statutory Authority | Appointment of the High Commissioner for Canada to the Republic of Rwanda |
 | 2026-10-09 | 2026-0976 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of the Republic of Türkiye on Air Transport ** Agreement ** |
@@ -37,8 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-10-09 | 2026-0973 | PS, RCMP | Royal Canadian Mounted Police Act | Order Appointing John William Matthew Brewer to the rank of Deputy Commissioner of Royal Canadian Mounted Police and designating him to be Commanding Officer of “E” Division, for the Province of British Columbia |
 | 2026-10-09 | 2026-0972 | JUS | Other Than Statutory Authority | Minutes of Council approving the transfer of the Honourable Daniel Royer to the Superior Court of Quebec for the district of Longueuil |
 | 2026-10-09 | 2026-0971 | JUS | Yukon Act | Order Appointing the Hon. Paul R. Jeffrey, to be deputy judge of the Supreme Court of Yukon |
-| 2026-10-09 | 2026-0970 | JUS | Tax Court of Canada Act | Commissioners for Administering Oaths ** Tax Court of Canada ** |
-| 2026-10-09 | 2026-0969 | JUS | Federal Courts Act | Commissioners for Administering Oaths ** Federal Courts ** |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 859]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 861]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "Orders" 0 --> 81
-    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 9]
+    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 10]
     line [5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0]
     line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 6, 3]
     line [1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0]
     line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 10]
     line [1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 8, 0]
-    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 31]
+    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 32]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

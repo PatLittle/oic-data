@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-10-20
-**Last checked:** 2026-10-27 14:23 UTC
+**Latest OIC date:** 2026-10-22
+**Last checked:** 2026-10-28 15:03 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-10-22 | 2026-1001 | IRCC | Immigration and Refugee Protection Act | Regulations Amending the Immigration and Refugee Protection Regulations (Rural Community Immigration) |
 | 2026-10-20 | 2026-1000 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
 | 2026-10-20 | 2026-0999 | TC | Canada Marine Act | Appointment of a director of the Windsor Port Authority |
 | 2026-10-20 | 2026-0998 | TC | Canada Marine Act | Appointment of a director of the Belledune Port Authority |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-10-20 | 2026-0994 | SB&T | Canadian Tourism Commission Act | Appointment of the President of the Canadian Tourism Commission |
 | 2026-10-20 | 2026-0993 | CSA | Canadian Space Agency Act | Appointment of an interim President of the Canadian Space Agency |
 | 2026-10-15 | 2026-0992 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
-| 2026-10-15 | 2026-0991 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, Family Court, and a Judge ex officio of the Court of Appeal for Ontario |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 881]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 882]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -77,7 +77,7 @@ xychart-beta
     line [5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0]
     line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 6, 3]
     line [1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0]
-    line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 14]
+    line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 15]
     line [1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 8, 3]
     line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 41]
 ```

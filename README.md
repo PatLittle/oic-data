@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-10-22
-**Last checked:** 2026-10-28 15:03 UTC
+**Latest OIC date:** 2026-10-23
+**Last checked:** 2026-10-29 15:11 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
-| 2026-10-22 | 2026-1001 | IRCC | Immigration and Refugee Protection Act | Regulations Amending the Immigration and Refugee Protection Regulations (Rural Community Immigration) |
-| 2026-10-20 | 2026-1000 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
-| 2026-10-20 | 2026-0999 | TC | Canada Marine Act | Appointment of a director of the Windsor Port Authority |
-| 2026-10-20 | 2026-0998 | TC | Canada Marine Act | Appointment of a director of the Belledune Port Authority |
-| 2026-10-20 | 2026-0997 | IRCC | Immigration and Refugee Protection Act | Appointment of a full-time member of the Immigration and Refugee Board (Ottawa District Office) |
-| 2026-10-20 | 2026-0996 | PS | Corrections and Conditional Release Act | Appointment of a part-time member of the Ontario Regional Division of the Parole Board of Canada |
-| 2026-10-20 | 2026-0995 | PS | Royal Canadian Mounted Police Act | Reappointment of a part-time member of the Management Advisory Board for the Royal Canadian Mounted Police |
-| 2026-10-20 | 2026-0994 | SB&T | Canadian Tourism Commission Act | Appointment of the President of the Canadian Tourism Commission |
-| 2026-10-20 | 2026-0993 | CSA | Canadian Space Agency Act | Appointment of an interim President of the Canadian Space Agency |
-| 2026-10-15 | 2026-0992 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
+| 2026-10-23 | 2026-1029 | INFC | Financial Administration Act | Order authorizing corporate actions for the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. |
+| 2026-10-23 | 2026-1028 | INFC | Build Canada Homes Act | Order directing the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. to Build Canada Homes Holdings Inc. |
+| 2026-10-23 | 2026-1027 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada, and the European Union, and the European Atomic Energy Community on the Establishment and the Privileges and Immunities of the Delegation of the European Union in Canada ** Agreement ** |
+| 2026-10-23 | 2026-1026 | JUS | Judges Act | Order authorizing the leave of absence of the Honourable Robin Y. Tremblay |
+| 2026-10-23 | 2026-1025 | JUS | Northwest Territories Act | Order Appointing the Honourable Maureen J. McGuire, to be deputy judge of the Supreme Court of the Northwest Territories |
+| 2026-10-23 | 2026-1024 | JUS | Northwest Territories Act | Order appointing the Honourable Sadie Bond, to be deputy judge of the Supreme Court of the Northwest Territories |
+| 2026-10-23 | 2026-1023 | JUS | Other Than Statutory Authority | Minute of Council approving the transfer of the Honourable Nicola Edmundson to the Superior Court of Justice of Ontario |
+| 2026-10-23 | 2026-1022 | ISC | Indian Act | Order Granting a Section 35 Easement, Saulteaux Indian Reserve No. 159G, Saskatchewan |
+| 2026-10-23 | 2026-1021 | TBS | Constitution Act, 1867 | Supplementary Estimates (B), 2026-27 ** Tabling ** |
+| 2026-10-23 | 2026-1020 | PS, EMCR | Emergency Management Act | Provincial Emergency Financial Assistance Order No. 300, British Columbia |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 882]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 910]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "Orders" 0 --> 81
-    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 14]
+    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 17]
     line [5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0]
-    line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 6, 3]
+    line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 6, 5]
     line [1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0]
-    line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 15]
+    line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 18]
     line [1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 8, 3]
-    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 41]
+    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 61]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

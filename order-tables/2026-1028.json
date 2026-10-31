@@ -1,17 +1,17 @@
 {
-  "html": "<tr><td><a title=\"Link to attachment for 2026-1028\" href=\"attachment.php?attach=49224&amp;lang=en&amp;pc-number=2026-1028\">2026-1028</a><br></td><td>2026-10-23</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>INFC</td><td>Build Canada Homes Act</td><td>Order directing the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. to Build Canada Homes Holdings Inc.</td><td>Order directing the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. to Build Canada Homes Holdings Inc. on a tax deferred basis.</td><td aria-label=\"not applicable\">N/A</td></tr>",
+  "html": "<tr><td><a title=\"Link to attachment for 2026-1028\" href=\"attachment.php?attach=49224&amp;lang=en&amp;pc-number=2026-1028\">2026-1028</a><br></td><td>2026-10-23</td><td class=\"\"></td><td class=\"\"></td><td class=\"\"></td><td>INFC</td><td></td><td>Order directing the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. to Build Canada Homes Holdings Inc.</td><td>Order directing the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. to Build Canada Homes Holdings Inc. on a tax deferred basis.</td><td aria-label=\"not applicable\">N/A</td></tr>",
   "pcNumber": "2026-1028",
   "date": "2026-10-23",
   "chapter": "",
   "chapterYear": "",
   "bill": "",
   "department": "INFC",
-  "act": "Build Canada Homes Act",
+  "act": "",
   "subject": "Order directing the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. to Build Canada Homes Holdings Inc.",
   "precis": "Order directing the transfer of all shares of Canada Lands Company CLC Limited and Parc Downsview Park Inc. to Build Canada Homes Holdings Inc. on a tax deferred basis.",
   "registration": "N/A",
   "attachments": [
     "49224"
   ],
-  "htmlHash": "8fe1a33b0c0c54fa57d0cd4d0a5d1b82"
+  "htmlHash": "b1e04f86f2c7af4f1731f423241a99a6"
 }

@@ -2,7 +2,7 @@
 
 <!-- STATUS:START -->
 **Latest OIC date:** 2026-10-30
-**Last checked:** 2026-11-03 16:09 UTC
+**Last checked:** 2026-11-04 16:13 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -30,6 +30,8 @@ The database’s disclaimer _extra applies_ to this dataset:
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
 | 2026-10-30 | 2026-1047 | PPC | Building Canada Act | Order adding Roberts Bank Terminal 2 as a national interest project. |
+| 2026-10-29 | 2026-1046 | PMO | Canadian Tourism Commission Act Department of Public Safety and Emergency Prepareness Act | Order fixing the remuneration and certain conditions of employment for certain positions of the Firearms Classification Technical Advisory Group and of the Canadian Tourism Commission |
+| 2026-10-29 | 2026-1045 | FA | Other Than Statutory Authority | Appointment of the Ambassador and Permanent Delegate of Canada to the United Nations Educational, Scientific and Cultural Organization, in Paris |
 | 2026-10-28 | 2026-1044 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
 | 2026-10-28 | 2026-1043 | JUS | Other Than Statutory Authority | Appointment of a Judge of the Superior Court of Justice of Ontario, and a Judge ex officio of the Court of Appeal for Ontario |
 | 2026-10-28 | 2026-1042 | INTD | International Development Research Centre Act | Appointment of the Chairperson of the Board of Governors of the International Development Research Centre |
@@ -37,8 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-10-28 | 2026-1040 | HC | Canadian Institutes of Health Research Act | Appointment of a member of the Governing Council of the Canadian Institutes of Health Research |
 | 2026-10-28 | 2026-1039 | HC | Canadian Institutes of Health Research Act | Reappointment of a member of the Governing Council of the Canadian Institutes of Health Research |
 | 2026-10-28 | 2026-1038 | TC | Financial Administration Act | Appointment of a director of the board of directors of VIA Rail Canada Inc. |
-| 2026-10-28 | 2026-1037 | TC | Financial Administration Act | Appointment of a director of the board of directors of VIA Rail Canada Inc. |
-| 2026-10-28 | 2026-1036 | TC | Financial Administration Act | Appointment of a director of the Board of Directors of Marine Atlantic Inc. |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 925]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 927]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-11", "2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
     y-axis "Orders" 0 --> 81
-    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 19]
+    line [28, 24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 20]
     line [5, 35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0]
     line [4, 22, 17, 6, 13, 2, 4, 6, 0, 0, 6, 8]
     line [1, 9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0]
     line [2, 0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 18]
     line [1, 1, 0, 3, 3, 0, 3, 12, 0, 0, 8, 3]
-    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 71]
+    line [62, 48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 72]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 

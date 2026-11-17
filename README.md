@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-11-05
-**Last checked:** 2026-11-16 18:26 UTC
+**Latest OIC date:** 2026-11-10
+**Last checked:** 2026-11-17 17:34 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,6 +29,7 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-11-10 | 2026-1080 | PMO | Other Than Statutory Authority | Salary order to Deputy Ministers |
 | 2026-11-05 | 2026-1079 | PCH | Indigenous Languages Act | Appointment of the Commissioner of Indigenous Languages |
 | 2026-11-05 | 2026-1078 | NR | Canada Revenue Agency Act | Appointment of the Chair of the Board of Management of the Canada Revenue Agency |
 | 2026-11-05 | 2026-1077 | PMO | Ministries and Ministers of State Act | Order Assigning the Minister of State (Sport) to be styled Secretary of State (Sport), to assist the Minister of Health in the carrying out of that Minister’s responsibilities. |
@@ -38,7 +39,6 @@ The database’s disclaimer _extra applies_ to this dataset:
 | 2026-11-05 | 2026-1073 | FIN | Customs Tariff | Order Amending the United States Surtax Remission Order (2025) |
 | 2026-11-05 | 2026-1072 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Iran) Regulations |
 | 2026-11-05 | 2026-1071 | GAC | Special Economic Measures Act | Regulations Amending the Special Economic Measures (Russia) Regulations |
-| 2026-10-30 | 2026-1070 | JUS | Supreme Court Act | Appointment of the Registrar of the Supreme Court of Canada |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 959]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 960]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,7 +73,7 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10", "2026-11"]
     y-axis "Orders" 0 --> 89
-    line [24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 24, 0]
+    line [24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 24, 1]
     line [22, 17, 6, 13, 2, 4, 6, 0, 0, 6, 9, 1]
     line [35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0, 0]
     line [9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0, 0]

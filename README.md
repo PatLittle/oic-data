@@ -1,8 +1,8 @@
 # Canadian federal Order in Council data
 
 <!-- STATUS:START -->
-**Latest OIC date:** 2026-11-20
-**Last checked:** 2026-11-26 18:23 UTC
+**Latest OIC date:** 2026-11-23
+**Last checked:** 2026-11-27 18:08 UTC
 <!-- STATUS:END -->
 
 Orders in Council are a key part of Canada’s legal text. They’re a type of delegated legislation, adding additional detail or exercising a specific power from statute or prerogative.
@@ -29,16 +29,16 @@ The database’s disclaimer _extra applies_ to this dataset:
 <!-- RECENT_ORDERS:START -->
 | Date | PC Number | Department | Act | Subject |
 | --- | --- | --- | --- | --- |
+| 2026-11-23 | 2026-1111 | PMO | Other Than Statutory Authority | Salary Order (Public Office Holders) |
+| 2026-11-23 | 2026-1110 | HC, PHAC | Quarantine Act | Minimizing the Risk of Exposure to Ebola Disease in Canada Order, 2026, No. 4 |
+| 2026-11-23 | 2026-1109 | GAC | Other Than Statutory Authority | Agreement between the Government of Canada and the Government of the State of Qatar for the Promotion and Protection of Investments **Signature** |
+| 2026-11-23 | 2026-1108 | ESDC, CEIC | Employment Insurance Act | Regulations Amending the Employment Insurance (Fishing) Regulations |
+| 2026-11-23 | 2026-1107 | ESDC, CEIC | Employment Insurance Act | Regulations Amending the Employment Insurance Regulations |
+| 2026-11-23 | 2026-1106 | ESDC | Fall Economic Statement Implementation Act, 2023 | Order Fixing December 13, 2026 as the Day on Which Division 12 of Part 5 of the Fall Economic Statement Implementation Act, 2023 Comes into Force |
 | 2026-11-20 | 2026-1104 | INFC | Build Canada Homes Act | Order Designating Build Canada Homes as an entity whose operations and activities are eligible to be funded from the Consolidated Revenue Fund |
 | 2026-11-20 | 2026-1103 | INFC | Build Canada Homes Act | Order fixing the day on which this order is made as the day on which section 41 of that Act comes into force |
+| 2026-11-20 | 2026-1102 | JUS | Nunavut Act | Order Appointing the Hon. Christian Lyons, to be deputy judge of the Nunavut Court of Justice |
 | 2026-11-20 | 2026-1101 | INFC | Financial Administration Act | Appointment of Auditor General of the Canada Lands Company Limited for the fiscal year ending on March 31, 2027 |
-| 2026-11-20 | 2026-1100 | TC | Pilotage Act | Atlantic Pilotage Authority's borrowing Limit ** Increase ** |
-| 2026-11-20 | 2026-1099 | GAC | Other Than Statutory Authority | Order authorizing the Minister of Foreign Affairs to take the actions necessary to bring into force for Canada the Agreement between the Government of Canada and the Government of the Republic of Korea on Cooperation in Audiovisual Coproduction |
-| 2026-11-20 | 2026-1098 | JUS | An Act for the Substantive Equality of Canada's Official Languages | Regulations Repealing the C.N.R. Company Exemption Order (Miscellaneous Program) |
-| 2026-11-20 | 2026-1097 | ISED | Weights and Measures Act | Order Amending Schedule IV to the Weights and Measures Act |
-| 2026-11-20 | 2026-1096 | HC | Canada Consumer Product Safety Act | Regulations Amending the Restraint Systems and Booster Seats for Motor Vehicles Regulations |
-| 2026-11-20 | 2026-1095 | DFO | Fisheries Act | Regulations Amending the Marine Mammal Regulations (Southern Resident Killer Whale Approach Distance) |
-| 2026-11-20 | 2026-1094 | ESDC, TB | Employment Equity Act | Regulations Amending the Employment Equity Regulations |
 <!-- RECENT_ORDERS:END -->
 
 ## Charts
@@ -57,7 +57,7 @@ xychart-beta
     title "Orders in Council by Year"
     x-axis ["90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26"]
     y-axis "Orders" 0 --> 2873
-    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 983]
+    line [2873, 2595, 2748, 2223, 2175, 2258, 2086, 2058, 2360, 2287, 1832, 2426, 2240, 2158, 1602, 2341, 1671, 2023, 1958, 2071, 1632, 1726, 1764, 1506, 1496, 1304, 1207, 1743, 1607, 1419, 1124, 1065, 1386, 1276, 1400, 1017, 990]
 ```
 <!-- ORDERS_BY_YEAR:END -->
 
@@ -73,13 +73,13 @@ xychart-beta
     title "Monthly Order Counts by Act (Latest 12 Months)"
     x-axis ["2025-12", "2026-01", "2026-02", "2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10", "2026-11"]
     y-axis "Orders" 0 --> 89
-    line [24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 24, 9]
+    line [24, 5, 6, 31, 29, 10, 36, 18, 17, 20, 24, 11]
     line [22, 17, 6, 13, 2, 4, 6, 0, 0, 6, 9, 2]
     line [35, 7, 9, 1, 11, 16, 3, 0, 1, 0, 0, 1]
     line [9, 1, 2, 10, 0, 8, 4, 9, 6, 2, 0, 0]
     line [0, 3, 10, 6, 6, 2, 4, 0, 0, 0, 18, 0]
     line [1, 0, 3, 3, 0, 3, 12, 0, 0, 8, 4, 0]
-    line [48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 89, 21]
+    line [48, 29, 72, 53, 49, 51, 81, 11, 26, 58, 89, 26]
 ```
 <!-- MONTHLY_ACT_CHART:END -->
 
